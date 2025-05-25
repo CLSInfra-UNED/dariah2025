@@ -1,0 +1,254 @@
+Number of LAND_COVER samples are 562
+
+Prueba de normalidad por grupo=prompt para LAND_COVER_strict_Precision_
+prompt
+chain_of_thought       2.048830e-19
+chain_of_thought_FS    5.064702e-18
+few_shot               2.049059e-20
+one_shot               7.535812e-21
+Name: LAND_COVER_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_Precision_: p-value = 0.21036841456711017
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.170483
+chain_of_thought_FS    0.251244
+few_shot               0.178005
+one_shot               0.167778
+Name: LAND_COVER_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_strict_Recall]
+prompt
+chain_of_thought       1.967404e-19
+chain_of_thought_FS    3.900330e-18
+few_shot               2.049059e-20
+one_shot               6.648207e-21
+Name: LAND_COVER_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_Recall]: p-value = 0.196981106347178
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.169211
+chain_of_thought_FS    0.257463
+few_shot               0.178005
+one_shot               0.173333
+Name: LAND_COVER_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_strict_F1
+prompt
+chain_of_thought       2.558731e-19
+chain_of_thought_FS    5.767838e-18
+few_shot               2.540810e-20
+one_shot               8.885434e-21
+Name: LAND_COVER_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_F1: p-value = 0.1959956158918757
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.167212
+chain_of_thought_FS    0.252026
+few_shot               0.175996
+one_shot               0.168254
+Name: LAND_COVER_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_ent_type_Precision_
+prompt
+chain_of_thought       1.686404e-19
+chain_of_thought_FS    3.321131e-18
+few_shot               1.698148e-20
+one_shot               6.358335e-21
+Name: LAND_COVER_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_Precision_: p-value = 0.20852260845243653
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.180662
+chain_of_thought_FS    0.264925
+few_shot               0.187075
+one_shot               0.176667
+Name: LAND_COVER_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_ent_type_Recall]
+prompt
+chain_of_thought       1.842825e-19
+chain_of_thought_FS    3.442438e-18
+few_shot               1.909788e-20
+one_shot               6.270501e-21
+Name: LAND_COVER_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_Recall]: p-value = 0.20317216616822412
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.178117
+chain_of_thought_FS    0.267413
+few_shot               0.185941
+one_shot               0.181111
+Name: LAND_COVER_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_ent_type_F1
+prompt
+chain_of_thought       2.283174e-19
+chain_of_thought_FS    4.757524e-18
+few_shot               2.269851e-20
+one_shot               8.059129e-21
+Name: LAND_COVER_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_F1: p-value = 0.20012282610317453
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.176590
+chain_of_thought_FS    0.263184
+few_shot               0.184354
+one_shot               0.176444
+Name: LAND_COVER_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_partial_Precision_
+prompt
+chain_of_thought       2.584699e-15
+chain_of_thought_FS    2.587228e-14
+few_shot               5.441292e-17
+one_shot               2.586370e-16
+Name: LAND_COVER_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_Precision_: p-value = 0.20934561973972282
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.267430
+chain_of_thought_FS    0.344527
+few_shot               0.255102
+one_shot               0.265556
+Name: LAND_COVER_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_partial_Recall]
+prompt
+chain_of_thought       2.708588e-15
+chain_of_thought_FS    1.859425e-14
+few_shot               6.117729e-17
+one_shot               2.160596e-16
+Name: LAND_COVER_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_Recall]: p-value = 0.18225603244887134
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.264949
+chain_of_thought_FS    0.348570
+few_shot               0.254252
+one_shot               0.270278
+Name: LAND_COVER_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_partial_F1
+prompt
+chain_of_thought       4.560762e-15
+chain_of_thought_FS    3.713529e-14
+few_shot               8.301071e-17
+one_shot               3.984883e-16
+Name: LAND_COVER_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_F1: p-value = 0.1900849796487509
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.261323
+chain_of_thought_FS    0.342146
+few_shot               0.251118
+one_shot               0.262984
+Name: LAND_COVER_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_exact_Precision_
+prompt
+chain_of_thought       1.872564e-19
+chain_of_thought_FS    5.064702e-18
+few_shot               2.049059e-20
+one_shot               7.535812e-21
+Name: LAND_COVER_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_Precision_: p-value = 0.21543698610320353
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.173028
+chain_of_thought_FS    0.251244
+few_shot               0.178005
+one_shot               0.167778
+Name: LAND_COVER_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_exact_Recall]
+prompt
+chain_of_thought       1.793595e-19
+chain_of_thought_FS    3.900330e-18
+few_shot               2.049059e-20
+one_shot               6.648207e-21
+Name: LAND_COVER_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_Recall]: p-value = 0.2023448890115827
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.171756
+chain_of_thought_FS    0.257463
+few_shot               0.178005
+one_shot               0.173333
+Name: LAND_COVER_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LAND_COVER_exact_F1
+prompt
+chain_of_thought       2.357359e-19
+chain_of_thought_FS    5.767838e-18
+few_shot               2.540810e-20
+one_shot               8.885434e-21
+Name: LAND_COVER_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_F1: p-value = 0.20148275604503973
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: LAND_COVER_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.169756
+chain_of_thought_FS    0.252026
+few_shot               0.175996
+one_shot               0.168254
+Name: LAND_COVER_exact_F1, dtype: float64

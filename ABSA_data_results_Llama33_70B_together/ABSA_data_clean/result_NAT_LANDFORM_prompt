@@ -1,0 +1,278 @@
+Number of NAT_LANDFORM samples are 1486
+
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_Precision_
+
+
+
+prompt
+chain_of_thought    1.193955e-26
+few_shot            1.554953e-26
+one_shot            9.842632e-28
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Precision_: p-value = 0.3719058273687004
+
+Medians of NAT_LANDFORM_strict_Precision_ =prompt
+chain_of_thought    0.333333
+few_shot            0.333333
+one_shot            0.500000
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Mean of NAT_LANDFORM_strict_Precision_ =prompt
+chain_of_thought    0.427301
+few_shot            0.417257
+one_shot            0.455273
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_Recall]
+
+
+
+prompt
+chain_of_thought    4.552420e-26
+few_shot            2.690898e-26
+one_shot            1.596371e-27
+Name: NAT_LANDFORM_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Recall]: p-value = 0.1531017832368492
+
+Medians of NAT_LANDFORM_strict_Recall] =prompt
+chain_of_thought    0.333333
+few_shot            0.250000
+one_shot            0.400000
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Mean of NAT_LANDFORM_strict_Recall] =prompt
+chain_of_thought    0.402146
+few_shot            0.395667
+one_shot            0.446864
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_F1
+
+
+
+prompt
+chain_of_thought    7.875476e-26
+few_shot            7.223564e-26
+one_shot            4.853614e-27
+Name: NAT_LANDFORM_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_F1: p-value = 0.23413860343111237
+
+Medians of NAT_LANDFORM_strict_F1 =prompt
+chain_of_thought    0.333333
+few_shot            0.285714
+one_shot            0.400000
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Mean of NAT_LANDFORM_strict_F1 =prompt
+chain_of_thought    0.409458
+few_shot            0.400659
+one_shot            0.445628
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    5.067493e-27
+few_shot            8.899567e-27
+one_shot            6.653022e-28
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Precision_: p-value = 0.43788801080241413
+
+Medians of NAT_LANDFORM_ent_type_Precision_ =prompt
+chain_of_thought    0.333333
+few_shot            0.333333
+one_shot            0.500000
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Mean of NAT_LANDFORM_ent_type_Precision_ =prompt
+chain_of_thought    0.438650
+few_shot            0.426125
+one_shot            0.461816
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    2.488098e-26
+few_shot            2.018573e-26
+one_shot            1.103656e-27
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Recall]: p-value = 0.1820640351914334
+
+Medians of NAT_LANDFORM_ent_type_Recall] =prompt
+chain_of_thought    0.333333
+few_shot            0.250000
+one_shot            0.500000
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Mean of NAT_LANDFORM_ent_type_Recall] =prompt
+chain_of_thought    0.412007
+few_shot            0.403034
+one_shot            0.453144
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_F1
+
+
+
+prompt
+chain_of_thought    4.044705e-26
+few_shot            5.084976e-26
+one_shot            3.725796e-27
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_F1: p-value = 0.28804243214896824
+
+Medians of NAT_LANDFORM_ent_type_F1 =prompt
+chain_of_thought    0.333333
+few_shot            0.285714
+one_shot            0.400000
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Mean of NAT_LANDFORM_ent_type_F1 =prompt
+chain_of_thought    0.419733
+few_shot            0.408453
+one_shot            0.451636
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_Precision_
+
+
+
+prompt
+chain_of_thought    1.313649e-25
+few_shot            3.308050e-25
+one_shot            2.448594e-27
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Precision_: p-value = 0.6531077710850627
+
+Medians of NAT_LANDFORM_partial_Precision_ =prompt
+chain_of_thought    0.666667
+few_shot            0.562500
+one_shot            0.750000
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Mean of NAT_LANDFORM_partial_Precision_ =prompt
+chain_of_thought    0.568312
+few_shot            0.573446
+one_shot            0.588522
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_Recall]
+
+
+
+prompt
+chain_of_thought    6.917286e-24
+few_shot            1.083868e-23
+one_shot            1.321669e-26
+Name: NAT_LANDFORM_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Recall]: p-value = 0.12335662624431444
+
+Medians of NAT_LANDFORM_partial_Recall] =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Mean of NAT_LANDFORM_partial_Recall] =prompt
+chain_of_thought    0.526311
+few_shot            0.534920
+one_shot            0.574549
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_F1
+
+
+
+prompt
+chain_of_thought    1.010614e-23
+few_shot            3.380032e-23
+one_shot            6.822056e-26
+Name: NAT_LANDFORM_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_F1: p-value = 0.2921864523661875
+
+Medians of NAT_LANDFORM_partial_F1 =prompt
+chain_of_thought    0.600000
+few_shot            0.500000
+one_shot            0.666667
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Mean of NAT_LANDFORM_partial_F1 =prompt
+chain_of_thought    0.537388
+few_shot            0.542509
+one_shot            0.571496
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_Precision_
+
+
+
+prompt
+chain_of_thought    2.032957e-28
+few_shot            1.737564e-28
+one_shot            6.437858e-30
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Precision_: p-value = 0.4416127888114645
+
+Medians of NAT_LANDFORM_exact_Precision_ =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Mean of NAT_LANDFORM_exact_Precision_ =prompt
+chain_of_thought    0.478326
+few_shot            0.477648
+one_shot            0.509975
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_Recall]
+
+
+
+prompt
+chain_of_thought    3.600703e-27
+few_shot            1.893705e-27
+one_shot            2.667585e-29
+Name: NAT_LANDFORM_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Recall]: p-value = 0.11809515074120097
+
+Medians of NAT_LANDFORM_exact_Recall] =prompt
+chain_of_thought    0.333333
+few_shot            0.333333
+one_shot            0.500000
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Mean of NAT_LANDFORM_exact_Recall] =prompt
+chain_of_thought    0.443773
+few_shot            0.443861
+one_shot            0.496876
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_F1
+
+
+
+prompt
+chain_of_thought    4.185620e-27
+few_shot            3.583462e-27
+one_shot            6.926833e-29
+Name: NAT_LANDFORM_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_F1: p-value = 0.2101570006225245
+
+Medians of NAT_LANDFORM_exact_F1 =prompt
+chain_of_thought    0.4
+few_shot            0.4
+one_shot            0.5
+Name: NAT_LANDFORM_exact_F1, dtype: float64
+Mean of NAT_LANDFORM_exact_F1 =prompt
+chain_of_thought    0.453780
+few_shot            0.452050
+one_shot            0.496386
+Name: NAT_LANDFORM_exact_F1, dtype: float64

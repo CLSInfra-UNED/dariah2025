@@ -1,0 +1,242 @@
+Number of LOCATION samples are 2943
+
+Prueba de normalidad por grupo=Century para LOCATION_strict_Precision_
+Century
+18    1.859894e-32
+19    2.763839e-35
+20    1.401298e-45
+Name: LOCATION_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Precision_: p-value = 0.018415013760120967
+
+Medians=Century
+18    0.500
+19    1.000
+20    0.875
+Name: LOCATION_strict_Precision_, dtype: float64
+Mean=Century
+18    0.503590
+19    0.559872
+20    0.567007
+Name: LOCATION_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.00598401977547526, : Stat, 525668.5
+Comparación 20 vs 19: p-value = 0.8375735026728697, : Stat, 592122.0
+Comparación 18 vs 19: p-value = 0.026695384439636774, : Stat, 237266.0
+Prueba de normalidad por grupo=Century para LOCATION_strict_Recall]
+Century
+18    1.506282e-33
+19    2.186662e-34
+20    1.401298e-45
+Name: LOCATION_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Recall]: p-value = 0.3961538570897395
+
+Medians=Century
+18    0.750000
+19    0.666667
+20    0.818182
+Name: LOCATION_strict_Recall], dtype: float64
+Mean=Century
+18    0.528333
+19    0.545328
+20    0.560505
+Name: LOCATION_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_strict_F1
+Century
+18    2.074570e-32
+19    5.533079e-34
+20    7.006492e-45
+Name: LOCATION_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_F1: p-value = 0.13370820136830383
+
+Medians=Century
+18    0.666667
+19    0.666667
+20    0.750000
+Name: LOCATION_strict_F1, dtype: float64
+Mean=Century
+18    0.510253
+19    0.545387
+20    0.558410
+Name: LOCATION_strict_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_Precision_
+Century
+18    1.310642e-32
+19    9.221396e-36
+20    0.000000e+00
+Name: LOCATION_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Precision_: p-value = 0.005596501910605827
+
+Medians=Century
+18    0.5
+19    1.0
+20    1.0
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.506667
+19    0.568959
+20    0.579325
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.001619908323231675, : Stat, 530256.0
+Comparación 20 vs 19: p-value = 0.7334299906304949, : Stat, 593917.5
+Comparación 18 vs 19: p-value = 0.01398717014537982, : Stat, 235659.5
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_Recall]
+Century
+18    9.836686e-34
+19    6.596495e-35
+20    0.000000e+00
+Name: LOCATION_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Recall]: p-value = 0.3266921164471843
+
+Medians=Century
+18    1.000000
+19    0.666667
+20    1.000000
+Name: LOCATION_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.531667
+19    0.554713
+20    0.569623
+Name: LOCATION_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_F1
+Century
+18    1.413698e-32
+19    1.919694e-34
+20    1.401298e-45
+Name: LOCATION_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_F1: p-value = 0.08119898545515118
+
+Medians=Century
+18    0.666667
+19    0.666667
+20    0.800000
+Name: LOCATION_ent_type_F1, dtype: float64
+Mean=Century
+18    0.513425
+19    0.554324
+20    0.568315
+Name: LOCATION_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_partial_Precision_
+Century
+18    2.284525e-32
+19    2.907744e-35
+20    2.802597e-45
+Name: LOCATION_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Precision_: p-value = 1.1718189434345228e-05
+
+Medians=Century
+18    0.666667
+19    1.000000
+20    1.000000
+Name: LOCATION_partial_Precision_, dtype: float64
+Mean=Century
+18    0.535833
+19    0.617581
+20    0.650762
+Name: LOCATION_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 1.6475421445533167e-06, : Stat, 550600.0
+Comparación 20 vs 19: p-value = 0.23866333477652724, : Stat, 605347.5
+Comparación 18 vs 19: p-value = 0.0019546552973100056, : Stat, 231081.0
+Prueba de normalidad por grupo=Century para LOCATION_partial_Recall]
+Century
+18    9.402563e-34
+19    3.417863e-34
+20    1.261169e-44
+Name: LOCATION_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Recall]: p-value = 0.01123323817297248
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_partial_Recall], dtype: float64
+Mean=Century
+18    0.566026
+19    0.602180
+20    0.645959
+Name: LOCATION_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005980359795645299, : Stat, 525607.0
+Comparación 20 vs 19: p-value = 0.0472713072845976, : Stat, 616545.5
+Comparación 18 vs 19: p-value = 0.38972522226183937, : Stat, 246818.0
+Prueba de normalidad por grupo=Century para LOCATION_partial_F1
+Century
+18    2.361536e-32
+19    1.012109e-33
+20    7.847271e-44
+Name: LOCATION_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_F1: p-value = 0.0008241407682929651
+
+Medians=Century
+18    0.666667
+19    0.800000
+20    0.916667
+Name: LOCATION_partial_F1, dtype: float64
+Mean=Century
+18    0.544037
+19    0.601788
+20    0.641343
+Name: LOCATION_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.00018352669246044786, : Stat, 538557.5
+Comparación 20 vs 19: p-value = 0.08408306188722024, : Stat, 613406.0
+Comparación 18 vs 19: p-value = 0.06947956993433, : Stat, 239860.0
+Prueba de normalidad por grupo=Century para LOCATION_exact_Precision_
+Century
+18    4.973550e-33
+19    2.750245e-36
+20    0.000000e+00
+Name: LOCATION_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Precision_: p-value = 0.008571410290300742
+
+Medians=Century
+18    0.5
+19    1.0
+20    1.0
+Name: LOCATION_exact_Precision_, dtype: float64
+Mean=Century
+18    0.517821
+19    0.576936
+20    0.589071
+Name: LOCATION_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.002557177335576143, : Stat, 528299.5
+Comparación 20 vs 19: p-value = 0.7554745485167783, : Stat, 593486.0
+Comparación 18 vs 19: p-value = 0.018131915745814742, : Stat, 236477.0
+Prueba de normalidad por grupo=Century para LOCATION_exact_Recall]
+Century
+18    2.461050e-34
+19    2.719285e-35
+20    0.000000e+00
+Name: LOCATION_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Recall]: p-value = 0.3499631767693789
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_exact_Recall], dtype: float64
+Mean=Century
+18    0.545128
+19    0.561489
+20    0.580981
+Name: LOCATION_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_exact_F1
+Century
+18    4.976795e-33
+19    6.483340e-35
+20    0.000000e+00
+Name: LOCATION_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_F1: p-value = 0.09312809307031097
+
+Medians=Century
+18    0.666667
+19    0.800000
+20    0.909091
+Name: LOCATION_exact_F1, dtype: float64
+Mean=Century
+18    0.525253
+19    0.561686
+20    0.579268
+Name: LOCATION_exact_F1, dtype: float64

@@ -1,0 +1,254 @@
+Number of WEATHER samples are 944
+
+Prueba de normalidad por grupo=prompt para WEATHER_strict_Precision_
+prompt
+chain_of_thought       4.268358e-22
+chain_of_thought_FS    3.012965e-23
+few_shot               3.651394e-22
+one_shot               2.579459e-23
+Name: WEATHER_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_Precision_: p-value = 0.6426724800169814
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.282920
+chain_of_thought_FS    0.256106
+few_shot               0.266517
+one_shot               0.250806
+Name: WEATHER_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_strict_Recall]
+prompt
+chain_of_thought       6.906608e-22
+chain_of_thought_FS    5.461974e-23
+few_shot               5.350232e-22
+one_shot               4.384736e-23
+Name: WEATHER_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_Recall]: p-value = 0.5136791337581454
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.286501
+chain_of_thought_FS    0.239583
+few_shot               0.256006
+one_shot               0.253360
+Name: WEATHER_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_strict_F1
+prompt
+chain_of_thought       1.352903e-21
+chain_of_thought_FS    7.517313e-23
+few_shot               9.229654e-22
+one_shot               6.177568e-23
+Name: WEATHER_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_F1: p-value = 0.6063812320831141
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.277407
+chain_of_thought_FS    0.241482
+few_shot               0.254140
+one_shot               0.246246
+Name: WEATHER_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_ent_type_Precision_
+prompt
+chain_of_thought       3.305415e-22
+chain_of_thought_FS    2.143493e-23
+few_shot               3.370799e-22
+one_shot               1.729562e-23
+Name: WEATHER_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_Precision_: p-value = 0.6467998206264909
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.303099
+chain_of_thought_FS    0.269397
+few_shot               0.280030
+one_shot               0.272513
+Name: WEATHER_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_ent_type_Recall]
+prompt
+chain_of_thought       2.557718e-22
+chain_of_thought_FS    3.550161e-23
+few_shot               4.379197e-22
+one_shot               1.851893e-23
+Name: WEATHER_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_Recall]: p-value = 0.4377663125248227
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.315083
+chain_of_thought_FS    0.255388
+few_shot               0.270646
+one_shot               0.280578
+Name: WEATHER_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_ent_type_F1
+prompt
+chain_of_thought       8.708161e-22
+chain_of_thought_FS    5.688305e-23
+few_shot               8.928305e-22
+one_shot               3.762247e-23
+Name: WEATHER_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_F1: p-value = 0.5788270546612129
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.300085
+chain_of_thought_FS    0.255316
+few_shot               0.267267
+one_shot               0.269489
+Name: WEATHER_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_partial_Precision_
+prompt
+chain_of_thought       2.549243e-18
+chain_of_thought_FS    1.032171e-17
+few_shot               8.844017e-17
+one_shot               8.296566e-19
+Name: WEATHER_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_Precision_: p-value = 0.7947951754944853
+
+Medians=prompt
+chain_of_thought       0.225000
+chain_of_thought_FS    0.250000
+few_shot               0.250000
+one_shot               0.083333
+Name: WEATHER_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.365272
+chain_of_thought_FS    0.366164
+few_shot               0.377965
+one_shot               0.345488
+Name: WEATHER_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_partial_Recall]
+prompt
+chain_of_thought       5.439124e-18
+chain_of_thought_FS    2.936437e-17
+few_shot               1.853192e-16
+one_shot               1.649454e-18
+Name: WEATHER_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_Recall]: p-value = 0.8642037286843405
+
+Medians=prompt
+chain_of_thought       0.250000
+chain_of_thought_FS    0.250000
+few_shot               0.291667
+one_shot               0.125000
+Name: WEATHER_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.378099
+chain_of_thought_FS    0.349677
+few_shot               0.375751
+one_shot               0.358703
+Name: WEATHER_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_partial_F1
+prompt
+chain_of_thought       1.816205e-17
+chain_of_thought_FS    5.737137e-17
+few_shot               5.906712e-16
+one_shot               3.885639e-18
+Name: WEATHER_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_F1: p-value = 0.8763912116180185
+
+Medians=prompt
+chain_of_thought       0.267857
+chain_of_thought_FS    0.267857
+few_shot               0.333333
+one_shot               0.125000
+Name: WEATHER_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.360073
+chain_of_thought_FS    0.346555
+few_shot               0.364750
+one_shot               0.342406
+Name: WEATHER_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_exact_Precision_
+prompt
+chain_of_thought       4.093762e-22
+chain_of_thought_FS    3.012965e-23
+few_shot               4.014292e-22
+one_shot               2.754968e-23
+Name: WEATHER_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_Precision_: p-value = 0.6348730921786871
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.285675
+chain_of_thought_FS    0.256106
+few_shot               0.268018
+one_shot               0.254839
+Name: WEATHER_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_exact_Recall]
+prompt
+chain_of_thought       7.360004e-22
+chain_of_thought_FS    5.461974e-23
+few_shot               5.147687e-22
+one_shot               4.117248e-23
+Name: WEATHER_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_Recall]: p-value = 0.519586152780783
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.287534
+chain_of_thought_FS    0.239583
+few_shot               0.258634
+one_shot               0.258401
+Name: WEATHER_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para WEATHER_exact_F1
+prompt
+chain_of_thought       1.438653e-21
+chain_of_thought_FS    7.517313e-23
+few_shot               9.919967e-22
+one_shot               6.427649e-23
+Name: WEATHER_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_F1: p-value = 0.608234916286662
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: WEATHER_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.278981
+chain_of_thought_FS    0.241482
+few_shot               0.255856
+one_shot               0.250470
+Name: WEATHER_exact_F1, dtype: float64

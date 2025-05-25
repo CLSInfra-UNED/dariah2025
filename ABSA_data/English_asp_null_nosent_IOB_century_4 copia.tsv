@@ -1,0 +1,8 @@
+Century	text	_sentence_text	annotation	aspect_cat	results	sentence_split	iob
+20	['Weber, Max', 'Weber, Max', 'Station']	"Author: Weber, Max,
+Title: Weber, Max,
+Language: Dutch
+Station 211 ."	['ASPECT', 'ASPECT', 'ASPECT']	['PERSON', 'PERSON', 'HUM_LANDFORM']	(['Author', 'Weber', ',', 'Max', ',', 'Title', 'Weber', ',', 'Max', ',', 'Language', 'Dutch', 'Station', '211', '.'], ['O', 'B-PERSON', 'I-PERSON', 'I-PERSON', 'O', 'O', 'B-PERSON', 'I-PERSON', 'I-PERSON', 'O', 'O', 'O', 'B-HUM_LANDFORM', 'O', 'O'])	['Author', 'Weber', ',', 'Max', ',', 'Title', 'Weber', ',', 'Max', ',', 'Language', 'Dutch', 'Station', '211', '.']	['O', 'B-PERSON', 'I-PERSON', 'I-PERSON', 'O', 'O', 'B-PERSON', 'I-PERSON', 'I-PERSON', 'O', 'O', 'O', 'B-HUM_LANDFORM', 'O', 'O']
+20	['B. arenosa Goodsir']	It is very closely allied to B. arenosa Goodsir .	['ASPECT']	['FAUNA']	(['It', 'is', 'very', 'closely', 'allied', 'to', 'B', '.', 'arenosa', 'Goodsir', '.'], ['O', 'O', 'O', 'O', 'O', 'O', 'B-FAUNA', 'I-FAUNA', 'I-FAUNA', 'I-FAUNA', 'O'])	['It', 'is', 'very', 'closely', 'allied', 'to', 'B', '.', 'arenosa', 'Goodsir', '.']	['O', 'O', 'O', 'O', 'O', 'O', 'B-FAUNA', 'I-FAUNA', 'I-FAUNA', 'I-FAUNA', 'O']
+20	['Plankton']	Plankton .	['ASPECT']	['FAUNA']	(['Plankton', '.'], ['B-FAUNA', 'O'])	['Plankton', '.']	['B-FAUNA', 'O']
+20	['Plankton']	Plankton .	['ASPECT']	['FAUNA']	(['Plankton', '.'], ['B-FAUNA', 'O'])	['Plankton', '.']	['B-FAUNA', 'O']

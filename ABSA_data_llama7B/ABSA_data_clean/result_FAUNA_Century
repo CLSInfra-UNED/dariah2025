@@ -1,0 +1,266 @@
+Number of FAUNA samples are 1165
+
+Prueba de normalidad por grupo=Century para FAUNA_strict_Precision_
+Century
+18    2.977853e-27
+19    1.546589e-23
+20    6.439062e-32
+Name: FAUNA_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_Precision_: p-value = 0.0023206999076513723
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: FAUNA_strict_Precision_, dtype: float64
+Mean=Century
+18    0.654918
+19    0.684000
+20    0.572092
+Name: FAUNA_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.011324900314141493, : Stat, 91876.5
+Comparación 20 vs 19: p-value = 0.001963214916298972, : Stat, 60550.0
+Comparación 18 vs 19: p-value = 0.39005983749936923, : Stat, 44187.5
+Prueba de normalidad por grupo=Century para FAUNA_strict_Recall]
+Century
+18    2.833122e-24
+19    2.071623e-22
+20    5.303255e-30
+Name: FAUNA_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_Recall]: p-value = 0.001052695175472956
+
+Medians=Century
+18    1.000000
+19    1.000000
+20    0.666667
+Name: FAUNA_strict_Recall], dtype: float64
+Mean=Century
+18    0.599987
+19    0.663467
+20    0.534532
+Name: FAUNA_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.06154226054374417, : Stat, 93781.5
+Comparación 20 vs 19: p-value = 0.0003188259690275323, : Stat, 58827.0
+Comparación 18 vs 19: p-value = 0.0418772447508225, : Stat, 41789.5
+Prueba de normalidad por grupo=Century para FAUNA_strict_F1
+Century
+18    1.392978e-24
+19    1.074380e-22
+20    3.802806e-30
+Name: FAUNA_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_F1: p-value = 0.0007403324212915444
+
+Medians=Century
+18    0.861538
+19    1.000000
+20    0.666667
+Name: FAUNA_strict_F1, dtype: float64
+Mean=Century
+18    0.615553
+19    0.671022
+20    0.545588
+Name: FAUNA_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.07428629474967605, : Stat, 94055.0
+Comparación 20 vs 19: p-value = 0.00020039043598509538, : Stat, 58471.5
+Comparación 18 vs 19: p-value = 0.02745793418308251, : Stat, 41438.0
+Prueba de normalidad por grupo=Century para FAUNA_ent_type_Precision_
+Century
+18    9.328123e-28
+19    2.592908e-24
+20    2.131669e-32
+Name: FAUNA_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_Precision_: p-value = 0.0014454790632870169
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: FAUNA_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.664481
+19    0.700000
+20    0.581239
+Name: FAUNA_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.01243500017945483, : Stat, 92106.0
+Comparación 20 vs 19: p-value = 0.0010296437216783278, : Stat, 60212.5
+Comparación 18 vs 19: p-value = 0.2723705136622644, : Stat, 43800.0
+Prueba de normalidad por grupo=Century para FAUNA_ent_type_Recall]
+Century
+18    9.439869e-25
+19    3.473541e-23
+20    2.241286e-30
+Name: FAUNA_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_Recall]: p-value = 0.0004330051728280045
+
+Medians=Century
+18    1.000000
+19    1.000000
+20    0.666667
+Name: FAUNA_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.609550
+19    0.679467
+20    0.542198
+Name: FAUNA_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.05813121612399935, : Stat, 93742.5
+Comparación 20 vs 19: p-value = 0.00012516207432189372, : Stat, 58297.5
+Comparación 18 vs 19: p-value = 0.022976141068447517, : Stat, 41386.0
+Prueba de normalidad por grupo=Century para FAUNA_ent_type_F1
+Century
+18    4.144221e-25
+19    1.735653e-23
+20    1.545135e-30
+Name: FAUNA_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_F1: p-value = 0.00023645292363198538
+
+Medians=Century
+18    1.0
+19    1.0
+20    0.8
+Name: FAUNA_ent_type_F1, dtype: float64
+Mean=Century
+18    0.625116
+19    0.687022
+20    0.553522
+Name: FAUNA_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.06984754962616037, : Stat, 94001.5
+Comparación 20 vs 19: p-value = 6.34273552452295e-05, : Stat, 57820.0
+Comparación 18 vs 19: p-value = 0.011768273969603622, : Stat, 40891.5
+Prueba de normalidad por grupo=Century para FAUNA_partial_Precision_
+Century
+18    9.845503e-27
+19    3.013623e-23
+20    1.047291e-29
+Name: FAUNA_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_Precision_: p-value = 0.030343906221512687
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: FAUNA_partial_Precision_, dtype: float64
+Mean=Century
+18    0.698429
+19    0.720000
+20    0.649623
+Name: FAUNA_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.06811960962200712, : Stat, 94155.0
+Comparación 20 vs 19: p-value = 0.016509421688670343, : Stat, 62236.5
+Comparación 18 vs 19: p-value = 0.4340007792935324, : Stat, 44314.5
+Prueba de normalidad por grupo=Century para FAUNA_partial_Recall]
+Century
+18    1.309341e-23
+19    5.069287e-22
+20    2.292879e-27
+Name: FAUNA_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_Recall]: p-value = 0.017373790632043928
+
+Medians=Century
+18    1.000000
+19    1.000000
+20    0.666667
+Name: FAUNA_partial_Recall], dtype: float64
+Mean=Century
+18    0.641995
+19    0.693467
+20    0.614488
+Name: FAUNA_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.32748748656567594, : Stat, 96908.0
+Comparación 20 vs 19: p-value = 0.004778270759684733, : Stat, 60794.0
+Comparación 18 vs 19: p-value = 0.054827420599248056, : Stat, 41988.0
+Prueba de normalidad por grupo=Century para FAUNA_partial_F1
+Century
+18    8.001191e-24
+19    2.685706e-22
+20    2.550814e-27
+Name: FAUNA_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_F1: p-value = 0.007989874595415248
+
+Medians=Century
+18    0.923077
+19    1.000000
+20    0.800000
+Name: FAUNA_partial_F1, dtype: float64
+Mean=Century
+18    0.657737
+19    0.702356
+20    0.622112
+Name: FAUNA_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.24604351214766385, : Stat, 96220.0
+Comparación 20 vs 19: p-value = 0.0026582908365289466, : Stat, 60252.0
+Comparación 18 vs 19: p-value = 0.028876286242000573, : Stat, 41440.0
+Prueba de normalidad por grupo=Century para FAUNA_exact_Precision_
+Century
+18    2.458910e-27
+19    1.546589e-23
+20    4.659764e-32
+Name: FAUNA_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_Precision_: p-value = 0.0032514874323751847
+
+Medians=Century
+18    1.0
+19    1.0
+20    1.0
+Name: FAUNA_exact_Precision_, dtype: float64
+Mean=Century
+18    0.656421
+19    0.684000
+20    0.575007
+Name: FAUNA_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.013360451035115399, : Stat, 92100.0
+Comparación 20 vs 19: p-value = 0.0026866938421914004, : Stat, 60816.5
+Comparación 18 vs 19: p-value = 0.41522133017977836, : Stat, 44271.0
+Prueba de normalidad por grupo=Century para FAUNA_exact_Recall]
+Century
+18    1.959886e-24
+19    2.071623e-22
+20    3.829731e-30
+Name: FAUNA_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_Recall]: p-value = 0.0014976655208984453
+
+Medians=Century
+18    1.000000
+19    1.000000
+20    0.666667
+Name: FAUNA_exact_Recall], dtype: float64
+Mean=Century
+18    0.602036
+19    0.663467
+20    0.537568
+Name: FAUNA_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.061624788259130606, : Stat, 93802.0
+Comparación 20 vs 19: p-value = 0.00046218527542991753, : Stat, 59110.5
+Comparación 18 vs 19: p-value = 0.055377039314531924, : Stat, 42031.0
+Prueba de normalidad por grupo=Century para FAUNA_exact_F1
+Century
+18    1.117752e-24
+19    1.074380e-22
+20    2.707303e-30
+Name: FAUNA_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_F1: p-value = 0.0010905983000243792
+
+Medians=Century
+18    0.923077
+19    1.000000
+20    0.750000
+Name: FAUNA_exact_F1, dtype: float64
+Mean=Century
+18    0.617277
+19    0.671022
+20    0.548551
+Name: FAUNA_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.08398222966854611, : Stat, 94270.0
+Comparación 20 vs 19: p-value = 0.00029655844273990056, : Stat, 58763.0
+Comparación 18 vs 19: p-value = 0.0312885490037932, : Stat, 41542.5

@@ -1,0 +1,290 @@
+Number of HUM_LANDFORM samples are 2049
+
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_Precision_
+
+
+
+Century
+18    6.700743e-24
+19    4.412720e-34
+20    5.194113e-38
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Precision_: p-value = 0.339904573374593
+
+Medians of HUM_LANDFORM_strict_Precision_ =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Mean of HUM_LANDFORM_strict_Precision_ =Century
+18    0.437760
+19    0.452066
+20    0.417811
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_Recall]
+
+
+
+Century
+18    3.336337e-23
+19    2.849466e-32
+20    1.223758e-37
+Name: HUM_LANDFORM_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Recall]: p-value = 0.744586099342655
+
+Medians of HUM_LANDFORM_strict_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Mean of HUM_LANDFORM_strict_Recall] =Century
+18    0.420656
+19    0.379986
+20    0.406293
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_F1
+
+
+
+Century
+18    9.326131e-23
+19    1.330279e-31
+20    2.966745e-36
+Name: HUM_LANDFORM_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_F1: p-value = 0.7610658358087438
+
+Medians of HUM_LANDFORM_strict_F1 =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Mean of HUM_LANDFORM_strict_F1 =Century
+18    0.418306
+19    0.399314
+20    0.396223
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_Precision_
+
+
+
+Century
+18    4.925290e-24
+19    9.151958e-35
+20    2.155488e-38
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Precision_: p-value = 0.2412122345465182
+
+Medians of HUM_LANDFORM_ent_type_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Mean of HUM_LANDFORM_ent_type_Precision_ =Century
+18    0.440219
+19    0.468237
+20    0.427811
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_Recall]
+
+
+
+Century
+18    3.158042e-23
+19    1.333918e-32
+20    4.051403e-38
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Recall]: p-value = 0.8254593567142886
+
+Medians of HUM_LANDFORM_ent_type_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Mean of HUM_LANDFORM_ent_type_Recall] =Century
+18    0.422131
+19    0.391947
+20    0.418078
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_F1
+
+
+
+Century
+18    8.331219e-23
+19    5.270246e-32
+20    1.192847e-36
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_F1: p-value = 0.8508951833277172
+
+Medians of HUM_LANDFORM_ent_type_F1 =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Mean of HUM_LANDFORM_ent_type_F1 =Century
+18    0.420180
+19    0.412147
+20    0.406592
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_Precision_
+
+
+
+Century
+18    1.638743e-22
+19    3.972736e-33
+20    6.452252e-36
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Precision_: p-value = 0.010686322943467014
+
+Medians of HUM_LANDFORM_partial_Precision_ =Century
+18    0.500000
+19    0.645833
+20    0.500000
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Mean of HUM_LANDFORM_partial_Precision_ =Century
+18    0.482432
+19    0.543685
+20    0.477318
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.8367445830699065, : Stat, 148363.0
+
+Comparación 20 vs 19: p-value = 0.003068322410920205, : Stat, 345501.0
+
+Comparación 18 vs 19: p-value = 0.08220406955214124, : Stat, 109171.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.138128  0.780739
+19  0.138128  1.000000  0.010184
+20  0.780739  0.010184  1.000000 
+
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_Recall]
+
+
+
+Century
+18    1.036708e-21
+19    1.829698e-29
+20    1.993285e-35
+Name: HUM_LANDFORM_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Recall]: p-value = 0.9902058928015675
+
+Medians of HUM_LANDFORM_partial_Recall] =Century
+18    0.5
+19    0.5
+20    0.5
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Mean of HUM_LANDFORM_partial_Recall] =Century
+18    0.463443
+19    0.455692
+20    0.464031
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_F1
+
+
+
+Century
+18    3.977933e-21
+19    4.770143e-29
+20    1.039694e-33
+Name: HUM_LANDFORM_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_F1: p-value = 0.4821734275547439
+
+Medians of HUM_LANDFORM_partial_F1 =Century
+18    0.5
+19    0.5
+20    0.5
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Mean of HUM_LANDFORM_partial_F1 =Century
+18    0.461475
+19    0.478492
+20    0.452269
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_Precision_
+
+
+
+Century
+18    4.628882e-24
+19    1.963905e-35
+20    2.001511e-38
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Precision_: p-value = 0.08156885645903286
+
+Medians of HUM_LANDFORM_exact_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Mean of HUM_LANDFORM_exact_Precision_ =Century
+18    0.442678
+19    0.483290
+20    0.428865
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_Recall]
+
+
+
+Century
+18    2.345242e-23
+19    1.261503e-32
+20    5.739879e-38
+Name: HUM_LANDFORM_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Recall]: p-value = 0.924770390472742
+
+Medians of HUM_LANDFORM_exact_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Mean of HUM_LANDFORM_exact_Recall] =Century
+18    0.425574
+19    0.400184
+20    0.416190
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_F1
+
+
+
+Century
+18    6.389700e-23
+19    3.081638e-32
+20    1.403973e-36
+Name: HUM_LANDFORM_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_F1: p-value = 0.6493630844910475
+
+Medians of HUM_LANDFORM_exact_F1 =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: HUM_LANDFORM_exact_F1, dtype: float64
+Mean of HUM_LANDFORM_exact_F1 =Century
+18    0.423224
+19    0.422482
+20    0.406020
+Name: HUM_LANDFORM_exact_F1, dtype: float64

@@ -1,0 +1,338 @@
+Number of NAT_LANDFORM samples are 1603
+
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_Precision_
+prompt
+chain_of_thought       3.844195e-27
+chain_of_thought_FS    3.113144e-31
+few_shot               2.418049e-29
+one_shot               2.323659e-27
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Precision_: p-value = 1.1881414638540521e-12
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.295874
+chain_of_thought_FS    0.164436
+few_shot               0.198685
+one_shot               0.330506
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 8.011297242824472e-08, : Stat, 64173.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.14237733968411695, : Stat, 65843.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 4.175606828780279e-11, : Stat, 66177.5
+Comparación chain_of_thought vs few_shot: p-value = 0.00011612329789482572, : Stat, 84914.0
+Comparación chain_of_thought vs one_shot: p-value = 0.21347033156369344, : Stat, 88284.0
+Comparación few_shot vs one_shot: p-value = 3.913063898776706e-07, : Stat, 67266.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_Recall]
+prompt
+chain_of_thought       6.236012e-27
+chain_of_thought_FS    3.297742e-31
+few_shot               2.445971e-29
+one_shot               2.811841e-27
+Name: NAT_LANDFORM_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Recall]: p-value = 1.6453949110524087e-14
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.266031
+chain_of_thought_FS    0.131997
+few_shot               0.171716
+one_shot               0.310721
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.342547958293313e-09, : Stat, 63169.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.10474738259145071, : Stat, 65506.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.0420846075978593e-12, : Stat, 64635.0
+Comparación chain_of_thought vs few_shot: p-value = 5.685576250368066e-05, : Stat, 85377.0
+Comparación chain_of_thought vs one_shot: p-value = 0.14155857430000898, : Stat, 87544.5
+Comparación few_shot vs one_shot: p-value = 6.758460877496834e-08, : Stat, 66321.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_strict_F1
+prompt
+chain_of_thought       1.394885e-26
+chain_of_thought_FS    6.092863e-31
+few_shot               4.789719e-29
+one_shot               6.371549e-27
+Name: NAT_LANDFORM_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_F1: p-value = 7.441143480649478e-14
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.274696
+chain_of_thought_FS    0.142515
+few_shot               0.180184
+one_shot               0.315682
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 2.0381903642974507e-08, : Stat, 63508.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.11271008990904427, : Stat, 65582.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 3.3055841485567e-12, : Stat, 65080.5
+Comparación chain_of_thought vs few_shot: p-value = 8.413435622022948e-05, : Stat, 85143.5
+Comparación chain_of_thought vs one_shot: p-value = 0.16090314814461104, : Stat, 87758.5
+Comparación few_shot vs one_shot: p-value = 1.2908167255983427e-07, : Stat, 66640.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_Precision_
+prompt
+chain_of_thought       3.561776e-27
+chain_of_thought_FS    3.145475e-31
+few_shot               2.329292e-29
+one_shot               2.099180e-27
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Precision_: p-value = 1.505790147327434e-12
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.298636
+chain_of_thought_FS    0.167867
+few_shot               0.201890
+one_shot               0.335337
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.0022599740838975e-07, : Stat, 64282.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.144822431593336, : Stat, 65863.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 4.885331286770678e-11, : Stat, 66252.5
+Comparación chain_of_thought vs few_shot: p-value = 0.00013187264654803733, : Stat, 84830.0
+Comparación chain_of_thought vs one_shot: p-value = 0.19997408623913804, : Stat, 88165.5
+Comparación few_shot vs one_shot: p-value = 4.108218666602013e-07, : Stat, 67300.0
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_Recall]
+prompt
+chain_of_thought       6.373383e-27
+chain_of_thought_FS    3.813905e-31
+few_shot               2.541757e-29
+one_shot               3.129426e-27
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Recall]: p-value = 1.7701164864203705e-14
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.268478
+chain_of_thought_FS    0.133641
+few_shot               0.174006
+one_shot               0.314057
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.0380407829343883e-08, : Stat, 63216.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.10428176579322843, : Stat, 65501.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.0278108327262703e-12, : Stat, 64631.0
+Comparación chain_of_thought vs few_shot: p-value = 6.317759886614183e-05, : Stat, 85311.5
+Comparación chain_of_thought vs one_shot: p-value = 0.1334093844457795, : Stat, 87446.0
+Comparación few_shot vs one_shot: p-value = 6.946536476882935e-08, : Stat, 66338.0
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_ent_type_F1
+prompt
+chain_of_thought       1.407293e-26
+chain_of_thought_FS    6.856252e-31
+few_shot               4.904194e-29
+one_shot               6.918770e-27
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_F1: p-value = 8.89884527950094e-14
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.277073
+chain_of_thought_FS    0.144659
+few_shot               0.182748
+one_shot               0.319423
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 2.5434807286670966e-08, : Stat, 63608.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.11258688211161968, : Stat, 65581.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 3.50254483944693e-12, : Stat, 65105.0
+Comparación chain_of_thought vs few_shot: p-value = 9.727421376204043e-05, : Stat, 85052.0
+Comparación chain_of_thought vs one_shot: p-value = 0.14811708333413706, : Stat, 87616.5
+Comparación few_shot vs one_shot: p-value = 1.3529542071164911e-07, : Stat, 66667.0
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_Precision_
+prompt
+chain_of_thought       5.574835e-24
+chain_of_thought_FS    4.359291e-26
+few_shot               3.575947e-23
+one_shot               3.966300e-25
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Precision_: p-value = 2.6554916609209108e-12
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.5
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.450020
+chain_of_thought_FS    0.277045
+few_shot               0.354625
+one_shot               0.483910
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 8.033142639100322e-09, : Stat, 61164.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.004706238222805527, : Stat, 61595.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.0215983194715335e-11, : Stat, 63506.5
+Comparación chain_of_thought vs few_shot: p-value = 0.002330041491541623, : Stat, 83810.0
+Comparación chain_of_thought vs one_shot: p-value = 0.2874079219295105, : Stat, 88654.5
+Comparación few_shot vs one_shot: p-value = 3.991548420131404e-05, : Stat, 68793.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_Recall]
+prompt
+chain_of_thought       8.317207e-23
+chain_of_thought_FS    6.230120e-26
+few_shot               6.211163e-23
+one_shot               4.720701e-24
+Name: NAT_LANDFORM_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Recall]: p-value = 1.79289069949638e-14
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.000000
+few_shot               0.000000
+one_shot               0.500000
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.396330
+chain_of_thought_FS    0.222020
+few_shot               0.297744
+one_shot               0.437909
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 5.03158728626822e-10, : Stat, 59729.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.002320376217497882, : Stat, 60985.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.1858604566682044e-13, : Stat, 61411.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0011955524010170261, : Stat, 84449.5
+Comparación chain_of_thought vs one_shot: p-value = 0.18431234883811864, : Stat, 87705.0
+Comparación few_shot vs one_shot: p-value = 7.499961903764207e-06, : Stat, 67528.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_partial_F1
+prompt
+chain_of_thought       2.568415e-22
+chain_of_thought_FS    1.938963e-25
+few_shot               3.076824e-22
+one_shot               1.413845e-23
+Name: NAT_LANDFORM_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_F1: p-value = 4.2707163120539525e-14
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.000000
+few_shot               0.000000
+one_shot               0.500000
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.410011
+chain_of_thought_FS    0.239279
+few_shot               0.315082
+one_shot               0.449587
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.0215367502959524e-09, : Stat, 60024.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.003032550710456603, : Stat, 61184.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 2.500308023982457e-13, : Stat, 61682.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0012907733183477115, : Stat, 84411.5
+Comparación chain_of_thought vs one_shot: p-value = 0.18272751237430973, : Stat, 87674.0
+Comparación few_shot vs one_shot: p-value = 7.955650616454012e-06, : Stat, 67530.5
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_Precision_
+prompt
+chain_of_thought       2.726020e-28
+chain_of_thought_FS    2.670960e-31
+few_shot               1.371615e-29
+one_shot               8.938711e-29
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Precision_: p-value = 1.5483435709512872e-13
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.355340
+chain_of_thought_FS    0.187423
+few_shot               0.234524
+one_shot               0.395982
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 2.1120487882976545e-08, : Stat, 63671.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.1148160572637563, : Stat, 65622.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 6.634528865259512e-12, : Stat, 65595.5
+Comparación chain_of_thought vs few_shot: p-value = 8.10990212210411e-05, : Stat, 85038.5
+Comparación chain_of_thought vs one_shot: p-value = 0.20584735494912998, : Stat, 88285.0
+Comparación few_shot vs one_shot: p-value = 2.214237859312785e-07, : Stat, 67134.0
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_Recall]
+prompt
+chain_of_thought       2.068860e-27
+chain_of_thought_FS    4.232083e-31
+few_shot               2.608692e-29
+one_shot               5.725140e-28
+Name: NAT_LANDFORM_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Recall]: p-value = 1.6264641350717718e-15
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.314066
+chain_of_thought_FS    0.148769
+few_shot               0.199496
+one_shot               0.364360
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 2.699832694366798e-09, : Stat, 62665.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.08407587154185699, : Stat, 65284.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.2038296826992521e-13, : Stat, 63879.0
+Comparación chain_of_thought vs few_shot: p-value = 4.32884788178362e-05, : Stat, 85506.0
+Comparación chain_of_thought vs one_shot: p-value = 0.11612176863803197, : Stat, 87256.0
+Comparación few_shot vs one_shot: p-value = 3.0365468447619046e-08, : Stat, 66001.0
+Prueba de normalidad por grupo=prompt para NAT_LANDFORM_exact_F1
+prompt
+chain_of_thought       3.480782e-27
+chain_of_thought_FS    6.957714e-31
+few_shot               4.393693e-29
+one_shot               9.685009e-28
+Name: NAT_LANDFORM_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_F1: p-value = 5.927488119081979e-15
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_LANDFORM_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.325478
+chain_of_thought_FS    0.161323
+few_shot               0.210292
+one_shot               0.372171
+Name: NAT_LANDFORM_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 4.8603169962608784e-09, : Stat, 62909.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.08691783989254644, : Stat, 65317.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 3.151082006227256e-13, : Stat, 64228.0
+Comparación chain_of_thought vs few_shot: p-value = 6.220823157450333e-05, : Stat, 85294.5
+Comparación chain_of_thought vs one_shot: p-value = 0.1276123265924844, : Stat, 87400.0
+Comparación few_shot vs one_shot: p-value = 5.8496522010579e-08, : Stat, 66310.0

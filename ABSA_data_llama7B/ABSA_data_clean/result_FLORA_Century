@@ -1,0 +1,230 @@
+Number of FLORA samples are 648
+
+Prueba de normalidad por grupo=Century para FLORA_strict_Precision_
+Century
+18    1.597984e-14
+19    6.575230e-17
+20    3.404479e-25
+Name: FLORA_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_Precision_: p-value = 0.09309452609121109
+
+Medians=Century
+18    0.00
+19    0.00
+20    0.55
+Name: FLORA_strict_Precision_, dtype: float64
+Mean=Century
+18    0.409357
+19    0.404167
+20    0.497504
+Name: FLORA_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_strict_Recall]
+Century
+18    1.597984e-14
+19    3.774122e-16
+20    4.922524e-23
+Name: FLORA_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_Recall]: p-value = 0.28270557672410823
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.5
+Name: FLORA_strict_Recall], dtype: float64
+Mean=Century
+18    0.409357
+19    0.377500
+20    0.444251
+Name: FLORA_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_strict_F1
+Century
+18    1.597984e-14
+19    3.007434e-16
+20    1.797538e-23
+Name: FLORA_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_F1: p-value = 0.2526674389326386
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.5
+Name: FLORA_strict_F1, dtype: float64
+Mean=Century
+18    0.409357
+19    0.386212
+20    0.463798
+Name: FLORA_strict_F1, dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_ent_type_Precision_
+Century
+18    4.881420e-15
+19    7.964835e-18
+20    4.050720e-26
+Name: FLORA_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_Precision_: p-value = 0.22441050462411
+
+Medians=Century
+18    0.00
+19    0.00
+20    0.75
+Name: FLORA_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.438596
+19    0.445833
+20    0.518494
+Name: FLORA_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_ent_type_Recall]
+Century
+18    4.881420e-15
+19    5.040265e-17
+20    2.815907e-23
+Name: FLORA_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_Recall]: p-value = 0.7639374096910627
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.5
+Name: FLORA_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.438596
+19    0.419167
+20    0.456016
+Name: FLORA_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_ent_type_F1
+Century
+18    4.881420e-15
+19    3.699424e-17
+20    6.046833e-24
+Name: FLORA_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_F1: p-value = 0.752259224026687
+
+Medians=Century
+18    0.000000
+19    0.000000
+20    0.666667
+Name: FLORA_ent_type_F1, dtype: float64
+Mean=Century
+18    0.438596
+19    0.427879
+20    0.478406
+Name: FLORA_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_partial_Precision_
+Century
+18    3.836611e-14
+19    1.166086e-14
+20    1.100682e-22
+Name: FLORA_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_Precision_: p-value = 0.0003776164124036982
+
+Medians=Century
+18    0.000000
+19    0.500000
+20    0.833333
+Name: FLORA_partial_Precision_, dtype: float64
+Mean=Century
+18    0.453216
+19    0.518229
+20    0.634960
+Name: FLORA_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.0004317135876465288, : Stat, 16949.0
+Comparación 18 vs 19: p-value = 0.27180197716772325, : Stat, 8458.0
+Comparación 20 vs 19: p-value = 0.007247561153290263, : Stat, 34061.0
+Prueba de normalidad por grupo=Century para FLORA_partial_Recall]
+Century
+18    3.836611e-14
+19    1.120044e-13
+20    2.505259e-19
+Name: FLORA_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_Recall]: p-value = 0.0247712789826742
+
+Medians=Century
+18    0.0
+19    0.5
+20    0.5
+Name: FLORA_partial_Recall], dtype: float64
+Mean=Century
+18    0.453216
+19    0.485313
+20    0.567513
+Name: FLORA_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.02424984508814019, : Stat, 18460.0
+Comparación 18 vs 19: p-value = 0.595551068487189, : Stat, 8797.0
+Comparación 20 vs 19: p-value = 0.04161837795128561, : Stat, 33136.5
+Prueba de normalidad por grupo=Century para FLORA_partial_F1
+Century
+18    3.836611e-14
+19    8.759086e-14
+20    1.532560e-19
+Name: FLORA_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_F1: p-value = 0.015988596931724403
+
+Medians=Century
+18    0.000000
+19    0.500000
+20    0.666667
+Name: FLORA_partial_F1, dtype: float64
+Mean=Century
+18    0.453216
+19    0.495691
+20    0.590456
+Name: FLORA_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.017554730476575627, : Stat, 18294.0
+Comparación 18 vs 19: p-value = 0.5763643568483852, : Stat, 8780.0
+Comparación 20 vs 19: p-value = 0.03095434161336176, : Stat, 33342.0
+Prueba de normalidad por grupo=Century para FLORA_exact_Precision_
+Century
+18    1.876029e-14
+19    2.850645e-17
+20    5.592311e-26
+Name: FLORA_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_Precision_: p-value = 0.05934323823755548
+
+Medians=Century
+18    0.000000
+19    0.000000
+20    0.666667
+Name: FLORA_exact_Precision_, dtype: float64
+Mean=Century
+18    0.415205
+19    0.413542
+20    0.515463
+Name: FLORA_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_exact_Recall]
+Century
+18    1.876029e-14
+19    1.666405e-16
+20    1.129145e-23
+Name: FLORA_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_Recall]: p-value = 0.24701004148816114
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.5
+Name: FLORA_exact_Recall], dtype: float64
+Mean=Century
+18    0.415205
+19    0.386875
+20    0.461230
+Name: FLORA_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para FLORA_exact_F1
+Century
+18    1.876029e-14
+19    1.352593e-16
+20    3.389860e-24
+Name: FLORA_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_F1: p-value = 0.2210142479425207
+
+Medians=Century
+18    0.000000
+19    0.000000
+20    0.666667
+Name: FLORA_exact_F1, dtype: float64
+Mean=Century
+18    0.415205
+19    0.395587
+20    0.481158
+Name: FLORA_exact_F1, dtype: float64

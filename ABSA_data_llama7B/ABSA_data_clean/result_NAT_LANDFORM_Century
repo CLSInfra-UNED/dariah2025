@@ -1,0 +1,266 @@
+Number of NAT_LANDFORM samples are 1603
+
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_strict_Precision_
+Century
+18    1.632684e-28
+19    3.872181e-32
+20    6.156148e-36
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Precision_: p-value = 0.0006772947990301229
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Mean=Century
+18    0.261671
+19    0.283801
+20    0.214050
+Name: NAT_LANDFORM_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.008861538171351121, : Stat, 115445.0
+Comparación 20 vs 19: p-value = 0.00019728907091142478, : Stat, 155082.5
+Comparación 18 vs 19: p-value = 0.37733402418280715, : Stat, 122467.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_strict_Recall]
+Century
+18    8.679899e-29
+19    9.246912e-32
+20    8.346256e-36
+Name: NAT_LANDFORM_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_Recall]: p-value = 0.0007669264797912583
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Mean=Century
+18    0.246760
+19    0.242779
+20    0.192378
+Name: NAT_LANDFORM_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.004463512125401855, : Stat, 114591.5
+Comparación 20 vs 19: p-value = 0.00031002269684227054, : Stat, 155592.5
+Comparación 18 vs 19: p-value = 0.631095965191562, : Stat, 124058.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_strict_F1
+Century
+18    2.207500e-28
+19    2.518195e-31
+20    1.339339e-35
+Name: NAT_LANDFORM_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_strict_F1: p-value = 0.0009947679173564373
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Mean=Century
+18    0.249556
+19    0.255716
+20    0.199262
+Name: NAT_LANDFORM_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.00646221284992771, : Stat, 115031.0
+Comparación 20 vs 19: p-value = 0.00036848295281095226, : Stat, 155796.5
+Comparación 18 vs 19: p-value = 0.5305388006093629, : Stat, 123472.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_ent_type_Precision_
+Century
+18    1.441657e-28
+19    3.590735e-32
+20    6.041638e-36
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Precision_: p-value = 0.0004916417349367567
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.265418
+19    0.290048
+20    0.214875
+Name: NAT_LANDFORM_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.007756777352779548, : Stat, 115281.0
+Comparación 20 vs 19: p-value = 0.00014278621428781912, : Stat, 154704.0
+Comparación 18 vs 19: p-value = 0.35151043335845356, : Stat, 122275.5
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_ent_type_Recall]
+Century
+18    8.869263e-29
+19    1.084306e-31
+20    8.711498e-36
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_Recall]: p-value = 0.0006214154643328938
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.249063
+19    0.247379
+20    0.192825
+Name: NAT_LANDFORM_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.004179980897208756, : Stat, 114515.0
+Comparación 20 vs 19: p-value = 0.0002456671955139997, : Stat, 155307.0
+Comparación 18 vs 19: p-value = 0.5954157054567873, : Stat, 123856.5
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_ent_type_F1
+Century
+18    2.244081e-28
+19    2.748190e-31
+20    1.395228e-35
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_ent_type_F1: p-value = 0.0007801301330421164
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Mean=Century
+18    0.252260
+19    0.260734
+20    0.199750
+Name: NAT_LANDFORM_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005867309463164366, : Stat, 114914.0
+Comparación 20 vs 19: p-value = 0.0002855056009814175, : Stat, 155479.5
+Comparación 18 vs 19: p-value = 0.5025859170718452, : Stat, 123300.5
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_partial_Precision_
+Century
+18    4.729901e-26
+19    1.011456e-27
+20    1.386416e-29
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Precision_: p-value = 0.0004723807340455239
+
+Medians=Century
+18    0.0
+19    0.5
+20    0.0
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Mean=Century
+18    0.393462
+19    0.447331
+20    0.348720
+Name: NAT_LANDFORM_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.17100055537954106, : Stat, 119381.0
+Comparación 20 vs 19: p-value = 7.985215631427208e-05, : Stat, 151530.5
+Comparación 18 vs 19: p-value = 0.042368915266809186, : Stat, 117224.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_partial_Recall]
+Century
+18    1.834437e-25
+19    4.342501e-26
+20    1.467321e-29
+Name: NAT_LANDFORM_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_Recall]: p-value = 0.0009985576751204619
+
+Medians=Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Mean=Century
+18    0.355425
+19    0.380111
+20    0.300280
+Name: NAT_LANDFORM_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.11340943203660998, : Stat, 118443.5
+Comparación 20 vs 19: p-value = 0.00013658202667053533, : Stat, 152081.5
+Comparación 18 vs 19: p-value = 0.12213304718867043, : Stat, 119253.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_partial_F1
+Century
+18    5.720586e-25
+19    1.653956e-25
+20    6.237928e-29
+Name: NAT_LANDFORM_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_partial_F1: p-value = 0.0007673782492041609
+
+Medians=Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Mean=Century
+18    0.364182
+19    0.399710
+20    0.314645
+Name: NAT_LANDFORM_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.12013119758763385, : Stat, 118554.5
+Comparación 20 vs 19: p-value = 0.00010693353748390478, : Stat, 151704.0
+Comparación 18 vs 19: p-value = 0.09731649528928275, : Stat, 118744.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_exact_Precision_
+Century
+18    1.759168e-29
+19    3.103779e-33
+20    4.472326e-36
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Precision_: p-value = 0.00022216312024025733
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Mean=Century
+18    0.322990
+19    0.338842
+20    0.242947
+Name: NAT_LANDFORM_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0027550488319901265, : Stat, 114146.0
+Comparación 20 vs 19: p-value = 8.10160554614593e-05, : Stat, 154191.0
+Comparación 18 vs 19: p-value = 0.5417907320959188, : Stat, 123577.0
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_exact_Recall]
+Century
+18    5.196754e-29
+19    4.323013e-32
+20    8.242996e-36
+Name: NAT_LANDFORM_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_Recall]: p-value = 0.00038396734216150256
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Mean=Century
+18    0.293052
+19    0.287704
+20    0.216297
+Name: NAT_LANDFORM_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0019237803898551418, : Stat, 113678.5
+Comparación 20 vs 19: p-value = 0.00019990804172383811, : Stat, 155099.5
+Comparación 18 vs 19: p-value = 0.8444205443175842, : Stat, 125188.5
+Prueba de normalidad por grupo=Century para NAT_LANDFORM_exact_F1
+Century
+18    1.088056e-28
+19    6.670971e-32
+20    1.256834e-35
+Name: NAT_LANDFORM_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_LANDFORM_exact_F1: p-value = 0.0005226615525206232
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_LANDFORM_exact_F1, dtype: float64
+Mean=Century
+18    0.299566
+19    0.303349
+20    0.224619
+Name: NAT_LANDFORM_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0028622053947831615, : Stat, 114110.5
+Comparación 20 vs 19: p-value = 0.000235341746774113, : Stat, 155290.0
+Comparación 18 vs 19: p-value = 0.7572537919995146, : Stat, 124741.0

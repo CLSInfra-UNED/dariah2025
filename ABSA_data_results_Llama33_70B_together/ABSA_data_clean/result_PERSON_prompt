@@ -1,0 +1,278 @@
+Number of PERSON samples are 2739
+
+Prueba de normalidad por grupo=prompt para PERSON_strict_Precision_
+
+
+
+prompt
+chain_of_thought    1.429634e-37
+few_shot            3.217173e-37
+one_shot            9.410827e-38
+Name: PERSON_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Precision_: p-value = 0.8511616939313817
+
+Medians of PERSON_strict_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_strict_Precision_, dtype: float64
+Mean of PERSON_strict_Precision_ =prompt
+chain_of_thought    0.437931
+few_shot            0.427621
+one_shot            0.425023
+Name: PERSON_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_strict_Recall]
+
+
+
+prompt
+chain_of_thought    1.204159e-35
+few_shot            1.282221e-35
+one_shot            3.616151e-36
+Name: PERSON_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Recall]: p-value = 0.9722513758423388
+
+Medians of PERSON_strict_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_strict_Recall], dtype: float64
+Mean of PERSON_strict_Recall] =prompt
+chain_of_thought    0.375546
+few_shot            0.373120
+one_shot            0.372143
+Name: PERSON_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_strict_F1
+
+
+
+prompt
+chain_of_thought    5.853987e-35
+few_shot            8.516458e-35
+one_shot            2.500470e-35
+Name: PERSON_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_F1: p-value = 0.9074571572925569
+
+Medians of PERSON_strict_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_strict_F1, dtype: float64
+Mean of PERSON_strict_F1 =prompt
+chain_of_thought    0.389065
+few_shot            0.382848
+one_shot            0.380644
+Name: PERSON_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    8.123181e-38
+few_shot            1.498660e-37
+one_shot            6.121550e-38
+Name: PERSON_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Precision_: p-value = 0.8398182237773946
+
+Medians of PERSON_ent_type_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_ent_type_Precision_, dtype: float64
+Mean of PERSON_ent_type_Precision_ =prompt
+chain_of_thought    0.444863
+few_shot            0.436760
+one_shot            0.430605
+Name: PERSON_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    8.902101e-36
+few_shot            8.900933e-36
+one_shot            3.344575e-36
+Name: PERSON_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Recall]: p-value = 0.9530258491533652
+
+Medians of PERSON_ent_type_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_ent_type_Recall], dtype: float64
+Mean of PERSON_ent_type_Recall] =prompt
+chain_of_thought    0.381548
+few_shot            0.380591
+one_shot            0.376177
+Name: PERSON_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_F1
+
+
+
+prompt
+chain_of_thought    4.265865e-35
+few_shot            5.614849e-35
+one_shot            2.207113e-35
+Name: PERSON_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_F1: p-value = 0.878372222404627
+
+Medians of PERSON_ent_type_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_ent_type_F1, dtype: float64
+Mean of PERSON_ent_type_F1 =prompt
+chain_of_thought    0.394944
+few_shot            0.390385
+one_shot            0.384809
+Name: PERSON_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_partial_Precision_
+
+
+
+prompt
+chain_of_thought    2.089544e-36
+few_shot            3.671190e-36
+one_shot            1.281177e-36
+Name: PERSON_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Precision_: p-value = 0.7563794985449115
+
+Medians of PERSON_partial_Precision_ =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: PERSON_partial_Precision_, dtype: float64
+Mean of PERSON_partial_Precision_ =prompt
+chain_of_thought    0.490617
+few_shot            0.474999
+one_shot            0.475359
+Name: PERSON_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_partial_Recall]
+
+
+
+prompt
+chain_of_thought    9.010080e-34
+few_shot            5.959481e-34
+one_shot            2.490215e-34
+Name: PERSON_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Recall]: p-value = 0.9363851075714829
+
+Medians of PERSON_partial_Recall] =prompt
+chain_of_thought    0.333333
+few_shot            0.333333
+one_shot            0.333333
+Name: PERSON_partial_Recall], dtype: float64
+Mean of PERSON_partial_Recall] =prompt
+chain_of_thought    0.420275
+few_shot            0.414103
+one_shot            0.417388
+Name: PERSON_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_partial_F1
+
+
+
+prompt
+chain_of_thought    4.537406e-33
+few_shot            4.042952e-33
+one_shot            1.878436e-33
+Name: PERSON_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_F1: p-value = 0.8317811884760753
+
+Medians of PERSON_partial_F1 =prompt
+chain_of_thought    0.500000
+few_shot            0.444444
+one_shot            0.500000
+Name: PERSON_partial_F1, dtype: float64
+Mean of PERSON_partial_F1 =prompt
+chain_of_thought    0.435291
+few_shot            0.424462
+one_shot            0.425774
+Name: PERSON_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_exact_Precision_
+
+
+
+prompt
+chain_of_thought    3.761639e-38
+few_shot            1.014819e-37
+one_shot            2.190697e-38
+Name: PERSON_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Precision_: p-value = 0.873358284912149
+
+Medians of PERSON_exact_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_exact_Precision_, dtype: float64
+Mean of PERSON_exact_Precision_ =prompt
+chain_of_thought    0.451302
+few_shot            0.439774
+one_shot            0.439983
+Name: PERSON_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_exact_Recall]
+
+
+
+prompt
+chain_of_thought    6.176057e-36
+few_shot            7.207982e-36
+one_shot            1.777259e-36
+Name: PERSON_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Recall]: p-value = 0.9812982302472871
+
+Medians of PERSON_exact_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_exact_Recall], dtype: float64
+Mean of PERSON_exact_Recall] =prompt
+chain_of_thought    0.385716
+few_shot            0.382517
+one_shot            0.383937
+Name: PERSON_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para PERSON_exact_F1
+
+
+
+prompt
+chain_of_thought    2.685830e-35
+few_shot            4.539939e-35
+one_shot            1.131845e-35
+Name: PERSON_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_F1: p-value = 0.9187102768582311
+
+Medians of PERSON_exact_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: PERSON_exact_F1, dtype: float64
+Mean of PERSON_exact_F1 =prompt
+chain_of_thought    0.399865
+few_shot            0.392677
+one_shot            0.392875
+Name: PERSON_exact_F1, dtype: float64

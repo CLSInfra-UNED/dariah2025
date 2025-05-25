@@ -1,0 +1,278 @@
+Number of FAUNA samples are 904
+
+Prueba de normalidad por grupo=prompt para FAUNA_strict_Precision_
+
+
+
+prompt
+chain_of_thought    3.924647e-25
+few_shot            4.959290e-25
+one_shot            1.054846e-25
+Name: FAUNA_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_Precision_: p-value = 0.8904136355951051
+
+Medians of FAUNA_strict_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_strict_Precision_, dtype: float64
+Mean of FAUNA_strict_Precision_ =prompt
+chain_of_thought    0.680791
+few_shot            0.660833
+one_shot            0.669633
+Name: FAUNA_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_strict_Recall]
+
+
+
+prompt
+chain_of_thought    1.567510e-23
+few_shot            3.085172e-23
+one_shot            6.964990e-24
+Name: FAUNA_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_Recall]: p-value = 0.7872097557632015
+
+Medians of FAUNA_strict_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_strict_Recall], dtype: float64
+Mean of FAUNA_strict_Recall] =prompt
+chain_of_thought    0.649040
+few_shot            0.625306
+one_shot            0.634948
+Name: FAUNA_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_strict_F1
+
+
+
+prompt
+chain_of_thought    1.076260e-23
+few_shot            1.709715e-23
+one_shot            3.603647e-24
+Name: FAUNA_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_strict_F1: p-value = 0.837202273064499
+
+Medians of FAUNA_strict_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_strict_F1, dtype: float64
+Mean of FAUNA_strict_F1 =prompt
+chain_of_thought    0.658380
+few_shot            0.636574
+one_shot            0.645939
+Name: FAUNA_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    1.036411e-25
+few_shot            1.302996e-25
+one_shot            3.507693e-26
+Name: FAUNA_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_Precision_: p-value = 0.890614043890422
+
+Medians of FAUNA_ent_type_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_ent_type_Precision_, dtype: float64
+Mean of FAUNA_ent_type_Precision_ =prompt
+chain_of_thought    0.691808
+few_shot            0.672500
+one_shot            0.678803
+Name: FAUNA_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    6.338760e-24
+few_shot            1.233983e-23
+one_shot            2.855659e-24
+Name: FAUNA_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_Recall]: p-value = 0.7886785652528873
+
+Medians of FAUNA_ent_type_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_ent_type_Recall], dtype: float64
+Mean of FAUNA_ent_type_Recall] =prompt
+chain_of_thought    0.657232
+few_shot            0.634194
+one_shot            0.642769
+Name: FAUNA_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_ent_type_F1
+
+
+
+prompt
+chain_of_thought    4.052637e-24
+few_shot            6.269302e-24
+one_shot            1.407285e-24
+Name: FAUNA_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_ent_type_F1: p-value = 0.8407943169365779
+
+Medians of FAUNA_ent_type_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_ent_type_F1, dtype: float64
+Mean of FAUNA_ent_type_F1 =prompt
+chain_of_thought    0.667137
+few_shot            0.646019
+one_shot            0.654030
+Name: FAUNA_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_partial_Precision_
+
+
+
+prompt
+chain_of_thought    2.452043e-24
+few_shot            2.727265e-24
+one_shot            8.769483e-25
+Name: FAUNA_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_Precision_: p-value = 0.9140761008604418
+
+Medians of FAUNA_partial_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_partial_Precision_, dtype: float64
+Mean of FAUNA_partial_Precision_ =prompt
+chain_of_thought    0.754520
+few_shot            0.738750
+one_shot            0.737729
+Name: FAUNA_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_partial_Recall]
+
+
+
+prompt
+chain_of_thought    2.107398e-22
+few_shot            3.919519e-22
+one_shot            1.060731e-22
+Name: FAUNA_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_Recall]: p-value = 0.8237932837117234
+
+Medians of FAUNA_partial_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_partial_Recall], dtype: float64
+Mean of FAUNA_partial_Recall] =prompt
+chain_of_thought    0.718531
+few_shot            0.699889
+one_shot            0.704257
+Name: FAUNA_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_partial_F1
+
+
+
+prompt
+chain_of_thought    1.913232e-22
+few_shot            2.662920e-22
+one_shot            7.755783e-23
+Name: FAUNA_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_partial_F1: p-value = 0.8679299469940217
+
+Medians of FAUNA_partial_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_partial_F1, dtype: float64
+Mean of FAUNA_partial_F1 =prompt
+chain_of_thought    0.728437
+few_shot            0.711157
+one_shot            0.712957
+Name: FAUNA_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_exact_Precision_
+
+
+
+prompt
+chain_of_thought    2.636948e-25
+few_shot            2.314815e-25
+one_shot            7.236943e-26
+Name: FAUNA_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_Precision_: p-value = 0.936236875289721
+
+Medians of FAUNA_exact_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_exact_Precision_, dtype: float64
+Mean of FAUNA_exact_Precision_ =prompt
+chain_of_thought    0.684181
+few_shot            0.667500
+one_shot            0.672869
+Name: FAUNA_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_exact_Recall]
+
+
+
+prompt
+chain_of_thought    1.059277e-23
+few_shot            1.457579e-23
+one_shot            4.804787e-24
+Name: FAUNA_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_Recall]: p-value = 0.8375240952577314
+
+Medians of FAUNA_exact_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_exact_Recall], dtype: float64
+Mean of FAUNA_exact_Recall] =prompt
+chain_of_thought    0.652429
+few_shot            0.631972
+one_shot            0.638184
+Name: FAUNA_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FAUNA_exact_F1
+
+
+
+prompt
+chain_of_thought    7.125429e-24
+few_shot            7.764734e-24
+one_shot            2.440444e-24
+Name: FAUNA_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FAUNA_exact_F1: p-value = 0.8900156036909586
+
+Medians of FAUNA_exact_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: FAUNA_exact_F1, dtype: float64
+Mean of FAUNA_exact_F1 =prompt
+chain_of_thought    0.661770
+few_shot            0.643241
+one_shot            0.649176
+Name: FAUNA_exact_F1, dtype: float64

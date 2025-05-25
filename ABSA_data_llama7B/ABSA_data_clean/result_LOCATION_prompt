@@ -1,0 +1,338 @@
+Number of LOCATION samples are 2943
+
+Prueba de normalidad por grupo=prompt para LOCATION_strict_Precision_
+prompt
+chain_of_thought       8.401179e-35
+chain_of_thought_FS    2.655707e-34
+few_shot               2.737422e-34
+one_shot               5.063098e-34
+Name: LOCATION_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Precision_: p-value = 9.831115903391173e-06
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    1.0
+few_shot               1.0
+one_shot               0.5
+Name: LOCATION_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.522350
+chain_of_thought_FS    0.591409
+few_shot               0.601063
+one_shot               0.497233
+Name: LOCATION_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.0039254434387010215, : Stat, 295824.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.768047075176587, : Stat, 243700.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0001353965250774932, : Stat, 291176.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0012263286474974119, : Stat, 252382.5
+Comparación chain_of_thought vs one_shot: p-value = 0.31269619734182674, : Stat, 304779.5
+Comparación few_shot vs one_shot: p-value = 2.952079111074088e-05, : Stat, 296288.0
+Prueba de normalidad por grupo=prompt para LOCATION_strict_Recall]
+prompt
+chain_of_thought       3.545277e-35
+chain_of_thought_FS    1.391971e-33
+few_shot               9.814974e-34
+one_shot               1.706469e-34
+Name: LOCATION_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Recall]: p-value = 0.0019598057199653345
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.500000
+Name: LOCATION_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.528621
+chain_of_thought_FS    0.576690
+few_shot               0.590884
+one_shot               0.507073
+Name: LOCATION_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.04888445311531239, : Stat, 289035.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.6400128669224054, : Stat, 242493.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.004932456626354374, : Stat, 283911.0
+Comparación chain_of_thought vs few_shot: p-value = 0.014001640518177969, : Stat, 258192.0
+Comparación chain_of_thought vs one_shot: p-value = 0.3789357215597339, : Stat, 303702.5
+Comparación few_shot vs one_shot: p-value = 0.0009648909901738965, : Stat, 289882.5
+Prueba de normalidad por grupo=prompt para LOCATION_strict_F1
+prompt
+chain_of_thought       3.011412e-34
+chain_of_thought_FS    3.218228e-33
+few_shot               2.418251e-33
+one_shot               1.158651e-33
+Name: LOCATION_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_F1: p-value = 0.00015584178186943908
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    0.833333
+few_shot               0.857143
+one_shot               0.500000
+Name: LOCATION_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.518935
+chain_of_thought_FS    0.577816
+few_shot               0.590538
+one_shot               0.496728
+Name: LOCATION_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.0131280185132661, : Stat, 293136.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.6700506813941354, : Stat, 242739.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0010772405982818738, : Stat, 287562.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0032238858020134107, : Stat, 254170.0
+Comparación chain_of_thought vs one_shot: p-value = 0.3897410286369013, : Stat, 303649.5
+Comparación few_shot vs one_shot: p-value = 0.00018617013728231034, : Stat, 293458.0
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_Precision_
+prompt
+chain_of_thought       2.673323e-35
+chain_of_thought_FS    6.558458e-35
+few_shot               7.334559e-35
+one_shot               2.570019e-34
+Name: LOCATION_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Precision_: p-value = 5.603244421404963e-06
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.500000
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.532546
+chain_of_thought_FS    0.601063
+few_shot               0.610439
+one_shot               0.505681
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.0037248677617973814, : Stat, 295744.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.8010862336999555, : Stat, 244011.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 7.399639488342286e-05, : Stat, 292033.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0013161602131642775, : Stat, 252753.5
+Comparación chain_of_thought vs one_shot: p-value = 0.2595991485892595, : Stat, 305669.5
+Comparación few_shot vs one_shot: p-value = 1.7850581957363088e-05, : Stat, 296899.0
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_Recall]
+prompt
+chain_of_thought       1.569998e-35
+chain_of_thought_FS    5.677049e-34
+few_shot               3.136001e-34
+one_shot               8.506950e-35
+Name: LOCATION_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Recall]: p-value = 0.0017207163517573068
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.500000
+Name: LOCATION_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.536866
+chain_of_thought_FS    0.583776
+few_shot               0.599184
+one_shot               0.515035
+Name: LOCATION_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.05162566749071251, : Stat, 288768.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5846719722782214, : Stat, 241984.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.005169546283010893, : Stat, 283681.5
+Comparación chain_of_thought vs few_shot: p-value = 0.01210117624382229, : Stat, 257940.5
+Comparación chain_of_thought vs one_shot: p-value = 0.3744417875688101, : Stat, 303731.0
+Comparación few_shot vs one_shot: p-value = 0.0007857800325442505, : Stat, 290131.5
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_F1
+prompt
+chain_of_thought       1.322522e-34
+chain_of_thought_FS    1.186754e-33
+few_shot               7.646693e-34
+one_shot               6.405561e-34
+Name: LOCATION_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_F1: p-value = 0.0001055474229609025
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    0.928205
+few_shot               1.000000
+one_shot               0.666667
+Name: LOCATION_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.527525
+chain_of_thought_FS    0.585584
+few_shot               0.599006
+one_shot               0.504525
+Name: LOCATION_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.012937164105356969, : Stat, 293081.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.6335678343223521, : Stat, 242410.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0008766381342410511, : Stat, 287886.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0027233663351476462, : Stat, 253901.5
+Comparación chain_of_thought vs one_shot: p-value = 0.3622297530834716, : Stat, 304036.0
+Comparación few_shot vs one_shot: p-value = 0.00012318564666790127, : Stat, 294084.5
+Prueba de normalidad por grupo=prompt para LOCATION_partial_Precision_
+prompt
+chain_of_thought       2.574913e-34
+chain_of_thought_FS    4.694280e-34
+few_shot               1.985426e-34
+one_shot               3.991398e-33
+Name: LOCATION_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Precision_: p-value = 3.110513922754974e-05
+
+Medians=prompt
+chain_of_thought       0.833333
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.750000
+Name: LOCATION_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.585968
+chain_of_thought_FS    0.650790
+few_shot               0.663456
+one_shot               0.573217
+Name: LOCATION_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.004671064782013293, : Stat, 295460.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5836166811953841, : Stat, 242003.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0007541981322637559, : Stat, 288031.0
+Comparación chain_of_thought vs few_shot: p-value = 0.000664507265087493, : Stat, 251127.5
+Comparación chain_of_thought vs one_shot: p-value = 0.5768919034381143, : Stat, 301205.0
+Comparación few_shot vs one_shot: p-value = 7.949090491314526e-05, : Stat, 294613.5
+Prueba de normalidad por grupo=prompt para LOCATION_partial_Recall]
+prompt
+chain_of_thought       1.268733e-34
+chain_of_thought_FS    3.619729e-33
+few_shot               1.179918e-33
+one_shot               1.175821e-33
+Name: LOCATION_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Recall]: p-value = 0.011162475401913228
+
+Medians=prompt
+chain_of_thought       1.000000
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.833333
+Name: LOCATION_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.594393
+chain_of_thought_FS    0.637156
+few_shot               0.653462
+one_shot               0.586855
+Name: LOCATION_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.0767440612886182, : Stat, 287569.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5123679051995277, : Stat, 241222.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.031149179199477295, : Stat, 279203.0
+Comparación chain_of_thought vs few_shot: p-value = 0.014916836085664013, : Stat, 258373.5
+Comparación chain_of_thought vs one_shot: p-value = 0.6934327737872532, : Stat, 299865.5
+Comparación few_shot vs one_shot: p-value = 0.0047693356071449025, : Stat, 286407.5
+Prueba de normalidad por grupo=prompt para LOCATION_partial_F1
+prompt
+chain_of_thought       1.483655e-33
+chain_of_thought_FS    1.026073e-32
+few_shot               3.420587e-33
+one_shot               1.613359e-32
+Name: LOCATION_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_F1: p-value = 0.0006385094070054434
+
+Medians=prompt
+chain_of_thought       0.750000
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.666667
+Name: LOCATION_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.582541
+chain_of_thought_FS    0.636615
+few_shot               0.651875
+one_shot               0.572576
+Name: LOCATION_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.01933705197152154, : Stat, 292163.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5257691449802233, : Stat, 241289.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0056555407091253085, : Stat, 284026.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0027051488444099496, : Stat, 253679.5
+Comparación chain_of_thought vs one_shot: p-value = 0.6561391942854651, : Stat, 300344.0
+Comparación few_shot vs one_shot: p-value = 0.000610141513042965, : Stat, 291304.0
+Prueba de normalidad por grupo=prompt para LOCATION_exact_Precision_
+prompt
+chain_of_thought       9.687773e-36
+chain_of_thought_FS    4.822897e-35
+few_shot               2.261650e-35
+one_shot               4.520843e-35
+Name: LOCATION_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Precision_: p-value = 4.3608712515071426e-05
+
+Medians=prompt
+chain_of_thought       0.75
+chain_of_thought_FS    1.00
+few_shot               1.00
+one_shot               0.50
+Name: LOCATION_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.541200
+chain_of_thought_FS    0.606435
+few_shot               0.619874
+one_shot               0.520285
+Name: LOCATION_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.00792947008048325, : Stat, 293809.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5945837527986844, : Stat, 242164.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0006432376877158506, : Stat, 287844.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0013093704257364257, : Stat, 252964.5
+Comparación chain_of_thought vs one_shot: p-value = 0.40847168580405324, : Stat, 303216.0
+Comparación few_shot vs one_shot: p-value = 7.29221785503146e-05, : Stat, 294197.0
+Prueba de normalidad por grupo=prompt para LOCATION_exact_Recall]
+prompt
+chain_of_thought       4.248910e-36
+chain_of_thought_FS    2.352162e-34
+few_shot               1.052435e-34
+one_shot               1.560267e-35
+Name: LOCATION_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Recall]: p-value = 0.0065368900566780625
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    1.0
+few_shot               1.0
+one_shot               0.7
+Name: LOCATION_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.547023
+chain_of_thought_FS    0.591988
+few_shot               0.608379
+one_shot               0.529658
+Name: LOCATION_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.07827962353245844, : Stat, 287270.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.550547645144962, : Stat, 241677.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.015252939272616731, : Stat, 280825.0
+Comparación chain_of_thought vs few_shot: p-value = 0.017981917066328467, : Stat, 259187.5
+Comparación chain_of_thought vs one_shot: p-value = 0.482061028656115, : Stat, 302204.5
+Comparación few_shot vs one_shot: p-value = 0.002505700420020759, : Stat, 287446.0
+Prueba de normalidad por grupo=prompt para LOCATION_exact_F1
+prompt
+chain_of_thought       3.669257e-35
+chain_of_thought_FS    5.943108e-34
+few_shot               2.492077e-34
+one_shot               1.212216e-34
+Name: LOCATION_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_F1: p-value = 0.0006370516659157772
+
+Medians=prompt
+chain_of_thought       0.666667
+chain_of_thought_FS    1.000000
+few_shot               1.000000
+one_shot               0.666667
+Name: LOCATION_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.537325
+chain_of_thought_FS    0.592608
+few_shot               0.608256
+one_shot               0.518948
+Name: LOCATION_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.024744821036060148, : Stat, 291154.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.5582760133060227, : Stat, 241687.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.0038724631043438222, : Stat, 284499.5
+Comparación chain_of_thought vs few_shot: p-value = 0.00434221425076607, : Stat, 255171.5
+Comparación chain_of_thought vs one_shot: p-value = 0.4837796960896189, : Stat, 302293.5
+Comparación few_shot vs one_shot: p-value = 0.0004930716615479343, : Stat, 291234.0

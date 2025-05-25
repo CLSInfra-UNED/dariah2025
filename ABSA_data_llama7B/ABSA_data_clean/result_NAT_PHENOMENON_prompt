@@ -1,0 +1,254 @@
+Number of NAT_PHENOMENON samples are 524
+
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_strict_Precision_
+prompt
+chain_of_thought       1.644720e-18
+chain_of_thought_FS    9.164274e-20
+few_shot               4.120297e-24
+one_shot               8.483967e-21
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_Precision_: p-value = 0.5241074088328395
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.151786
+chain_of_thought_FS    0.102679
+few_shot               0.100980
+one_shot               0.120513
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_strict_Recall]
+prompt
+chain_of_thought       1.371725e-18
+chain_of_thought_FS    9.219100e-20
+few_shot               4.107106e-24
+one_shot               7.831903e-21
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_Recall]: p-value = 0.5442276035632687
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.144643
+chain_of_thought_FS    0.098214
+few_shot               0.103922
+one_shot               0.115385
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_strict_F1
+prompt
+chain_of_thought       1.831703e-18
+chain_of_thought_FS    1.119692e-19
+few_shot               4.307980e-24
+one_shot               9.665931e-21
+Name: NAT_PHENOMENON_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_F1: p-value = 0.5401302826132157
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.145089
+chain_of_thought_FS    0.098214
+few_shot               0.101961
+one_shot               0.115385
+Name: NAT_PHENOMENON_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_ent_type_Precision_
+prompt
+chain_of_thought       1.811170e-18
+chain_of_thought_FS    9.164274e-20
+few_shot               4.120297e-24
+one_shot               8.483967e-21
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_Precision_: p-value = 0.5214144833994088
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.153274
+chain_of_thought_FS    0.102679
+few_shot               0.100980
+one_shot               0.120513
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_ent_type_Recall]
+prompt
+chain_of_thought       1.445079e-18
+chain_of_thought_FS    9.219100e-20
+few_shot               4.107106e-24
+one_shot               7.831903e-21
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_Recall]: p-value = 0.5442276035632687
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.145089
+chain_of_thought_FS    0.098214
+few_shot               0.103922
+one_shot               0.115385
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_ent_type_F1
+prompt
+chain_of_thought       1.973040e-18
+chain_of_thought_FS    1.119692e-19
+few_shot               4.307980e-24
+one_shot               9.665931e-21
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_F1: p-value = 0.5401302826132157
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.145833
+chain_of_thought_FS    0.098214
+few_shot               0.101961
+one_shot               0.115385
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_partial_Precision_
+prompt
+chain_of_thought       3.254158e-13
+chain_of_thought_FS    9.642450e-14
+few_shot               3.985806e-19
+one_shot               4.833309e-15
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_Precision_: p-value = 0.15215936288137852
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.288318
+chain_of_thought_FS    0.239583
+few_shot               0.201961
+one_shot               0.245192
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_partial_Recall]
+prompt
+chain_of_thought       3.685007e-13
+chain_of_thought_FS    9.731922e-14
+few_shot               2.548977e-19
+one_shot               5.113409e-15
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_Recall]: p-value = 0.18530977087765632
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.275298
+chain_of_thought_FS    0.238839
+few_shot               0.198775
+one_shot               0.241346
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_partial_F1
+prompt
+chain_of_thought       5.632040e-13
+chain_of_thought_FS    2.147610e-13
+few_shot               3.701821e-19
+one_shot               8.075609e-15
+Name: NAT_PHENOMENON_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_F1: p-value = 0.17678180376486313
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.274213
+chain_of_thought_FS    0.232589
+few_shot               0.197157
+one_shot               0.236026
+Name: NAT_PHENOMENON_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_exact_Precision_
+prompt
+chain_of_thought       1.580973e-18
+chain_of_thought_FS    9.061187e-20
+few_shot               3.907929e-24
+one_shot               7.813332e-21
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_Precision_: p-value = 0.5366985110028872
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.160714
+chain_of_thought_FS    0.111607
+few_shot               0.108824
+one_shot               0.126923
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_exact_Recall]
+prompt
+chain_of_thought       1.255667e-18
+chain_of_thought_FS    9.114372e-20
+few_shot               3.899416e-24
+one_shot               7.186391e-21
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_Recall]: p-value = 0.5554306515829466
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.152530
+chain_of_thought_FS    0.107143
+few_shot               0.111765
+one_shot               0.121795
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para NAT_PHENOMENON_exact_F1
+prompt
+chain_of_thought       1.718580e-18
+chain_of_thought_FS    1.081763e-19
+few_shot               4.079386e-24
+one_shot               8.886149e-21
+Name: NAT_PHENOMENON_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_F1: p-value = 0.554953131987223
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: NAT_PHENOMENON_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.153274
+chain_of_thought_FS    0.107143
+few_shot               0.109804
+one_shot               0.121795
+Name: NAT_PHENOMENON_exact_F1, dtype: float64

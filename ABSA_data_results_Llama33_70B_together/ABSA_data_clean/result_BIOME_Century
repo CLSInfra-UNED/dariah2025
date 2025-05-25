@@ -1,0 +1,422 @@
+Number of BIOME samples are 97
+
+Prueba de normalidad por grupo=Century para BIOME_strict_Precision_
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_Precision_: p-value = 7.835191476126982e-09
+
+Medians of BIOME_strict_Precision_ =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_strict_Precision_, dtype: float64
+Mean of BIOME_strict_Precision_ =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_strict_Recall]
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_Recall]: p-value = 7.835191476126982e-09
+
+Medians of BIOME_strict_Recall] =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_strict_Recall], dtype: float64
+Mean of BIOME_strict_Recall] =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_strict_F1
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_F1: p-value = 7.835191476126982e-09
+
+Medians of BIOME_strict_F1 =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_strict_F1, dtype: float64
+Mean of BIOME_strict_F1 =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_ent_type_Precision_
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_Precision_: p-value = 7.835191476126982e-09
+
+Medians of BIOME_ent_type_Precision_ =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_ent_type_Precision_, dtype: float64
+Mean of BIOME_ent_type_Precision_ =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_ent_type_Recall]
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_Recall]: p-value = 7.835191476126982e-09
+
+Medians of BIOME_ent_type_Recall] =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_ent_type_Recall], dtype: float64
+Mean of BIOME_ent_type_Recall] =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_ent_type_F1
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_F1: p-value = 7.835191476126982e-09
+
+Medians of BIOME_ent_type_F1 =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_ent_type_F1, dtype: float64
+Mean of BIOME_ent_type_F1 =Century
+18    0.875000
+19    0.080000
+20    0.191176
+Name: BIOME_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.8855888431757482, : Stat, 175.0
+
+Comparación 18 vs 19: p-value = 0.00018212600191027317, : Stat, 111.0
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.003061  5.538441e-09
+19  3.060869e-03  1.000000  7.779634e-01
+20  5.538441e-09  0.777963  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_partial_Precision_
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.147149e-10
+Name: BIOME_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_Precision_: p-value = 9.692617265729778e-07
+
+Medians of BIOME_partial_Precision_ =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_partial_Precision_, dtype: float64
+Mean of BIOME_partial_Precision_ =Century
+18    0.875000
+19    0.200000
+20    0.305147
+Name: BIOME_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 2.6766521533776203e-07, : Stat, 282.0
+
+Comparación 20 vs 19: p-value = 0.4581954402580445, : Stat, 200.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.005355  9.719359e-07
+19  5.355486e-03  1.000000  5.703053e-01
+20  9.719359e-07  0.570305  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_partial_Recall]
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.288607e-10
+Name: BIOME_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_Recall]: p-value = 9.567666703389378e-07
+
+Medians of BIOME_partial_Recall] =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_partial_Recall], dtype: float64
+Mean of BIOME_partial_Recall] =Century
+18    0.875000
+19    0.200000
+20    0.308824
+Name: BIOME_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 2.637009820402527e-07, : Stat, 282.0
+
+Comparación 20 vs 19: p-value = 0.45766127388761735, : Stat, 200.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.005331  9.597021e-07
+19  5.330792e-03  1.000000  5.701247e-01
+20  9.597021e-07  0.570125  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_partial_F1
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.339666e-10
+Name: BIOME_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_F1: p-value = 9.692617265729778e-07
+
+Medians of BIOME_partial_F1 =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_partial_F1, dtype: float64
+Mean of BIOME_partial_F1 =Century
+18    0.875000
+19    0.200000
+20    0.306373
+Name: BIOME_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 2.6766521533776203e-07, : Stat, 282.0
+
+Comparación 20 vs 19: p-value = 0.4581954402580445, : Stat, 200.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.005355  9.719359e-07
+19  5.355486e-03  1.000000  5.703053e-01
+20  9.719359e-07  0.570305  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_exact_Precision_
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_Precision_: p-value = 1.3909987702342838e-08
+
+Medians of BIOME_exact_Precision_ =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_exact_Precision_, dtype: float64
+Mean of BIOME_exact_Precision_ =Century
+18    0.875000
+19    0.200000
+20    0.191176
+Name: BIOME_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.9744534298559724, : Stat, 168.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.008900  7.282818e-09
+19  8.899699e-03  1.000000  9.685342e-01
+20  7.282818e-09  0.968534  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_exact_Recall]
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_Recall]: p-value = 1.3909987702342838e-08
+
+Medians of BIOME_exact_Recall] =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_exact_Recall], dtype: float64
+Mean of BIOME_exact_Recall] =Century
+18    0.875000
+19    0.200000
+20    0.191176
+Name: BIOME_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.9744534298559724, : Stat, 168.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.008900  7.282818e-09
+19  8.899699e-03  1.000000  9.685342e-01
+20  7.282818e-09  0.968534  1.000000e+00 
+
+Prueba de normalidad por grupo=Century para BIOME_exact_F1
+
+
+
+Century
+18    5.969920e-09
+19    1.309788e-04
+20    3.890363e-14
+Name: BIOME_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_F1: p-value = 1.3909987702342838e-08
+
+Medians of BIOME_exact_F1 =Century
+18    1.0
+19    0.0
+20    0.0
+Name: BIOME_exact_F1, dtype: float64
+Mean of BIOME_exact_F1 =Century
+18    0.875000
+19    0.200000
+20    0.191176
+Name: BIOME_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 3.0477037509122525e-09, : Stat, 258.0
+
+Comparación 20 vs 19: p-value = 0.9744534298559724, : Stat, 168.5
+
+Comparación 18 vs 19: p-value = 0.0018457213176962682, : Stat, 100.5
+
+Analisis test de Dunn:               18        19            20
+18  1.000000e+00  0.008900  7.282818e-09
+19  8.899699e-03  1.000000  9.685342e-01
+20  7.282818e-09  0.968534  1.000000e+00 
+

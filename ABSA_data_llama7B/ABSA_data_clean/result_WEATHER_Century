@@ -1,0 +1,266 @@
+Number of WEATHER samples are 944
+
+Prueba de normalidad por grupo=Century para WEATHER_strict_Precision_
+Century
+18    1.193083e-23
+19    1.558064e-21
+20    1.298190e-32
+Name: WEATHER_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_Precision_: p-value = 1.921253053587164e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_strict_Precision_, dtype: float64
+Mean=Century
+18    0.280489
+19    0.037879
+20    0.301109
+Name: WEATHER_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.8836615603903033, : Stat, 79668.5
+Comparación 18 vs 19: p-value = 2.7880432242297515e-10, : Stat, 21367.0
+Comparación 20 vs 19: p-value = 1.16101369495047e-09, : Stat, 38483.0
+Prueba de normalidad por grupo=Century para WEATHER_strict_Recall]
+Century
+18    3.376441e-23
+19    2.243894e-21
+20    2.227091e-32
+Name: WEATHER_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_Recall]: p-value = 5.331934830294082e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_strict_Recall], dtype: float64
+Mean=Century
+18    0.288965
+19    0.050000
+20    0.285428
+Name: WEATHER_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.6139725444348607, : Stat, 80678.5
+Comparación 18 vs 19: p-value = 7.364076104000449e-10, : Stat, 21238.0
+Comparación 20 vs 19: p-value = 3.823449495203449e-09, : Stat, 38222.5
+Prueba de normalidad por grupo=Century para WEATHER_strict_F1
+Century
+18    4.765342e-23
+19    2.105559e-21
+20    4.938831e-32
+Name: WEATHER_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_strict_F1: p-value = 2.9890696007555445e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_strict_F1, dtype: float64
+Mean=Century
+18    0.277913
+19    0.040909
+20    0.285981
+Name: WEATHER_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.7743961868920001, : Stat, 80066.5
+Comparación 18 vs 19: p-value = 4.1442692693386554e-10, : Stat, 21321.5
+Comparación 20 vs 19: p-value = 1.879742878625143e-09, : Stat, 38404.5
+Prueba de normalidad por grupo=Century para WEATHER_ent_type_Precision_
+Century
+18    4.757380e-24
+19    1.567070e-21
+20    1.073662e-32
+Name: WEATHER_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_Precision_: p-value = 1.5640342247479367e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.321217
+19    0.042424
+20    0.308349
+Name: WEATHER_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.4774510003050487, : Stat, 81246.5
+Comparación 18 vs 19: p-value = 2.2405423323101738e-10, : Stat, 21375.0
+Comparación 20 vs 19: p-value = 1.5238812442231411e-09, : Stat, 38409.0
+Prueba de normalidad por grupo=Century para WEATHER_ent_type_Recall]
+Century
+18    3.088479e-24
+19    2.367067e-21
+20    1.991612e-32
+Name: WEATHER_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_Recall]: p-value = 2.1214937036487845e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.345279
+19    0.054545
+20    0.292052
+Name: WEATHER_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.15281772537875402, : Stat, 83265.0
+Comparación 18 vs 19: p-value = 4.131446917296648e-10, : Stat, 21278.0
+Comparación 20 vs 19: p-value = 5.0651059247980145e-09, : Stat, 38148.0
+Prueba de normalidad por grupo=Century para WEATHER_ent_type_F1
+Century
+18    1.524588e-23
+19    2.150114e-21
+20    4.208025e-32
+Name: WEATHER_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_ent_type_F1: p-value = 2.0465041278080796e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_ent_type_F1, dtype: float64
+Mean=Century
+18    0.322932
+19    0.045455
+20    0.292794
+Name: WEATHER_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.3269398967928536, : Stat, 82018.0
+Comparación 18 vs 19: p-value = 2.9687533666159897e-10, : Stat, 21350.0
+Comparación 20 vs 19: p-value = 2.609338769922995e-09, : Stat, 38321.0
+Prueba de normalidad por grupo=Century para WEATHER_partial_Precision_
+Century
+18    4.234132e-17
+19    6.986252e-18
+20    2.830107e-27
+Name: WEATHER_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_Precision_: p-value = 1.0902024210250473e-13
+
+Medians=Century
+18    0.375
+19    0.000
+20    0.250
+Name: WEATHER_partial_Precision_, dtype: float64
+Mean=Century
+18    0.408732
+19    0.099242
+20    0.392348
+Name: WEATHER_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.2790734489120039, : Stat, 82667.5
+Comparación 18 vs 19: p-value = 3.431215503339303e-15, : Stat, 23786.0
+Comparación 20 vs 19: p-value = 2.6097790371154382e-12, : Stat, 41286.0
+Prueba de normalidad por grupo=Century para WEATHER_partial_Recall]
+Century
+18    5.441030e-17
+19    7.011192e-18
+20    9.438356e-27
+Name: WEATHER_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_Recall]: p-value = 8.233888468907875e-14
+
+Medians=Century
+18    0.50
+19    0.00
+20    0.25
+Name: WEATHER_partial_Recall], dtype: float64
+Mean=Century
+18    0.439704
+19    0.113636
+20    0.376463
+Name: WEATHER_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.01884642469467904, : Stat, 86654.5
+Comparación 18 vs 19: p-value = 3.6102918478788234e-15, : Stat, 23754.0
+Comparación 20 vs 19: p-value = 3.610513309561354e-11, : Stat, 40671.0
+Prueba de normalidad por grupo=Century para WEATHER_partial_F1
+Century
+18    4.995440e-16
+19    8.158503e-18
+20    3.736310e-26
+Name: WEATHER_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_partial_F1: p-value = 1.255087983559833e-13
+
+Medians=Century
+18    0.400000
+19    0.000000
+20    0.333333
+Name: WEATHER_partial_F1, dtype: float64
+Mean=Century
+18    0.411515
+19    0.102273
+20    0.372654
+Name: WEATHER_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.08520262600271174, : Stat, 84710.5
+Comparación 18 vs 19: p-value = 3.5220511463423856e-15, : Stat, 23802.5
+Comparación 20 vs 19: p-value = 1.1154963444418905e-11, : Stat, 40994.0
+Prueba de normalidad por grupo=Century para WEATHER_exact_Precision_
+Century
+18    1.245259e-23
+19    1.558064e-21
+20    1.307266e-32
+Name: WEATHER_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_Precision_: p-value = 1.8559618521567378e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_exact_Precision_, dtype: float64
+Mean=Century
+18    0.281058
+19    0.037879
+20    0.304498
+Name: WEATHER_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.9321080870579623, : Stat, 79496.5
+Comparación 18 vs 19: p-value = 2.7557574772489523e-10, : Stat, 21368.5
+Comparación 20 vs 19: p-value = 1.088531044177389e-09, : Stat, 38494.5
+Prueba de normalidad por grupo=Century para WEATHER_exact_Recall]
+Century
+18    3.166330e-23
+19    2.243894e-21
+20    2.245727e-32
+Name: WEATHER_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_Recall]: p-value = 5.203247860087383e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_exact_Recall], dtype: float64
+Mean=Century
+18    0.290671
+19    0.050000
+20    0.288355
+Name: WEATHER_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.6330513631078921, : Stat, 80602.0
+Comparación 18 vs 19: p-value = 7.174218548870246e-10, : Stat, 21241.0
+Comparación 20 vs 19: p-value = 3.6725690720729875e-09, : Stat, 38229.5
+Prueba de normalidad por grupo=Century para WEATHER_exact_F1
+Century
+18    4.917547e-23
+19    2.105559e-21
+20    5.218309e-32
+Name: WEATHER_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para WEATHER_exact_F1: p-value = 2.9148342444600936e-09
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: WEATHER_exact_F1, dtype: float64
+Mean=Century
+18    0.278823
+19    0.040909
+20    0.288833
+Name: WEATHER_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.8145128542886811, : Stat, 79919.5
+Comparación 18 vs 19: p-value = 4.0501509909019997e-10, : Stat, 21324.5
+Comparación 20 vs 19: p-value = 1.787765175969303e-09, : Stat, 38415.0

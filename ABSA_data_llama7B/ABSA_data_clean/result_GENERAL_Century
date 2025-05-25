@@ -1,0 +1,266 @@
+Number of GENERAL samples are 7628
+
+Prueba de normalidad por grupo=Century para Precision_strict
+Century
+18    6.746591e-39
+19    1.221932e-42
+20    0.000000e+00
+Name: Precision_strict, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Precision_strict: p-value = 0.004201402767884044
+
+Medians=Century
+18    0.400000
+19    0.400000
+20    0.333333
+Name: Precision_strict, dtype: float64
+Mean=Century
+18    0.442551
+19    0.433521
+20    0.411902
+Name: Precision_strict, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0025870943517556306, : Stat, 3061878.5
+Comparación 20 vs 19: p-value = 0.01792254354654645, : Stat, 3886915.0
+Comparación 18 vs 19: p-value = 0.46100848602000266, : Stat, 2037010.5
+Prueba de normalidad por grupo=Century para Recall_strict
+Century
+18    9.535554e-39
+19    9.635328e-42
+20    0.000000e+00
+Name: Recall_strict, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Recall_strict: p-value = 5.115313509615552e-09
+
+Medians=Century
+18    0.500000
+19    0.333333
+20    0.333333
+Name: Recall_strict, dtype: float64
+Mean=Century
+18    0.450623
+19    0.380321
+20    0.389290
+Name: Recall_strict, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 2.1857815914465545e-08, : Stat, 2927211.5
+Comparación 20 vs 19: p-value = 0.9004216175436591, : Stat, 4022624.5
+Comparación 18 vs 19: p-value = 3.427588615363025e-08, : Stat, 2208645.0
+Prueba de normalidad por grupo=Century para F1_strict
+Century
+18    1.519011e-35
+19    2.610049e-38
+20    0.000000e+00
+Name: F1_strict, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para F1_strict: p-value = 1.2719617323322167e-05
+
+Medians=Century
+18    0.414286
+19    0.375000
+20    0.352941
+Name: F1_strict, dtype: float64
+Mean=Century
+18    0.422198
+19    0.378053
+20    0.375744
+Name: F1_strict, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 7.2417497759428666e-06, : Stat, 2983866.5
+Comparación 20 vs 19: p-value = 0.6494629929540363, : Stat, 4002527.5
+Comparación 18 vs 19: p-value = 8.460696501191276e-05, : Stat, 2152286.0
+Prueba de normalidad por grupo=Century para Precision_ent_type
+Century
+18    1.121718e-39
+19    4.133830e-43
+20    0.000000e+00
+Name: Precision_ent_type, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Precision_ent_type: p-value = 0.014979186715348217
+
+Medians=Century
+18    0.5
+19    0.5
+20    0.5
+Name: Precision_ent_type, dtype: float64
+Mean=Century
+18    0.462239
+19    0.448203
+20    0.433230
+Name: Precision_ent_type, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0052967384047045655, : Stat, 3073987.0
+Comparación 20 vs 19: p-value = 0.0830270926147691, : Stat, 3925560.0
+Comparación 18 vs 19: p-value = 0.2705373859189516, : Stat, 2049971.5
+Prueba de normalidad por grupo=Century para Recall_ent_type
+Century
+18    7.581165e-40
+19    9.426535e-42
+20    0.000000e+00
+Name: Recall_ent_type, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Recall_ent_type: p-value = 1.3026634311753629e-10
+
+Medians=Century
+18    0.500000
+19    0.333333
+20    0.333333
+Name: Recall_ent_type, dtype: float64
+Mean=Century
+18    0.474014
+19    0.391734
+20    0.404949
+Name: Recall_ent_type, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 2.2246042525171466e-09, : Stat, 2907801.5
+Comparación 20 vs 19: p-value = 0.8025944417461499, : Stat, 4045391.0
+Comparación 18 vs 19: p-value = 5.945927279651145e-10, : Stat, 2232500.5
+Prueba de normalidad por grupo=Century para F1_ent_type
+Century
+18    3.257668e-36
+19    2.619101e-38
+20    0.000000e+00
+Name: F1_ent_type, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para F1_ent_type: p-value = 2.225506255149549e-06
+
+Medians=Century
+18    0.5
+19    0.4
+20    0.4
+Name: F1_ent_type, dtype: float64
+Mean=Century
+18    0.440195
+19    0.388880
+20    0.391816
+Name: F1_ent_type, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 5.980602377042763e-06, : Stat, 2981883.0
+Comparación 20 vs 19: p-value = 0.8058997170937983, : Stat, 4045192.0
+Comparación 18 vs 19: p-value = 3.1233177660272983e-06, : Stat, 2178574.5
+Prueba de normalidad por grupo=Century para Precision_partial
+Century
+18    6.566684e-38
+19    1.638118e-42
+20    0.000000e+00
+Name: Precision_partial, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Precision_partial: p-value = 0.0027698430272425755
+
+Medians=Century
+18    0.5
+19    0.5
+20    0.5
+Name: Precision_partial, dtype: float64
+Mean=Century
+18    0.542036
+19    0.564176
+20    0.531429
+Name: Precision_partial, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.2270995359111454, : Stat, 3154887.0
+Comparación 20 vs 19: p-value = 0.0005495507869747105, : Stat, 3818791.5
+Comparación 18 vs 19: p-value = 0.0800294144496521, : Stat, 1947843.0
+Prueba de normalidad por grupo=Century para Recall_partial
+Century
+18    1.867526e-37
+19    1.440418e-37
+20    0.000000e+00
+Name: Recall_partial, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Recall_partial: p-value = 1.5311208487175316e-09
+
+Medians=Century
+18    0.5
+19    0.5
+20    0.5
+Name: Recall_partial, dtype: float64
+Mean=Century
+18    0.555797
+19    0.489151
+20    0.500445
+Name: Recall_partial, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 6.877468187446717e-08, : Stat, 2933958.5
+Comparación 20 vs 19: p-value = 0.22510492424737238, : Stat, 4104920.0
+Comparación 18 vs 19: p-value = 2.097021670912694e-09, : Stat, 2226972.5
+Prueba de normalidad por grupo=Century para F1_partial
+Century
+18    7.050603e-33
+19    9.481230e-34
+20    4.044007e-41
+Name: F1_partial, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para F1_partial: p-value = 0.0005557218543947563
+
+Medians=Century
+18    0.571429
+19    0.500000
+20    0.500000
+Name: F1_partial, dtype: float64
+Mean=Century
+18    0.513678
+19    0.485500
+20    0.480657
+Name: F1_partial, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0002289949073447983, : Stat, 3022206.0
+Comparación 20 vs 19: p-value = 0.7135422078455278, : Stat, 4007440.5
+Comparación 18 vs 19: p-value = 0.0015339604207223738, : Stat, 2126086.0
+Prueba de normalidad por grupo=Century para Precision_exact
+Century
+18    5.530084e-41
+19    1.401298e-45
+20    0.000000e+00
+Name: Precision_exact, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Precision_exact: p-value = 5.8393746139211946e-06
+
+Medians=Century
+18    0.5
+19    0.5
+20    0.5
+Name: Precision_exact, dtype: float64
+Mean=Century
+18    0.489202
+19    0.495388
+20    0.448034
+Name: Precision_exact, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0002715621438878289, : Stat, 3030418.5
+Comparación 20 vs 19: p-value = 1.175520752392951e-05, : Stat, 3767005.5
+Comparación 18 vs 19: p-value = 0.6446057195743464, : Stat, 1994284.0
+Prueba de normalidad por grupo=Century para Recall_exact
+Century
+18    1.334989e-40
+19    1.234544e-42
+20    0.000000e+00
+Name: Recall_exact, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para Recall_exact: p-value = 1.710420849455364e-10
+
+Medians=Century
+18    0.500000
+19    0.363971
+20    0.333333
+Name: Recall_exact, dtype: float64
+Mean=Century
+18    0.493440
+19    0.424345
+20    0.417185
+Name: Recall_exact, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 1.0259279095619407e-10, : Stat, 2883452.5
+Comparación 20 vs 19: p-value = 0.20769042159580453, : Stat, 3953948.0
+Comparación 18 vs 19: p-value = 1.8363265078059024e-07, : Stat, 2196873.5
+Prueba de normalidad por grupo=Century para F1_exact
+Century
+18    4.947644e-37
+19    2.258235e-39
+20    0.000000e+00
+Name: F1_exact, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para F1_exact: p-value = 5.157826213425126e-07
+
+Medians=Century
+18    0.500000
+19    0.444444
+20    0.400000
+Name: F1_exact, dtype: float64
+Mean=Century
+18    0.460796
+19    0.423269
+20    0.403307
+Name: F1_exact, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 1.0440185906959849e-07, : Stat, 2940615.0
+Comparación 20 vs 19: p-value = 0.050765305332922055, : Stat, 3911299.5
+Comparación 18 vs 19: p-value = 0.0006738380689149309, : Stat, 2132980.0

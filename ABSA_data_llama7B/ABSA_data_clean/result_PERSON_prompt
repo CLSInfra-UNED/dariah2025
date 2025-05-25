@@ -1,0 +1,338 @@
+Number of PERSON samples are 4047
+
+Prueba de normalidad por grupo=prompt para PERSON_strict_Precision_
+prompt
+chain_of_thought       1.782494e-37
+chain_of_thought_FS    5.284273e-39
+few_shot               4.846110e-41
+one_shot               9.446113e-38
+Name: PERSON_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Precision_: p-value = 0.03432564048193923
+
+Medians=prompt
+chain_of_thought       0.500000
+chain_of_thought_FS    0.450000
+few_shot               0.000000
+one_shot               0.333333
+Name: PERSON_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.464404
+chain_of_thought_FS    0.466929
+few_shot               0.417317
+one_shot               0.460644
+Name: PERSON_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.9006256394277694, : Stat, 491618.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.011405772062258518, : Stat, 595765.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.6994365902367412, : Stat, 492593.0
+Comparación chain_of_thought vs few_shot: p-value = 0.016068993935747546, : Stat, 562644.5
+Comparación chain_of_thought vs one_shot: p-value = 0.7989723682610868, : Stat, 464594.0
+Comparación few_shot vs one_shot: p-value = 0.03422494632924113, : Stat, 504899.5
+Prueba de normalidad por grupo=prompt para PERSON_strict_Recall]
+prompt
+chain_of_thought       2.730291e-35
+chain_of_thought_FS    2.484737e-36
+few_shot               4.628692e-39
+one_shot               2.354530e-35
+Name: PERSON_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Recall]: p-value = 0.02091595599930681
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.250000
+few_shot               0.000000
+one_shot               0.250000
+Name: PERSON_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.406246
+chain_of_thought_FS    0.399789
+few_shot               0.356957
+one_shot               0.393477
+Name: PERSON_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.7088409071270187, : Stat, 485725.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.013998666687690382, : Stat, 595541.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.766949325422503, : Stat, 491640.5
+Comparación chain_of_thought vs few_shot: p-value = 0.005056660984477211, : Stat, 568197.5
+Comparación chain_of_thought vs one_shot: p-value = 0.5074709335185745, : Stat, 469295.5
+Comparación few_shot vs one_shot: p-value = 0.03283238172954505, : Stat, 504156.0
+Prueba de normalidad por grupo=prompt para PERSON_strict_F1
+prompt
+chain_of_thought       2.148464e-34
+chain_of_thought_FS    1.582552e-35
+few_shot               2.365448e-38
+one_shot               1.618917e-34
+Name: PERSON_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_F1: p-value = 0.03507600295576098
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.333333
+few_shot               0.000000
+one_shot               0.333333
+Name: PERSON_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.414911
+chain_of_thought_FS    0.411887
+few_shot               0.369010
+one_shot               0.405981
+Name: PERSON_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.8433781850467038, : Stat, 487805.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.017007425348378756, : Stat, 594742.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.7463011136232842, : Stat, 491979.5
+Comparación chain_of_thought vs few_shot: p-value = 0.010078369325721495, : Stat, 565445.5
+Comparación chain_of_thought vs one_shot: p-value = 0.6070544500421653, : Stat, 467635.5
+Comparación few_shot vs one_shot: p-value = 0.041478151077846775, : Stat, 505248.5
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_Precision_
+prompt
+chain_of_thought       5.399725e-38
+chain_of_thought_FS    1.982672e-39
+few_shot               2.060049e-41
+one_shot               3.227664e-38
+Name: PERSON_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Precision_: p-value = 0.03465310202763098
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    0.5
+few_shot               0.0
+one_shot               0.5
+Name: PERSON_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.475870
+chain_of_thought_FS    0.476187
+few_shot               0.426727
+one_shot               0.470593
+Name: PERSON_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.9611976317639506, : Stat, 490729.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.012599655091785502, : Stat, 595156.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.7206232039866776, : Stat, 492241.0
+Comparación chain_of_thought vs few_shot: p-value = 0.014584814881807765, : Stat, 562917.5
+Comparación chain_of_thought vs one_shot: p-value = 0.7614334585239764, : Stat, 465118.5
+Comparación few_shot vs one_shot: p-value = 0.034945576809780596, : Stat, 505134.0
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_Recall]
+prompt
+chain_of_thought       1.822447e-35
+chain_of_thought_FS    2.092994e-36
+few_shot               3.599546e-39
+one_shot               1.871487e-35
+Name: PERSON_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Recall]: p-value = 0.02226125591702644
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.320513
+few_shot               0.000000
+one_shot               0.250000
+Name: PERSON_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.414066
+chain_of_thought_FS    0.404861
+few_shot               0.363238
+one_shot               0.399403
+Name: PERSON_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.628320629327141, : Stat, 484416.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.017393986980853676, : Stat, 594478.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.7950279156269804, : Stat, 491204.5
+Comparación chain_of_thought vs few_shot: p-value = 0.004687187455360473, : Stat, 568457.5
+Comparación chain_of_thought vs one_shot: p-value = 0.46226169697053376, : Stat, 470107.5
+Comparación few_shot vs one_shot: p-value = 0.0365679239560646, : Stat, 504728.0
+Prueba de normalidad por grupo=prompt para PERSON_ent_type_F1
+prompt
+chain_of_thought       1.287090e-34
+chain_of_thought_FS    1.049442e-35
+few_shot               1.554038e-38
+one_shot               1.043072e-34
+Name: PERSON_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_F1: p-value = 0.0405654893826916
+
+Medians=prompt
+chain_of_thought       0.4
+chain_of_thought_FS    0.4
+few_shot               0.0
+one_shot               0.4
+Name: PERSON_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.422993
+chain_of_thought_FS    0.418117
+few_shot               0.376166
+one_shot               0.412842
+Name: PERSON_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.7817193650891161, : Stat, 486857.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.021348483859324467, : Stat, 593606.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.7643086757039885, : Stat, 491695.0
+Comparación chain_of_thought vs few_shot: p-value = 0.010426188615772606, : Stat, 565268.0
+Comparación chain_of_thought vs one_shot: p-value = 0.5684476805145044, : Stat, 468270.5
+Comparación few_shot vs one_shot: p-value = 0.04808949810746936, : Stat, 506048.0
+Prueba de normalidad por grupo=prompt para PERSON_partial_Precision_
+prompt
+chain_of_thought       9.317362e-36
+chain_of_thought_FS    1.975369e-37
+few_shot               7.105197e-39
+one_shot               3.288358e-36
+Name: PERSON_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Precision_: p-value = 0.006864036980586339
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    0.5
+few_shot               0.5
+one_shot               0.5
+Name: PERSON_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.528539
+chain_of_thought_FS    0.519478
+few_shot               0.467893
+one_shot               0.520244
+Name: PERSON_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.6416021214028187, : Stat, 484642.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.009444834080230396, : Stat, 597516.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.9671202210743314, : Stat, 487644.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0019145518752875237, : Stat, 572296.5
+Comparación chain_of_thought vs one_shot: p-value = 0.6727649822302009, : Stat, 466562.5
+Comparación few_shot vs one_shot: p-value = 0.008604185159977561, : Stat, 497742.5
+Prueba de normalidad por grupo=prompt para PERSON_partial_Recall]
+prompt
+chain_of_thought       2.229538e-32
+chain_of_thought_FS    6.906942e-34
+few_shot               3.929889e-36
+one_shot               1.201134e-32
+Name: PERSON_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Recall]: p-value = 0.0022847536193572986
+
+Medians=prompt
+chain_of_thought       0.500000
+chain_of_thought_FS    0.500000
+few_shot               0.333333
+one_shot               0.500000
+Name: PERSON_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.469083
+chain_of_thought_FS    0.449207
+few_shot               0.404111
+one_shot               0.450755
+Name: PERSON_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.2631176212952092, : Stat, 476543.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.012525215178555359, : Stat, 596990.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.8985141203387422, : Stat, 486584.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0002889519523388899, : Stat, 579867.5
+Comparación chain_of_thought vs one_shot: p-value = 0.3194828616935952, : Stat, 473357.0
+Comparación few_shot vs one_shot: p-value = 0.008986801643003346, : Stat, 497200.5
+Prueba de normalidad por grupo=prompt para PERSON_partial_F1
+prompt
+chain_of_thought       2.873523e-31
+chain_of_thought_FS    5.757347e-33
+few_shot               2.618497e-35
+one_shot               1.099968e-31
+Name: PERSON_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_F1: p-value = 0.006360625636231928
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    0.5
+few_shot               0.4
+one_shot               0.5
+Name: PERSON_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.473725
+chain_of_thought_FS    0.459743
+few_shot               0.414705
+one_shot               0.460110
+Name: PERSON_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.45225407184329314, : Stat, 480948.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.013201590960351903, : Stat, 596923.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.9823164786944529, : Stat, 487860.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0010987538528447627, : Stat, 575467.0
+Comparación chain_of_thought vs one_shot: p-value = 0.46636995072170406, : Stat, 470311.0
+Comparación few_shot vs one_shot: p-value = 0.012454032356302443, : Stat, 498476.5
+Prueba de normalidad por grupo=prompt para PERSON_exact_Precision_
+prompt
+chain_of_thought       3.543506e-38
+chain_of_thought_FS    1.983245e-39
+few_shot               2.388934e-41
+one_shot               1.943784e-38
+Name: PERSON_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Precision_: p-value = 0.016981343218697383
+
+Medians=prompt
+chain_of_thought       0.5
+chain_of_thought_FS    0.5
+few_shot               0.0
+one_shot               0.5
+Name: PERSON_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.479461
+chain_of_thought_FS    0.477674
+few_shot               0.424751
+one_shot               0.475257
+Name: PERSON_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.9416934715319127, : Stat, 489323.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.008824143525850236, : Stat, 596733.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.8516955793722905, : Stat, 490275.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0072580037675946205, : Stat, 565859.0
+Comparación chain_of_thought vs one_shot: p-value = 0.7983653531951616, : Stat, 464577.5
+Comparación few_shot vs one_shot: p-value = 0.01675045890202052, : Stat, 501716.5
+Prueba de normalidad por grupo=prompt para PERSON_exact_Recall]
+prompt
+chain_of_thought       1.348278e-35
+chain_of_thought_FS    1.409882e-36
+few_shot               3.427023e-39
+one_shot               1.133343e-35
+Name: PERSON_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Recall]: p-value = 0.011981348162681685
+
+Medians=prompt
+chain_of_thought       0.333333
+chain_of_thought_FS    0.333333
+few_shot               0.000000
+one_shot               0.312500
+Name: PERSON_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.416982
+chain_of_thought_FS    0.408959
+few_shot               0.362293
+one_shot               0.404118
+Name: PERSON_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.6648174662016323, : Stat, 485025.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.010058408327700774, : Stat, 597013.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.8199463760466499, : Stat, 490820.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0029282679948302664, : Stat, 570291.0
+Comparación chain_of_thought vs one_shot: p-value = 0.5136382009657043, : Stat, 469168.0
+Comparación few_shot vs one_shot: p-value = 0.020760795921863726, : Stat, 501979.0
+Prueba de normalidad por grupo=prompt para PERSON_exact_F1
+prompt
+chain_of_thought       9.592744e-35
+chain_of_thought_FS    9.075603e-36
+few_shot               1.723251e-38
+one_shot               7.231351e-35
+Name: PERSON_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_F1: p-value = 0.019544197615940957
+
+Medians=prompt
+chain_of_thought       0.4
+chain_of_thought_FS    0.4
+few_shot               0.0
+one_shot               0.4
+Name: PERSON_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.426293
+chain_of_thought_FS    0.420798
+few_shot               0.374643
+one_shot               0.417150
+Name: PERSON_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.7502266108984695, : Stat, 486366.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.012877302308122804, : Stat, 596032.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 0.8357685253084143, : Stat, 490594.0
+Comparación chain_of_thought vs few_shot: p-value = 0.005359218596031172, : Stat, 568073.5
+Comparación chain_of_thought vs one_shot: p-value = 0.6047230284267402, : Stat, 467664.5
+Comparación few_shot vs one_shot: p-value = 0.024590778349421857, : Stat, 502658.0

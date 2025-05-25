@@ -1,0 +1,266 @@
+Number of HUM_LANDFORM samples are 1973
+
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_Precision_
+Century
+18    1.387482e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Precision_: p-value = 0.011984191601515445
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Mean=Century
+18    0.110892
+19    0.081217
+20    0.062356
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.006624404282833385, : Stat, 114933.0
+Comparación 20 vs 19: p-value = 0.027627281402006425, : Stat, 353992.5
+Comparación 18 vs 19: p-value = 0.2923586128758524, : Stat, 99311.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_Recall]
+Century
+18    1.236295e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Recall]: p-value = 0.01129538720595126
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Mean=Century
+18    0.086089
+19    0.057028
+20    0.044817
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005968340688849784, : Stat, 114849.5
+Comparación 20 vs 19: p-value = 0.028606402780406097, : Stat, 354055.5
+Comparación 18 vs 19: p-value = 0.270927137778073, : Stat, 99417.0
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_strict_F1
+Century
+18    1.905957e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_F1: p-value = 0.011589348234411418
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Mean=Century
+18    0.093720
+19    0.064037
+20    0.050287
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0060993038789554565, : Stat, 114866.0
+Comparación 20 vs 19: p-value = 0.029070911302535557, : Stat, 354086.5
+Comparación 18 vs 19: p-value = 0.27304573057278947, : Stat, 99406.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_Precision_
+Century
+18    1.370680e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Precision_: p-value = 0.011117934166437686
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.114829
+19    0.082308
+20    0.062356
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.006078785428610722, : Stat, 114867.0
+Comparación 20 vs 19: p-value = 0.027027422718496376, : Stat, 353950.5
+Comparación 18 vs 19: p-value = 0.2813596373476772, : Stat, 99364.0
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_Recall]
+Century
+18    1.187030e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Recall]: p-value = 0.010622861139090277
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.090026
+19    0.057574
+20    0.044817
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005590238460920392, : Stat, 114799.5
+Comparación 20 vs 19: p-value = 0.027946699438897743, : Stat, 354010.5
+Comparación 18 vs 19: p-value = 0.2635666860256264, : Stat, 99454.0
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_ent_type_F1
+Century
+18    1.829898e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_F1: p-value = 0.010643206145916025
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Mean=Century
+18    0.097657
+19    0.064691
+20    0.050287
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.00548578867729761, : Stat, 114785.0
+Comparación 20 vs 19: p-value = 0.02862361244562769, : Stat, 354056.5
+Comparación 18 vs 19: p-value = 0.26014311492899844, : Stat, 99471.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_Precision_
+Century
+18    2.404500e-26
+19    2.247781e-40
+20    0.000000e+00
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Precision_: p-value = 0.024081278974678263
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Mean=Century
+18    0.154528
+19    0.159686
+20    0.120995
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.3751934988381562, : Stat, 118349.0
+Comparación 20 vs 19: p-value = 0.006128340533359216, : Stat, 345261.0
+Comparación 18 vs 19: p-value = 0.37414810546790833, : Stat, 94417.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_Recall]
+Century
+18    3.661509e-26
+19    4.735408e-41
+20    0.000000e+00
+Name: HUM_LANDFORM_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Recall]: p-value = 0.03848106725425879
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Mean=Century
+18    0.127428
+19    0.112478
+20    0.088159
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.297879732982508, : Stat, 117836.5
+Comparación 20 vs 19: p-value = 0.010763626369178958, : Stat, 346599.5
+Comparación 18 vs 19: p-value = 0.5348097095540936, : Stat, 95202.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_partial_F1
+Century
+18    5.207428e-26
+19    2.437811e-40
+20    0.000000e+00
+Name: HUM_LANDFORM_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_F1: p-value = 0.03456350104359811
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Mean=Century
+18    0.135433
+19    0.125311
+20    0.097878
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.3010221683103659, : Stat, 117857.5
+Comparación 20 vs 19: p-value = 0.009418925149234704, : Stat, 346265.0
+Comparación 18 vs 19: p-value = 0.5201346604433184, : Stat, 95136.0
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_Precision_
+Century
+18    1.548635e-28
+19    1.401298e-45
+20    0.000000e+00
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Precision_: p-value = 0.01135977008638334
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Mean=Century
+18    0.118110
+19    0.094023
+20    0.067330
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.006781338012828388, : Stat, 114953.0
+Comparación 20 vs 19: p-value = 0.023872819407459743, : Stat, 353719.0
+Comparación 18 vs 19: p-value = 0.32294704483327796, : Stat, 99170.0
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_Recall]
+Century
+18    1.500711e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Recall]: p-value = 0.011151712963657901
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Mean=Century
+18    0.090026
+19    0.062467
+20    0.047120
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005885432910066157, : Stat, 114839.0
+Comparación 20 vs 19: p-value = 0.027899814925294794, : Stat, 354007.5
+Comparación 18 vs 19: p-value = 0.2791105216731582, : Stat, 99376.5
+Prueba de normalidad por grupo=Century para HUM_LANDFORM_exact_F1
+Century
+18    2.314336e-28
+19    0.000000e+00
+20    0.000000e+00
+Name: HUM_LANDFORM_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_F1: p-value = 0.011106955189080652
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: HUM_LANDFORM_exact_F1, dtype: float64
+Mean=Century
+18    0.098688
+19    0.070765
+20    0.053379
+Name: HUM_LANDFORM_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.005944792784656307, : Stat, 114846.5
+Comparación 20 vs 19: p-value = 0.027298841864630143, : Stat, 353965.5
+Comparación 18 vs 19: p-value = 0.28353806695606054, : Stat, 99355.0

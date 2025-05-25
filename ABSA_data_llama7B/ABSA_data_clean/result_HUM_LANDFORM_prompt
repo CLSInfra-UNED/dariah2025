@@ -1,0 +1,338 @@
+Number of HUM_LANDFORM samples are 1973
+
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_strict_Precision_
+prompt
+chain_of_thought       7.178426e-39
+chain_of_thought_FS    7.721155e-43
+few_shot               2.528083e-41
+one_shot               1.424273e-35
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Precision_: p-value = 1.159302521319221e-26
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.076838
+chain_of_thought_FS    0.012371
+few_shot               0.036775
+one_shot               0.173543
+Name: HUM_LANDFORM_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.0546789795224266e-07, : Stat, 108642.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.0055722719703697274, : Stat, 116193.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 7.635100562720448e-21, : Stat, 100472.0
+Comparación chain_of_thought vs few_shot: p-value = 0.003879531248282366, : Stat, 125346.0
+Comparación chain_of_thought vs one_shot: p-value = 1.0148500104911124e-06, : Stat, 109837.0
+Comparación few_shot vs one_shot: p-value = 5.966789455640305e-14, : Stat, 106053.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_strict_Recall]
+prompt
+chain_of_thought       3.416618e-39
+chain_of_thought_FS    6.277817e-43
+few_shot               1.631812e-41
+one_shot               1.081745e-35
+Name: HUM_LANDFORM_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_Recall]: p-value = 6.957876463606483e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.055922
+chain_of_thought_FS    0.007100
+few_shot               0.024370
+one_shot               0.128942
+Name: HUM_LANDFORM_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.734621495031324e-08, : Stat, 108616.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005418178101144819, : Stat, 116181.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 5.848280472336323e-21, : Stat, 100385.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0037401160509728786, : Stat, 125369.5
+Comparación chain_of_thought vs one_shot: p-value = 9.035087166395844e-07, : Stat, 109754.5
+Comparación few_shot vs one_shot: p-value = 4.5789829067188084e-14, : Stat, 105943.5
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_strict_F1
+prompt
+chain_of_thought       6.893969e-39
+chain_of_thought_FS    7.496947e-43
+few_shot               2.456196e-41
+one_shot               2.998395e-35
+Name: HUM_LANDFORM_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_strict_F1: p-value = 7.650727536187235e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.062000
+chain_of_thought_FS    0.008797
+few_shot               0.028311
+one_shot               0.142299
+Name: HUM_LANDFORM_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.912121701501935e-08, : Stat, 108621.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005469925366850297, : Stat, 116185.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 6.25248562802948e-21, : Stat, 100402.0
+Comparación chain_of_thought vs few_shot: p-value = 0.003731080571509411, : Stat, 125371.0
+Comparación chain_of_thought vs one_shot: p-value = 9.392372223892885e-07, : Stat, 109775.0
+Comparación few_shot vs one_shot: p-value = 4.73323080441257e-14, : Stat, 105954.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_ent_type_Precision_
+prompt
+chain_of_thought       7.565026e-39
+chain_of_thought_FS    7.721155e-43
+few_shot               2.575306e-41
+one_shot               1.471295e-35
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Precision_: p-value = 1.4326591849141774e-26
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.079244
+chain_of_thought_FS    0.012371
+few_shot               0.037787
+one_shot               0.173870
+Name: HUM_LANDFORM_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.0266117467717272e-07, : Stat, 108634.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005525994359445494, : Stat, 116190.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 7.605037901623961e-21, : Stat, 100471.0
+Comparación chain_of_thought vs few_shot: p-value = 0.003858268802976822, : Stat, 125349.0
+Comparación chain_of_thought vs one_shot: p-value = 1.2212247177503524e-06, : Stat, 109940.0
+Comparación few_shot vs one_shot: p-value = 6.807423735618698e-14, : Stat, 106099.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_ent_type_Recall]
+prompt
+chain_of_thought       3.639340e-39
+chain_of_thought_FS    6.277817e-43
+few_shot               1.552499e-41
+one_shot               1.119321e-35
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_Recall]: p-value = 7.963383223997264e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.057469
+chain_of_thought_FS    0.007100
+few_shot               0.025383
+one_shot               0.129269
+Name: HUM_LANDFORM_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.560322025880094e-08, : Stat, 108610.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005392580152419412, : Stat, 116179.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 5.779074617615029e-21, : Stat, 100382.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0037274873853394438, : Stat, 125371.5
+Comparación chain_of_thought vs one_shot: p-value = 1.009672323624648e-06, : Stat, 109815.5
+Comparación few_shot vs one_shot: p-value = 5.055076181771766e-14, : Stat, 105977.5
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_ent_type_F1
+prompt
+chain_of_thought       7.409845e-39
+chain_of_thought_FS    7.496947e-43
+few_shot               2.392016e-41
+one_shot               3.093501e-35
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_ent_type_F1: p-value = 9.354675126180142e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.063718
+chain_of_thought_FS    0.008797
+few_shot               0.029324
+one_shot               0.142626
+Name: HUM_LANDFORM_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.702932513044183e-08, : Stat, 108615.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.00541186975831055, : Stat, 116181.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 6.228021781201398e-21, : Stat, 100401.0
+Comparación chain_of_thought vs few_shot: p-value = 0.0037462807587673084, : Stat, 125368.5
+Comparación chain_of_thought vs one_shot: p-value = 1.0864071451912944e-06, : Stat, 109855.0
+Comparación few_shot vs one_shot: p-value = 5.506675544512855e-14, : Stat, 106006.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_partial_Precision_
+prompt
+chain_of_thought       2.079070e-34
+chain_of_thought_FS    1.520864e-37
+few_shot               5.121924e-36
+one_shot               5.169208e-32
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Precision_: p-value = 3.6372653635210984e-16
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.142010
+chain_of_thought_FS    0.065464
+few_shot               0.102733
+one_shot               0.246415
+Name: HUM_LANDFORM_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 0.00010020879503258508, : Stat, 106803.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.027104405554105353, : Stat, 113890.5
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.9693943647834836e-15, : Stat, 97645.5
+Comparación chain_of_thought vs few_shot: p-value = 0.07996944739932293, : Stat, 125006.5
+Comparación chain_of_thought vs one_shot: p-value = 2.2850980037989747e-05, : Stat, 108767.0
+Comparación few_shot vs one_shot: p-value = 2.1575366989471605e-09, : Stat, 105294.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_partial_Recall]
+prompt
+chain_of_thought       9.353660e-35
+chain_of_thought_FS    7.082003e-38
+few_shot               2.128006e-36
+one_shot               7.064037e-32
+Name: HUM_LANDFORM_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_Recall]: p-value = 8.331362808777253e-16
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.105620
+chain_of_thought_FS    0.043404
+few_shot               0.072589
+one_shot               0.185375
+Name: HUM_LANDFORM_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.548854023868616e-05, : Stat, 106760.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.02544032557006616, : Stat, 113817.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 3.0222300531674546e-15, : Stat, 97790.0
+Comparación chain_of_thought vs few_shot: p-value = 0.08432795858171602, : Stat, 124938.0
+Comparación chain_of_thought vs one_shot: p-value = 3.61374377814285e-05, : Stat, 109105.0
+Comparación few_shot vs one_shot: p-value = 4.274568114012953e-09, : Stat, 105651.5
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_partial_F1
+prompt
+chain_of_thought       2.697626e-34
+chain_of_thought_FS    1.871135e-37
+few_shot               5.742514e-36
+one_shot               2.593750e-31
+Name: HUM_LANDFORM_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_partial_F1: p-value = 2.7074242555075147e-16
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.116123
+chain_of_thought_FS    0.049748
+few_shot               0.080985
+one_shot               0.202666
+Name: HUM_LANDFORM_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 7.651469948358577e-05, : Stat, 106610.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.024236494064286702, : Stat, 113766.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 1.3688301074092265e-15, : Stat, 97461.5
+Comparación chain_of_thought vs few_shot: p-value = 0.07596862835040069, : Stat, 125083.5
+Comparación chain_of_thought vs one_shot: p-value = 2.674264384562809e-05, : Stat, 108860.0
+Comparación few_shot vs one_shot: p-value = 2.1076099574195887e-09, : Stat, 105245.5
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_exact_Precision_
+prompt
+chain_of_thought       9.169593e-39
+chain_of_thought_FS    8.519895e-43
+few_shot               3.136947e-41
+one_shot               1.371610e-35
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Precision_: p-value = 1.497883926191088e-26
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.084708
+chain_of_thought_FS    0.014433
+few_shot               0.042510
+one_shot               0.190668
+Name: HUM_LANDFORM_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 1.1171561369959035e-07, : Stat, 108661.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005601962969983427, : Stat, 116196.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 8.549880405465412e-21, : Stat, 100517.5
+Comparación chain_of_thought vs few_shot: p-value = 0.004134520195495192, : Stat, 125306.0
+Comparación chain_of_thought vs one_shot: p-value = 9.674244406093883e-07, : Stat, 109827.0
+Comparación few_shot vs one_shot: p-value = 7.397748762054874e-14, : Stat, 106145.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_exact_Recall]
+prompt
+chain_of_thought       4.846325e-39
+chain_of_thought_FS    6.852349e-43
+few_shot               1.880963e-41
+one_shot               1.406159e-35
+Name: HUM_LANDFORM_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_Recall]: p-value = 6.486514709171253e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.059211
+chain_of_thought_FS    0.007527
+few_shot               0.026250
+one_shot               0.138027
+Name: HUM_LANDFORM_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.605094253428425e-08, : Stat, 108612.0
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005411642870616708, : Stat, 116181.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 5.620215512694858e-21, : Stat, 100376.5
+Comparación chain_of_thought vs few_shot: p-value = 0.0037117572759662034, : Stat, 125374.0
+Comparación chain_of_thought vs one_shot: p-value = 8.81530215808446e-07, : Stat, 109742.5
+Comparación few_shot vs one_shot: p-value = 4.410784174680282e-14, : Stat, 105932.0
+Prueba de normalidad por grupo=prompt para HUM_LANDFORM_exact_F1
+prompt
+chain_of_thought       9.974777e-39
+chain_of_thought_FS    8.295687e-43
+few_shot               3.055952e-41
+one_shot               3.984531e-35
+Name: HUM_LANDFORM_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para HUM_LANDFORM_exact_F1: p-value = 6.856139069278893e-27
+
+Medians=prompt
+chain_of_thought       0.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               0.0
+Name: HUM_LANDFORM_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.066548
+chain_of_thought_FS    0.009547
+few_shot               0.030941
+one_shot               0.153079
+Name: HUM_LANDFORM_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación chain_of_thought_FS vs chain_of_thought: p-value = 9.84452712219807e-08, : Stat, 108619.5
+Comparación chain_of_thought_FS vs few_shot: p-value = 0.005450355774926772, : Stat, 116184.0
+Comparación chain_of_thought_FS vs one_shot: p-value = 5.853998650591599e-21, : Stat, 100386.5
+Comparación chain_of_thought vs few_shot: p-value = 0.003742929841168187, : Stat, 125369.0
+Comparación chain_of_thought vs one_shot: p-value = 8.823948106243835e-07, : Stat, 109742.5
+Comparación few_shot vs one_shot: p-value = 4.549020734622705e-14, : Stat, 105942.0

@@ -1,0 +1,386 @@
+Number of LAND_COVER samples are 609
+
+Prueba de normalidad por grupo=Century para LAND_COVER_strict_Precision_
+
+
+
+Century
+18    1.565002e-17
+19    4.531201e-22
+20    6.095688e-26
+Name: LAND_COVER_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_Precision_: p-value = 0.018295462339630895
+
+Medians of LAND_COVER_strict_Precision_ =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_strict_Precision_, dtype: float64
+Mean of LAND_COVER_strict_Precision_ =Century
+18    0.302632
+19    0.167608
+20    0.264771
+Name: LAND_COVER_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.5376267792112265, : Stat, 19289.5
+
+Comparación 20 vs 19: p-value = 0.015048370511153005, : Stat, 29174.0
+
+Comparación 18 vs 19: p-value = 0.009745190928055144, : Stat, 13299.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.033573  0.534617
+19  0.033573  1.000000  0.033979
+20  0.534617  0.033979  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_strict_Recall]
+
+
+
+Century
+18    1.363895e-17
+19    3.455027e-22
+20    5.424455e-26
+Name: LAND_COVER_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_Recall]: p-value = 0.02057896456346265
+
+Medians of LAND_COVER_strict_Recall] =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_strict_Recall], dtype: float64
+Mean of LAND_COVER_strict_Recall] =Century
+18    0.308271
+19    0.173258
+20    0.274247
+Name: LAND_COVER_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.5636552592156628, : Stat, 19328.0
+
+Comparación 20 vs 19: p-value = 0.015595856000429311, : Stat, 29155.5
+
+Comparación 18 vs 19: p-value = 0.01166101659533618, : Stat, 13260.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.039096  0.564323
+19  0.039096  1.000000  0.039096
+20  0.564323  0.039096  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_strict_F1
+
+
+
+Century
+18    1.994700e-17
+19    6.951736e-22
+20    1.022079e-25
+Name: LAND_COVER_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_strict_F1: p-value = 0.01308767283484881
+
+Medians of LAND_COVER_strict_F1 =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_strict_F1, dtype: float64
+Mean of LAND_COVER_strict_F1 =Century
+18    0.302811
+19    0.164299
+20    0.264994
+Name: LAND_COVER_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.5091690419567048, : Stat, 19246.0
+
+Comparación 20 vs 19: p-value = 0.01178694521035596, : Stat, 29276.0
+
+Comparación 18 vs 19: p-value = 0.0068628511697962375, : Stat, 13372.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.024138  0.504583
+19  0.024138  1.000000  0.026774
+20  0.504583  0.026774  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_ent_type_Precision_
+
+
+
+Century
+18    1.565002e-17
+19    3.629848e-22
+20    4.183197e-26
+Name: LAND_COVER_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_Precision_: p-value = 0.024714284646545404
+
+Medians of LAND_COVER_ent_type_Precision_ =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_ent_type_Precision_, dtype: float64
+Mean of LAND_COVER_ent_type_Precision_ =Century
+18    0.302632
+19    0.177024
+20    0.274805
+Name: LAND_COVER_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.6287810658737812, : Stat, 19418.5
+
+Comparación 20 vs 19: p-value = 0.016977497364877785, : Stat, 29119.0
+
+Comparación 18 vs 19: p-value = 0.014373094740488361, : Stat, 13216.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.050458  0.621913
+19  0.050458  1.000000  0.050458
+20  0.621913  0.050458  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_ent_type_Recall]
+
+
+
+Century
+18    1.363895e-17
+19    3.864265e-22
+20    3.652592e-26
+Name: LAND_COVER_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_Recall]: p-value = 0.020998267377481103
+
+Medians of LAND_COVER_ent_type_Recall] =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_ent_type_Recall], dtype: float64
+Mean of LAND_COVER_ent_type_Recall] =Century
+18    0.308271
+19    0.179849
+20    0.284281
+Name: LAND_COVER_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.6591306724264189, : Stat, 19460.0
+
+Comparación 20 vs 19: p-value = 0.013901951727717009, : Stat, 29197.0
+
+Comparación 18 vs 19: p-value = 0.013045646349728365, : Stat, 13236.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.045692  0.649611
+19  0.045692  1.000000  0.045692
+20  0.649611  0.045692  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_ent_type_F1
+
+
+
+Century
+18    1.994700e-17
+19    6.970049e-22
+20    6.886122e-26
+Name: LAND_COVER_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_ent_type_F1: p-value = 0.013848874037272606
+
+Medians of LAND_COVER_ent_type_F1 =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_ent_type_F1, dtype: float64
+Mean of LAND_COVER_ent_type_F1 =Century
+18    0.302811
+19    0.171940
+20    0.275028
+Name: LAND_COVER_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.6087538963211947, : Stat, 19390.0
+
+Comparación 20 vs 19: p-value = 0.010315674441799712, : Stat, 29324.5
+
+Comparación 18 vs 19: p-value = 0.00833211331409099, : Stat, 13333.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.030576  0.598271
+19  0.030576  1.000000  0.030576
+20  0.598271  0.030576  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_partial_Precision_
+
+
+
+Century
+18    1.498083e-16
+19    4.733904e-17
+20    7.423604e-22
+Name: LAND_COVER_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_Precision_: p-value = 0.2537285319012581
+
+Medians of LAND_COVER_partial_Precision_ =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_partial_Precision_, dtype: float64
+Mean of LAND_COVER_partial_Precision_ =Century
+18    0.330827
+19    0.269774
+20    0.346154
+Name: LAND_COVER_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para LAND_COVER_partial_Recall]
+
+
+
+Century
+18    1.182996e-16
+19    5.469870e-17
+20    4.664923e-22
+Name: LAND_COVER_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_Recall]: p-value = 0.299949877755453
+
+Medians of LAND_COVER_partial_Recall] =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_partial_Recall], dtype: float64
+Mean of LAND_COVER_partial_Recall] =Century
+18    0.334586
+19    0.280838
+20    0.352285
+Name: LAND_COVER_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LAND_COVER_partial_F1
+
+
+
+Century
+18    1.937627e-16
+19    1.732959e-16
+20    1.493335e-21
+Name: LAND_COVER_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_partial_F1: p-value = 0.24374630858931914
+
+Medians of LAND_COVER_partial_F1 =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_partial_F1, dtype: float64
+Mean of LAND_COVER_partial_F1 =Century
+18    0.329753
+19    0.266626
+20    0.342363
+Name: LAND_COVER_partial_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LAND_COVER_exact_Precision_
+
+
+
+Century
+18    1.377678e-17
+19    4.331207e-22
+20    6.317997e-26
+Name: LAND_COVER_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_Precision_: p-value = 0.019520079613334546
+
+Medians of LAND_COVER_exact_Precision_ =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_exact_Precision_, dtype: float64
+Mean of LAND_COVER_exact_Precision_ =Century
+18    0.304511
+19    0.170433
+20    0.265329
+Name: LAND_COVER_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.5147725732142008, : Stat, 19256.0
+
+Comparación 20 vs 19: p-value = 0.016541577069455932, : Stat, 29135.0
+
+Comparación 18 vs 19: p-value = 0.01015844390009061, : Stat, 13290.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.034054  0.515172
+19  0.034054  1.000000  0.037736
+20  0.515172  0.037736  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_exact_Recall]
+
+
+
+Century
+18    1.203627e-17
+19    3.692505e-22
+20    5.087029e-26
+Name: LAND_COVER_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_Recall]: p-value = 0.019455425055811458
+
+Medians of LAND_COVER_exact_Recall] =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_exact_Recall], dtype: float64
+Mean of LAND_COVER_exact_Recall] =Century
+18    0.31015
+19    0.17420
+20    0.27592
+Name: LAND_COVER_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.552517918394626, : Stat, 19312.5
+
+Comparación 20 vs 19: p-value = 0.015115905228112772, : Stat, 29167.5
+
+Comparación 18 vs 19: p-value = 0.010947219326941277, : Stat, 13273.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.036614  0.553678
+19  0.036614  1.000000  0.036614
+20  0.553678  0.036614  1.000000 
+
+Prueba de normalidad por grupo=Century para LAND_COVER_exact_F1
+
+
+
+Century
+18    1.766235e-17
+19    7.252198e-22
+20    1.044756e-25
+Name: LAND_COVER_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LAND_COVER_exact_F1: p-value = 0.012717710593887648
+
+Medians of LAND_COVER_exact_F1 =Century
+18    0.0
+19    0.0
+20    0.0
+Name: LAND_COVER_exact_F1, dtype: float64
+Mean of LAND_COVER_exact_F1 =Century
+18    0.304690
+19    0.165806
+20    0.265886
+Name: LAND_COVER_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.4876683460043447, : Stat, 19213.5
+
+Comparación 20 vs 19: p-value = 0.011935985801020345, : Stat, 29271.0
+
+Comparación 18 vs 19: p-value = 0.00655695898812282, : Stat, 13381.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.022662  0.485367
+19  0.022662  1.000000  0.027355
+20  0.485367  0.027355  1.000000 
+

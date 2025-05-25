@@ -1,0 +1,278 @@
+Number of LOCATION samples are 2354
+
+Prueba de normalidad por grupo=prompt para LOCATION_strict_Precision_
+
+
+
+prompt
+chain_of_thought    1.386772e-35
+few_shot            1.486384e-35
+one_shot            3.786728e-36
+Name: LOCATION_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Precision_: p-value = 0.35290485713563424
+
+Medians of LOCATION_strict_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_strict_Precision_, dtype: float64
+Mean of LOCATION_strict_Precision_ =prompt
+chain_of_thought    0.629730
+few_shot            0.609610
+one_shot            0.595207
+Name: LOCATION_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_strict_Recall]
+
+
+
+prompt
+chain_of_thought    7.321144e-36
+few_shot            8.700279e-36
+one_shot            1.878169e-36
+Name: LOCATION_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Recall]: p-value = 0.38126441847924
+
+Medians of LOCATION_strict_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_strict_Recall], dtype: float64
+Mean of LOCATION_strict_Recall] =prompt
+chain_of_thought    0.633961
+few_shot            0.614432
+one_shot            0.601700
+Name: LOCATION_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_strict_F1
+
+
+
+prompt
+chain_of_thought    5.990652e-35
+few_shot            7.361629e-35
+one_shot            1.606070e-35
+Name: LOCATION_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_F1: p-value = 0.3507069700397273
+
+Medians of LOCATION_strict_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_strict_F1, dtype: float64
+Mean of LOCATION_strict_F1 =prompt
+chain_of_thought    0.625671
+few_shot            0.605535
+one_shot            0.592104
+Name: LOCATION_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    4.222964e-36
+few_shot            5.978455e-36
+one_shot            1.347436e-36
+Name: LOCATION_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Precision_: p-value = 0.3458614694401592
+
+Medians of LOCATION_ent_type_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Mean of LOCATION_ent_type_Precision_ =prompt
+chain_of_thought    0.637731
+few_shot            0.616133
+one_shot            0.602850
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    2.494348e-36
+few_shot            3.372717e-36
+one_shot            5.603690e-37
+Name: LOCATION_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Recall]: p-value = 0.4056929018167842
+
+Medians of LOCATION_ent_type_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_ent_type_Recall], dtype: float64
+Mean of LOCATION_ent_type_Recall] =prompt
+chain_of_thought    0.641297
+few_shot            0.621177
+one_shot            0.610151
+Name: LOCATION_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_ent_type_F1
+
+
+
+prompt
+chain_of_thought    2.084938e-35
+few_shot            3.083558e-35
+one_shot            5.366970e-36
+Name: LOCATION_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_F1: p-value = 0.36013467752601913
+
+Medians of LOCATION_ent_type_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_ent_type_F1, dtype: float64
+Mean of LOCATION_ent_type_F1 =prompt
+chain_of_thought    0.632989
+few_shot            0.611920
+one_shot            0.599986
+Name: LOCATION_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_partial_Precision_
+
+
+
+prompt
+chain_of_thought    9.255004e-36
+few_shot            2.041335e-35
+one_shot            1.523207e-35
+Name: LOCATION_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Precision_: p-value = 0.4530061042628173
+
+Medians of LOCATION_partial_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_partial_Precision_, dtype: float64
+Mean of LOCATION_partial_Precision_ =prompt
+chain_of_thought    0.695013
+few_shot            0.677681
+one_shot            0.667871
+Name: LOCATION_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_partial_Recall]
+
+
+
+prompt
+chain_of_thought    4.484185e-36
+few_shot            9.002495e-36
+one_shot            5.049404e-36
+Name: LOCATION_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Recall]: p-value = 0.541682183753177
+
+Medians of LOCATION_partial_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_partial_Recall], dtype: float64
+Mean of LOCATION_partial_Recall] =prompt
+chain_of_thought    0.699035
+few_shot            0.683179
+one_shot            0.676140
+Name: LOCATION_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_partial_F1
+
+
+
+prompt
+chain_of_thought    6.482653e-35
+few_shot            1.600165e-34
+one_shot            1.011978e-34
+Name: LOCATION_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_F1: p-value = 0.44689662457285917
+
+Medians of LOCATION_partial_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_partial_F1, dtype: float64
+Mean of LOCATION_partial_F1 =prompt
+chain_of_thought    0.689425
+few_shot            0.672290
+one_shot            0.664104
+Name: LOCATION_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_exact_Precision_
+
+
+
+prompt
+chain_of_thought    1.344592e-36
+few_shot            1.748554e-36
+one_shot            4.627540e-37
+Name: LOCATION_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Precision_: p-value = 0.34808779298869363
+
+Medians of LOCATION_exact_Precision_ =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_exact_Precision_, dtype: float64
+Mean of LOCATION_exact_Precision_ =prompt
+chain_of_thought    0.647622
+few_shot            0.628207
+one_shot            0.611499
+Name: LOCATION_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_exact_Recall]
+
+
+
+prompt
+chain_of_thought    6.279127e-37
+few_shot            8.056002e-37
+one_shot            1.715515e-37
+Name: LOCATION_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Recall]: p-value = 0.4121415015626956
+
+Medians of LOCATION_exact_Recall] =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_exact_Recall], dtype: float64
+Mean of LOCATION_exact_Recall] =prompt
+chain_of_thought    0.652160
+few_shot            0.634065
+one_shot            0.619351
+Name: LOCATION_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para LOCATION_exact_F1
+
+
+
+prompt
+chain_of_thought    6.043662e-36
+few_shot            8.625335e-36
+one_shot            1.832346e-36
+Name: LOCATION_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_F1: p-value = 0.36552518838091125
+
+Medians of LOCATION_exact_F1 =prompt
+chain_of_thought    1.0
+few_shot            1.0
+one_shot            1.0
+Name: LOCATION_exact_F1, dtype: float64
+Mean of LOCATION_exact_F1 =prompt
+chain_of_thought    0.643193
+few_shot            0.624046
+one_shot            0.608704
+Name: LOCATION_exact_F1, dtype: float64

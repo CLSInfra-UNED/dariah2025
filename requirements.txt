@@ -1,0 +1,14 @@
+langchain                   
+langchain_community         
+langchain_core              
+langchain_text_splitters    
+nervaluate                  
+numpy                       
+pandas                      
+pydantic                    
+pydantic_core               
+session_info                
+sklearn                     
+torch                       
+transformers                
+IPython             

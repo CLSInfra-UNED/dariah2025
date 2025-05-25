@@ -1,0 +1,278 @@
+Number of MYTH samples are 100
+
+Prueba de normalidad por grupo=prompt para MYTH_strict_Precision_
+
+
+
+prompt
+chain_of_thought    7.839382e-08
+few_shot            1.462960e-08
+one_shot            3.368261e-08
+Name: MYTH_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_Precision_: p-value = 0.9188489402921882
+
+Medians of MYTH_strict_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_strict_Precision_, dtype: float64
+Mean of MYTH_strict_Precision_ =prompt
+chain_of_thought    0.333333
+few_shot            0.342857
+one_shot            0.296875
+Name: MYTH_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_strict_Recall]
+
+
+
+prompt
+chain_of_thought    9.749171e-08
+few_shot            2.079268e-08
+one_shot            3.368261e-08
+Name: MYTH_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_Recall]: p-value = 0.9512275414629647
+
+Medians of MYTH_strict_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_strict_Recall], dtype: float64
+Mean of MYTH_strict_Recall] =prompt
+chain_of_thought    0.313131
+few_shot            0.328571
+one_shot            0.296875
+Name: MYTH_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_strict_F1
+
+
+
+prompt
+chain_of_thought    1.090062e-07
+few_shot            2.097044e-08
+one_shot            3.368261e-08
+Name: MYTH_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_F1: p-value = 0.9484956801420164
+
+Medians of MYTH_strict_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_strict_F1, dtype: float64
+Mean of MYTH_strict_F1 =prompt
+chain_of_thought    0.320202
+few_shot            0.333333
+one_shot            0.296875
+Name: MYTH_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    3.660332e-08
+few_shot            1.462960e-08
+one_shot            3.368261e-08
+Name: MYTH_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_Precision_: p-value = 0.8667968527337708
+
+Medians of MYTH_ent_type_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_ent_type_Precision_, dtype: float64
+Mean of MYTH_ent_type_Precision_ =prompt
+chain_of_thought    0.363636
+few_shot            0.342857
+one_shot            0.296875
+Name: MYTH_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    7.839382e-08
+few_shot            2.079268e-08
+one_shot            3.368261e-08
+Name: MYTH_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_Recall]: p-value = 0.9312999111316896
+
+Medians of MYTH_ent_type_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_ent_type_Recall], dtype: float64
+Mean of MYTH_ent_type_Recall] =prompt
+chain_of_thought    0.333333
+few_shot            0.328571
+one_shot            0.296875
+Name: MYTH_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_ent_type_F1
+
+
+
+prompt
+chain_of_thought    7.876606e-08
+few_shot            2.097044e-08
+one_shot            3.368261e-08
+Name: MYTH_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_F1: p-value = 0.926432126880471
+
+Medians of MYTH_ent_type_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_ent_type_F1, dtype: float64
+Mean of MYTH_ent_type_F1 =prompt
+chain_of_thought    0.343434
+few_shot            0.333333
+one_shot            0.296875
+Name: MYTH_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_partial_Precision_
+
+
+
+prompt
+chain_of_thought    1.167394e-05
+few_shot            9.390063e-07
+one_shot            4.750283e-06
+Name: MYTH_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_Precision_: p-value = 0.9381940598227412
+
+Medians of MYTH_partial_Precision_ =prompt
+chain_of_thought    0.500
+few_shot            0.250
+one_shot            0.375
+Name: MYTH_partial_Precision_, dtype: float64
+Mean of MYTH_partial_Precision_ =prompt
+chain_of_thought    0.454545
+few_shot            0.421429
+one_shot            0.414062
+Name: MYTH_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_partial_Recall]
+
+
+
+prompt
+chain_of_thought    0.000017
+few_shot            0.000001
+one_shot            0.000003
+Name: MYTH_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_Recall]: p-value = 0.9675929003088874
+
+Medians of MYTH_partial_Recall] =prompt
+chain_of_thought    0.50
+few_shot            0.25
+one_shot            0.25
+Name: MYTH_partial_Recall], dtype: float64
+Mean of MYTH_partial_Recall] =prompt
+chain_of_thought    0.416667
+few_shot            0.400000
+one_shot            0.398438
+Name: MYTH_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_partial_F1
+
+
+
+prompt
+chain_of_thought    0.000023
+few_shot            0.000001
+one_shot            0.000004
+Name: MYTH_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_F1: p-value = 0.9409162209402062
+
+Medians of MYTH_partial_F1 =prompt
+chain_of_thought    0.500000
+few_shot            0.333333
+one_shot            0.333333
+Name: MYTH_partial_F1, dtype: float64
+Mean of MYTH_partial_F1 =prompt
+chain_of_thought    0.429798
+few_shot            0.404762
+one_shot            0.401042
+Name: MYTH_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_exact_Precision_
+
+
+
+prompt
+chain_of_thought    7.839382e-08
+few_shot            1.462960e-08
+one_shot            2.432446e-08
+Name: MYTH_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_Precision_: p-value = 0.9546240487719004
+
+Medians of MYTH_exact_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_exact_Precision_, dtype: float64
+Mean of MYTH_exact_Precision_ =prompt
+chain_of_thought    0.333333
+few_shot            0.342857
+one_shot            0.312500
+Name: MYTH_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_exact_Recall]
+
+
+
+prompt
+chain_of_thought    9.749171e-08
+few_shot            2.079268e-08
+one_shot            2.432446e-08
+Name: MYTH_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_Recall]: p-value = 0.9773218822440576
+
+Medians of MYTH_exact_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_exact_Recall], dtype: float64
+Mean of MYTH_exact_Recall] =prompt
+chain_of_thought    0.313131
+few_shot            0.328571
+one_shot            0.312500
+Name: MYTH_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para MYTH_exact_F1
+
+
+
+prompt
+chain_of_thought    1.090062e-07
+few_shot            2.097044e-08
+one_shot            2.432446e-08
+Name: MYTH_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_F1: p-value = 0.9773026739928234
+
+Medians of MYTH_exact_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: MYTH_exact_F1, dtype: float64
+Mean of MYTH_exact_F1 =prompt
+chain_of_thought    0.320202
+few_shot            0.333333
+one_shot            0.312500
+Name: MYTH_exact_F1, dtype: float64

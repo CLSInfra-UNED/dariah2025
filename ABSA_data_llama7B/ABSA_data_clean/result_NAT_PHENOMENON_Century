@@ -1,0 +1,230 @@
+Number of NAT_PHENOMENON samples are 524
+
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_strict_Precision_
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    2.172099e-32
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_Precision_: p-value = 0.9962981745684621
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.112381
+Name: NAT_PHENOMENON_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_strict_Recall]
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    1.896106e-32
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_Recall]: p-value = 0.9959574587110649
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64
+Mean=Century
+18    0.12963
+19    0.12500
+20    0.10819
+Name: NAT_PHENOMENON_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_strict_F1
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    2.699177e-32
+Name: NAT_PHENOMENON_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_strict_F1: p-value = 0.9936832635322637
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_strict_F1, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.107381
+Name: NAT_PHENOMENON_strict_F1, dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_ent_type_Precision_
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    2.273663e-32
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_Precision_: p-value = 0.9962981496332093
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.112857
+Name: NAT_PHENOMENON_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_ent_type_Recall]
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    1.944444e-32
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_Recall]: p-value = 0.9959574587110649
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.108333
+Name: NAT_PHENOMENON_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_ent_type_F1
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    2.797414e-32
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_ent_type_F1: p-value = 0.9936832635322637
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.107619
+Name: NAT_PHENOMENON_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_partial_Precision_
+Century
+18    1.587879e-12
+19    5.379899e-16
+20    1.011478e-23
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_Precision_: p-value = 0.007648754959986446
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64
+Mean=Century
+18    0.157407
+19    0.216667
+20    0.259524
+Name: NAT_PHENOMENON_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.004853431086460384, : Stat, 7476.5
+Comparación 18 vs 19: p-value = 0.15064468007634388, : Stat, 2895.5
+Comparación 20 vs 19: p-value = 0.07716919580492072, : Stat, 22991.0
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_partial_Recall]
+Century
+18    1.587879e-12
+19    3.777657e-16
+20    9.452856e-24
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_Recall]: p-value = 0.005901881847059601
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64
+Mean=Century
+18    0.157407
+19    0.207292
+20    0.255357
+Name: NAT_PHENOMENON_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.005125053945311324, : Stat, 7489.5
+Comparación 18 vs 19: p-value = 0.16024106893966028, : Stat, 2903.0
+Comparación 20 vs 19: p-value = 0.05105819307531918, : Stat, 23199.5
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_partial_F1
+Century
+18    1.587879e-12
+19    4.791369e-16
+20    2.802153e-23
+Name: NAT_PHENOMENON_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_partial_F1: p-value = 0.008980370090050028
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_partial_F1, dtype: float64
+Mean=Century
+18    0.157407
+19    0.210516
+20    0.249143
+Name: NAT_PHENOMENON_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.006109159954792765, : Stat, 7521.5
+Comparación 18 vs 19: p-value = 0.16024106893966028, : Stat, 2903.0
+Comparación 20 vs 19: p-value = 0.07580907064057185, : Stat, 23009.0
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_exact_Precision_
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    1.961775e-32
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_Precision_: p-value = 0.9912434242684026
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.124286
+Name: NAT_PHENOMENON_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_exact_Recall]
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    1.661232e-32
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_Recall]: p-value = 0.9932966582537189
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.119762
+Name: NAT_PHENOMENON_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para NAT_PHENOMENON_exact_F1
+Century
+18    1.440821e-13
+19    3.312071e-20
+20    2.370318e-32
+Name: NAT_PHENOMENON_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para NAT_PHENOMENON_exact_F1: p-value = 0.9958105868002938
+
+Medians=Century
+18    0.0
+19    0.0
+20    0.0
+Name: NAT_PHENOMENON_exact_F1, dtype: float64
+Mean=Century
+18    0.129630
+19    0.125000
+20    0.119048
+Name: NAT_PHENOMENON_exact_F1, dtype: float64

@@ -1,0 +1,278 @@
+Number of LOCATION samples are 2354
+
+Prueba de normalidad por grupo=Century para LOCATION_strict_Precision_
+
+
+
+Century
+18    5.236757e-30
+19    4.275819e-32
+20    8.127531e-43
+Name: LOCATION_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Precision_: p-value = 0.7426724966708322
+
+Medians of LOCATION_strict_Precision_ =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_strict_Precision_, dtype: float64
+Mean of LOCATION_strict_Precision_ =Century
+18    0.597892
+19    0.603258
+20    0.620578
+Name: LOCATION_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_strict_Recall]
+
+
+
+Century
+18    4.161114e-30
+19    4.895427e-32
+20    2.158000e-43
+Name: LOCATION_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_Recall]: p-value = 0.47701074934066134
+
+Medians of LOCATION_strict_Recall] =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_strict_Recall], dtype: float64
+Mean of LOCATION_strict_Recall] =Century
+18    0.600234
+19    0.606512
+20    0.627909
+Name: LOCATION_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_strict_F1
+
+
+
+Century
+18    1.207016e-29
+19    4.246604e-31
+20    3.312670e-42
+Name: LOCATION_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_strict_F1: p-value = 0.5084520286813904
+
+Medians of LOCATION_strict_F1 =Century
+18    1.0
+19    0.8
+20    1.0
+Name: LOCATION_strict_F1, dtype: float64
+Mean of LOCATION_strict_F1 =Century
+18    0.595281
+19    0.596392
+20    0.617956
+Name: LOCATION_strict_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_Precision_
+
+
+
+Century
+18    2.274832e-30
+19    2.563769e-32
+20    1.793662e-43
+Name: LOCATION_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Precision_: p-value = 0.5839077161587065
+
+Medians of LOCATION_ent_type_Precision_ =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Mean of LOCATION_ent_type_Precision_ =Century
+18    0.604250
+19    0.607113
+20    0.630152
+Name: LOCATION_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_Recall]
+
+
+
+Century
+18    1.809284e-30
+19    3.307766e-32
+20    4.063766e-44
+Name: LOCATION_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_Recall]: p-value = 0.2692155142841599
+
+Medians of LOCATION_ent_type_Recall] =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_ent_type_Recall], dtype: float64
+Mean of LOCATION_ent_type_Recall] =Century
+18    0.606593
+19    0.609774
+20    0.638035
+Name: LOCATION_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_ent_type_F1
+
+
+
+Century
+18    5.189855e-30
+19    2.727547e-31
+20    7.623064e-43
+Name: LOCATION_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_ent_type_F1: p-value = 0.3206380280727804
+
+Medians of LOCATION_ent_type_F1 =Century
+18    1.000000
+19    0.857143
+20    1.000000
+Name: LOCATION_ent_type_F1, dtype: float64
+Mean of LOCATION_ent_type_F1 =Century
+18    0.601640
+19    0.599842
+20    0.627378
+Name: LOCATION_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_partial_Precision_
+
+
+
+Century
+18    5.949833e-30
+19    8.887946e-32
+20    1.066388e-42
+Name: LOCATION_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Precision_: p-value = 0.17089283410919234
+
+Medians of LOCATION_partial_Precision_ =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_partial_Precision_, dtype: float64
+Mean of LOCATION_partial_Precision_ =Century
+18    0.642905
+19    0.668080
+20    0.700831
+Name: LOCATION_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_partial_Recall]
+
+
+
+Century
+18    2.768661e-30
+19    7.106287e-32
+20    2.760558e-43
+Name: LOCATION_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_Recall]: p-value = 0.12432743000329008
+
+Medians of LOCATION_partial_Recall] =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_partial_Recall], dtype: float64
+Mean of LOCATION_partial_Recall] =Century
+18    0.649431
+19    0.671290
+20    0.707956
+Name: LOCATION_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_partial_F1
+
+
+
+Century
+18    1.405906e-29
+19    1.691035e-30
+20    8.330719e-42
+Name: LOCATION_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_partial_F1: p-value = 0.12209372857863585
+
+Medians of LOCATION_partial_F1 =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_partial_F1, dtype: float64
+Mean of LOCATION_partial_F1 =Century
+18    0.641098
+19    0.658925
+20    0.696820
+Name: LOCATION_partial_F1, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_exact_Precision_
+
+
+
+Century
+18    1.149938e-30
+19    7.121450e-33
+20    4.764415e-44
+Name: LOCATION_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Precision_: p-value = 0.557150552557548
+
+Medians of LOCATION_exact_Precision_ =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_exact_Precision_, dtype: float64
+Mean of LOCATION_exact_Precision_ =Century
+18    0.612784
+19    0.618309
+20    0.640496
+Name: LOCATION_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_exact_Recall]
+
+
+
+Century
+18    5.554987e-31
+19    5.375842e-33
+20    1.261169e-44
+Name: LOCATION_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_Recall]: p-value = 0.42753057431078334
+
+Medians of LOCATION_exact_Recall] =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_exact_Recall], dtype: float64
+Mean of LOCATION_exact_Recall] =Century
+18    0.617805
+19    0.623504
+20    0.647507
+Name: LOCATION_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=Century para LOCATION_exact_F1
+
+
+
+Century
+18    2.340529e-30
+19    7.200346e-32
+20    1.989844e-43
+Name: LOCATION_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para LOCATION_exact_F1: p-value = 0.33494528273602137
+
+Medians of LOCATION_exact_F1 =Century
+18    1.0
+19    1.0
+20    1.0
+Name: LOCATION_exact_F1, dtype: float64
+Mean of LOCATION_exact_F1 =Century
+18    0.610977
+19    0.611372
+20    0.637503
+Name: LOCATION_exact_F1, dtype: float64

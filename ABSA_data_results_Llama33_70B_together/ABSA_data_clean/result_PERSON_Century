@@ -1,0 +1,422 @@
+Number of PERSON samples are 2739
+
+Prueba de normalidad por grupo=Century para PERSON_strict_Precision_
+
+
+
+Century
+18    1.023647e-35
+19    6.728850e-38
+20    2.418054e-39
+Name: PERSON_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Precision_: p-value = 5.935617577298368e-09
+
+Medians of PERSON_strict_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_strict_Precision_, dtype: float64
+Mean of PERSON_strict_Precision_ =Century
+18    0.372250
+19    0.504506
+20    0.405093
+Name: PERSON_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.10281852551027405, : Stat, 409829.0
+
+Comparación 20 vs 19: p-value = 4.537502080568065e-06, : Stat, 432235.0
+
+Comparación 18 vs 19: p-value = 7.682534130101196e-09, : Stat, 309720.0
+
+Analisis test de Dunn:               18            19        20
+18  1.000000e+00  1.859551e-08  0.112687
+19  1.859551e-08  1.000000e+00  0.000009
+20  1.126873e-01  9.159815e-06  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_strict_Recall]
+
+
+
+Century
+18    7.932933e-35
+19    1.921963e-34
+20    2.896875e-38
+Name: PERSON_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_Recall]: p-value = 1.3541909039198125e-05
+
+Medians of PERSON_strict_Recall] =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: PERSON_strict_Recall], dtype: float64
+Mean of PERSON_strict_Recall] =Century
+18    0.330945
+19    0.418964
+20    0.363744
+Name: PERSON_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.09287384463131573, : Stat, 410483.5
+
+Comparación 20 vs 19: p-value = 0.001547952855887539, : Stat, 447714.0
+
+Comparación 18 vs 19: p-value = 4.501609679899285e-06, : Stat, 319722.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000013  0.096775
+19  0.000013  1.000000  0.002743
+20  0.096775  0.002743  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_strict_F1
+
+
+
+Century
+18    3.561386e-34
+19    9.844541e-34
+20    2.077620e-37
+Name: PERSON_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_strict_F1: p-value = 3.8148489378207566e-06
+
+Medians of PERSON_strict_F1 =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_strict_F1, dtype: float64
+Mean of PERSON_strict_F1 =Century
+18    0.337298
+19    0.437590
+20    0.370074
+Name: PERSON_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0938309102624252, : Stat, 410500.5
+
+Comparación 20 vs 19: p-value = 0.0005970798614138684, : Stat, 444401.5
+
+Comparación 18 vs 19: p-value = 1.6036728319154571e-06, : Stat, 317556.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000004  0.100337
+19  0.000004  1.000000  0.001076
+20  0.100337  0.001076  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_ent_type_Precision_
+
+
+
+Century
+18    6.388925e-36
+19    3.647013e-38
+20    1.377633e-39
+Name: PERSON_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Precision_: p-value = 2.0822031903406606e-08
+
+Medians of PERSON_ent_type_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_ent_type_Precision_, dtype: float64
+Mean of PERSON_ent_type_Precision_ =Century
+18    0.381669
+19    0.509167
+20    0.412971
+Name: PERSON_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.11721951013258353, : Stat, 409153.5
+
+Comparación 20 vs 19: p-value = 9.124574478449934e-06, : Stat, 434100.5
+
+Comparación 18 vs 19: p-value = 2.4262354279326167e-08, : Stat, 311707.0
+
+Analisis test de Dunn:               18            19        20
+18  1.000000e+00  5.988318e-08  0.127624
+19  5.988318e-08  1.000000e+00  0.000018
+20  1.276235e-01  1.840523e-05  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_ent_type_Recall]
+
+
+
+Century
+18    9.135409e-35
+19    1.346506e-34
+20    1.857208e-38
+Name: PERSON_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_Recall]: p-value = 2.7563733256890953e-05
+
+Medians of PERSON_ent_type_Recall] =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: PERSON_ent_type_Recall], dtype: float64
+Mean of PERSON_ent_type_Recall] =Century
+18    0.336435
+19    0.422567
+20    0.371850
+Name: PERSON_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.07741847957644689, : Stat, 411302.0
+
+Comparación 20 vs 19: p-value = 0.003286032300231396, : Stat, 450405.5
+
+Comparación 18 vs 19: p-value = 7.408363662752161e-06, : Stat, 320744.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000022  0.079502
+19  0.000022  1.000000  0.005770
+20  0.079502  0.005770  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_ent_type_F1
+
+
+
+Century
+18    3.940288e-34
+19    6.480084e-34
+20    1.367012e-37
+Name: PERSON_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_ent_type_F1: p-value = 7.019415344371727e-06
+
+Medians of PERSON_ent_type_F1 =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_ent_type_F1, dtype: float64
+Mean of PERSON_ent_type_F1 =Century
+18    0.343213
+19    0.441510
+20    0.377635
+Name: PERSON_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.07523489599681066, : Stat, 411509.5
+
+Comparación 20 vs 19: p-value = 0.0013067042164812228, : Stat, 447004.0
+
+Comparación 18 vs 19: p-value = 2.2002525644461913e-06, : Stat, 318180.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000006  0.078441
+19  0.000006  1.000000  0.002287
+20  0.078441  0.002287  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_partial_Precision_
+
+
+
+Century
+18    8.662183e-35
+19    2.807524e-37
+20    1.294913e-37
+Name: PERSON_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Precision_: p-value = 1.0152880097338726e-09
+
+Medians of PERSON_partial_Precision_ =Century
+18    0.00
+19    0.75
+20    0.50
+Name: PERSON_partial_Precision_, dtype: float64
+Mean of PERSON_partial_Precision_ =Century
+18    0.408231
+19    0.549912
+20    0.470216
+Name: PERSON_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0021190918233227217, : Stat, 424588.5
+
+Comparación 20 vs 19: p-value = 0.00016172561665160203, : Stat, 440810.0
+
+Comparación 18 vs 19: p-value = 2.267709083865102e-10, : Stat, 303663.0
+
+Analisis test de Dunn:               18            19        20
+18  1.000000e+00  4.830167e-10  0.002772
+19  4.830167e-10  1.000000e+00  0.000392
+20  2.772457e-03  3.921324e-04  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_partial_Recall]
+
+
+
+Century
+18    1.188098e-33
+19    5.961911e-33
+20    9.796501e-36
+Name: PERSON_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_Recall]: p-value = 3.760314714354277e-06
+
+Medians of PERSON_partial_Recall] =Century
+18    0.000000
+19    0.500000
+20    0.333333
+Name: PERSON_partial_Recall], dtype: float64
+Mean of PERSON_partial_Recall] =Century
+18    0.360112
+19    0.456874
+20    0.423587
+Name: PERSON_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0011045844511901764, : Stat, 426926.5
+
+Comparación 20 vs 19: p-value = 0.0622089328659644, : Stat, 462470.0
+
+Comparación 18 vs 19: p-value = 5.836303606933556e-07, : Stat, 315034.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000002  0.002258
+19  0.000002  1.000000  0.056748
+20  0.002258  0.056748  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_partial_F1
+
+
+
+Century
+18    5.694060e-33
+19    3.123730e-32
+20    8.226951e-35
+Name: PERSON_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_partial_F1: p-value = 9.184318611073283e-07
+
+Medians of PERSON_partial_F1 =Century
+18    0.0
+19    0.5
+20    0.5
+Name: PERSON_partial_F1, dtype: float64
+Mean of PERSON_partial_F1 =Century
+18    0.368031
+19    0.477392
+20    0.428782
+Name: PERSON_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.0022545436944880577, : Stat, 424984.5
+
+Comparación 20 vs 19: p-value = 0.012739416969866758, : Stat, 454799.0
+
+Comparación 18 vs 19: p-value = 1.4554796709094332e-07, : Stat, 312285.0
+
+Analisis test de Dunn:               18            19        20
+18  1.000000e+00  4.039275e-07  0.005298
+19  4.039275e-07  1.000000e+00  0.012413
+20  5.297689e-03  1.241322e-02  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_exact_Precision_
+
+
+
+Century
+18    4.898899e-36
+19    1.562077e-38
+20    4.765101e-40
+Name: PERSON_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Precision_: p-value = 1.4904330712704075e-08
+
+Medians of PERSON_exact_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_exact_Precision_, dtype: float64
+Mean of PERSON_exact_Precision_ =Century
+18    0.381039
+19    0.515785
+20    0.424188
+Name: PERSON_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.04985030887443972, : Stat, 412907.0
+
+Comparación 20 vs 19: p-value = 3.0964800273694606e-05, : Stat, 437485.0
+
+Comparación 18 vs 19: p-value = 7.345458778936064e-09, : Stat, 309990.5
+
+Analisis test de Dunn:               18            19        20
+18  1.000000e+00  2.086607e-08  0.051626
+19  2.086607e-08  1.000000e+00  0.000058
+20  5.162640e-02  5.795304e-05  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_exact_Recall]
+
+
+
+Century
+18    5.592649e-35
+19    8.457181e-35
+20    1.357899e-38
+Name: PERSON_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_Recall]: p-value = 2.1039107294872683e-05
+
+Medians of PERSON_exact_Recall] =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: PERSON_exact_Recall], dtype: float64
+Mean of PERSON_exact_Recall] =Century
+18    0.337932
+19    0.427729
+20    0.378379
+Name: PERSON_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.05466123734253589, : Stat, 412805.5
+
+Comparación 20 vs 19: p-value = 0.004513170865051316, : Stat, 451625.0
+
+Comparación 18 vs 19: p-value = 4.521572325624943e-06, : Stat, 319810.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000014  0.054330
+19  0.000014  1.000000  0.007626
+20  0.054330  0.007626  1.000000 
+
+Prueba de normalidad por grupo=Century para PERSON_exact_F1
+
+
+
+Century
+18    2.395243e-34
+19    3.921437e-34
+20    9.159822e-38
+Name: PERSON_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para PERSON_exact_F1: p-value = 7.001969435726202e-06
+
+Medians of PERSON_exact_F1 =Century
+18    0.0
+19    0.5
+20    0.0
+Name: PERSON_exact_F1, dtype: float64
+Mean of PERSON_exact_F1 =Century
+18    0.344617
+19    0.446932
+20    0.385263
+Name: PERSON_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 20 vs 18: p-value = 0.05394682441258449, : Stat, 412952.0
+
+Comparación 20 vs 19: p-value = 0.00215110449255533, : Stat, 448758.5
+
+Comparación 18 vs 19: p-value = 1.680286159027834e-06, : Stat, 317700.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.000005  0.054487
+19  0.000005  1.000000  0.003620
+20  0.054487  0.003620  1.000000 
+

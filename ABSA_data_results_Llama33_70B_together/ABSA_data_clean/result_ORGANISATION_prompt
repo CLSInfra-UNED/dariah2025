@@ -1,0 +1,278 @@
+Number of ORGANISATION samples are 535
+
+Prueba de normalidad por grupo=prompt para ORGANISATION_strict_Precision_
+
+
+
+prompt
+chain_of_thought    2.823959e-20
+few_shot            8.322919e-21
+one_shot            1.602073e-20
+Name: ORGANISATION_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_strict_Precision_: p-value = 0.9940135815314952
+
+Medians of ORGANISATION_strict_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_strict_Precision_, dtype: float64
+Mean of ORGANISATION_strict_Precision_ =prompt
+chain_of_thought    0.280268
+few_shot            0.274681
+one_shot            0.279588
+Name: ORGANISATION_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_strict_Recall]
+
+
+
+prompt
+chain_of_thought    2.452176e-20
+few_shot            7.281936e-21
+one_shot            1.265613e-20
+Name: ORGANISATION_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_strict_Recall]: p-value = 0.9916260054687537
+
+Medians of ORGANISATION_strict_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_strict_Recall], dtype: float64
+Mean of ORGANISATION_strict_Recall] =prompt
+chain_of_thought    0.282663
+few_shot            0.276958
+one_shot            0.284738
+Name: ORGANISATION_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_strict_F1
+
+
+
+prompt
+chain_of_thought    3.545990e-20
+few_shot            1.039967e-20
+one_shot            1.606550e-20
+Name: ORGANISATION_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_strict_F1: p-value = 0.9889101675903802
+
+Medians of ORGANISATION_strict_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_strict_F1, dtype: float64
+Mean of ORGANISATION_strict_F1 =prompt
+chain_of_thought    0.279037
+few_shot            0.273510
+one_shot            0.281193
+Name: ORGANISATION_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    2.417038e-20
+few_shot            7.197613e-21
+one_shot            1.248230e-20
+Name: ORGANISATION_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_ent_type_Precision_: p-value = 0.9914757754905604
+
+Medians of ORGANISATION_ent_type_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_ent_type_Precision_, dtype: float64
+Mean of ORGANISATION_ent_type_Precision_ =prompt
+chain_of_thought    0.286398
+few_shot            0.280510
+one_shot            0.288390
+Name: ORGANISATION_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    2.417038e-20
+few_shot            7.197613e-21
+one_shot            1.130756e-20
+Name: ORGANISATION_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_ent_type_Recall]: p-value = 0.9877385859693009
+
+Medians of ORGANISATION_ent_type_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_ent_type_Recall], dtype: float64
+Mean of ORGANISATION_ent_type_Recall] =prompt
+chain_of_thought    0.286398
+few_shot            0.280510
+one_shot            0.291199
+Name: ORGANISATION_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_ent_type_F1
+
+
+
+prompt
+chain_of_thought    3.452039e-20
+few_shot            1.017277e-20
+one_shot            1.420982e-20
+Name: ORGANISATION_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_ent_type_F1: p-value = 0.9825229105003656
+
+Medians of ORGANISATION_ent_type_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_ent_type_F1, dtype: float64
+Mean of ORGANISATION_ent_type_F1 =prompt
+chain_of_thought    0.283525
+few_shot            0.277778
+one_shot            0.288390
+Name: ORGANISATION_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_partial_Precision_
+
+
+
+prompt
+chain_of_thought    3.560313e-17
+few_shot            1.024701e-17
+one_shot            2.908298e-17
+Name: ORGANISATION_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_partial_Precision_: p-value = 0.9867581257437693
+
+Medians of ORGANISATION_partial_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_partial_Precision_, dtype: float64
+Mean of ORGANISATION_partial_Precision_ =prompt
+chain_of_thought    0.354693
+few_shot            0.350911
+one_shot            0.356554
+Name: ORGANISATION_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_partial_Recall]
+
+
+
+prompt
+chain_of_thought    2.666852e-17
+few_shot            7.734756e-18
+one_shot            2.011203e-17
+Name: ORGANISATION_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_partial_Recall]: p-value = 0.9753374977055587
+
+Medians of ORGANISATION_partial_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_partial_Recall], dtype: float64
+Mean of ORGANISATION_partial_Recall] =prompt
+chain_of_thought    0.352778
+few_shot            0.349089
+one_shot            0.358895
+Name: ORGANISATION_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_partial_F1
+
+
+
+prompt
+chain_of_thought    5.116152e-17
+few_shot            1.446320e-17
+one_shot            3.076879e-17
+Name: ORGANISATION_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_partial_F1: p-value = 0.9813933064694371
+
+Medians of ORGANISATION_partial_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_partial_F1, dtype: float64
+Mean of ORGANISATION_partial_F1 =prompt
+chain_of_thought    0.350123
+few_shot            0.346565
+one_shot            0.354896
+Name: ORGANISATION_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_exact_Precision_
+
+
+
+prompt
+chain_of_thought    2.979824e-20
+few_shot            8.005750e-21
+one_shot            1.689364e-20
+Name: ORGANISATION_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_exact_Precision_: p-value = 0.9973879630195156
+
+Medians of ORGANISATION_exact_Precision_ =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_exact_Precision_, dtype: float64
+Mean of ORGANISATION_exact_Precision_ =prompt
+chain_of_thought    0.281226
+few_shot            0.278324
+one_shot            0.280524
+Name: ORGANISATION_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_exact_Recall]
+
+
+
+prompt
+chain_of_thought    2.588296e-20
+few_shot            6.996745e-21
+one_shot            1.335581e-20
+Name: ORGANISATION_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_exact_Recall]: p-value = 0.9957429575896768
+
+Medians of ORGANISATION_exact_Recall] =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_exact_Recall], dtype: float64
+Mean of ORGANISATION_exact_Recall] =prompt
+chain_of_thought    0.283621
+few_shot            0.280601
+one_shot            0.285674
+Name: ORGANISATION_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para ORGANISATION_exact_F1
+
+
+
+prompt
+chain_of_thought    3.742561e-20
+few_shot            9.969360e-21
+one_shot            1.694728e-20
+Name: ORGANISATION_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para ORGANISATION_exact_F1: p-value = 0.9938998539011459
+
+Medians of ORGANISATION_exact_F1 =prompt
+chain_of_thought    0.0
+few_shot            0.0
+one_shot            0.0
+Name: ORGANISATION_exact_F1, dtype: float64
+Mean of ORGANISATION_exact_F1 =prompt
+chain_of_thought    0.279995
+few_shot            0.277153
+one_shot            0.282129
+Name: ORGANISATION_exact_F1, dtype: float64

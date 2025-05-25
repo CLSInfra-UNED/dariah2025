@@ -1,0 +1,278 @@
+Number of FLORA samples are 489
+
+Prueba de normalidad por grupo=prompt para FLORA_strict_Precision_
+
+
+
+prompt
+chain_of_thought    2.852151e-16
+few_shot            4.951150e-17
+one_shot            5.207583e-16
+Name: FLORA_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_Precision_: p-value = 0.9436512948504592
+
+Medians of FLORA_strict_Precision_ =prompt
+chain_of_thought    0.633333
+few_shot            0.666667
+one_shot            0.500000
+Name: FLORA_strict_Precision_, dtype: float64
+Mean of FLORA_strict_Precision_ =prompt
+chain_of_thought    0.513958
+few_shot            0.527647
+one_shot            0.509434
+Name: FLORA_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_strict_Recall]
+
+
+
+prompt
+chain_of_thought    2.940011e-15
+few_shot            6.736390e-16
+one_shot            6.193340e-15
+Name: FLORA_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_Recall]: p-value = 0.9570830081921685
+
+Medians of FLORA_strict_Recall] =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: FLORA_strict_Recall], dtype: float64
+Mean of FLORA_strict_Recall] =prompt
+chain_of_thought    0.484271
+few_shot            0.495000
+one_shot            0.481237
+Name: FLORA_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_strict_F1
+
+
+
+prompt
+chain_of_thought    2.299568e-15
+few_shot            4.369289e-16
+one_shot            3.920852e-15
+Name: FLORA_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_strict_F1: p-value = 0.9397575304310544
+
+Medians of FLORA_strict_F1 =prompt
+chain_of_thought    0.585714
+few_shot            0.666667
+one_shot            0.500000
+Name: FLORA_strict_F1, dtype: float64
+Mean of FLORA_strict_F1 =prompt
+chain_of_thought    0.493350
+few_shot            0.506058
+one_shot            0.491021
+Name: FLORA_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_ent_type_Precision_
+
+
+
+prompt
+chain_of_thought    4.704203e-17
+few_shot            8.319694e-18
+one_shot            6.855911e-17
+Name: FLORA_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_Precision_: p-value = 0.9647836874585264
+
+Medians of FLORA_ent_type_Precision_ =prompt
+chain_of_thought    0.775000
+few_shot            0.816667
+one_shot            0.800000
+Name: FLORA_ent_type_Precision_, dtype: float64
+Mean of FLORA_ent_type_Precision_ =prompt
+chain_of_thought    0.537292
+few_shot            0.549804
+one_shot            0.538155
+Name: FLORA_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_ent_type_Recall]
+
+
+
+prompt
+chain_of_thought    9.635109e-16
+few_shot            2.413621e-16
+one_shot            1.528107e-15
+Name: FLORA_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_Recall]: p-value = 0.9798607909819943
+
+Medians of FLORA_ent_type_Recall] =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: FLORA_ent_type_Recall], dtype: float64
+Mean of FLORA_ent_type_Recall] =prompt
+chain_of_thought    0.502292
+few_shot            0.511765
+one_shot            0.505660
+Name: FLORA_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_ent_type_F1
+
+
+
+prompt
+chain_of_thought    6.231811e-16
+few_shot            1.258714e-16
+one_shot            7.684152e-16
+Name: FLORA_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_ent_type_F1: p-value = 0.964536972337908
+
+Medians of FLORA_ent_type_F1 =prompt
+chain_of_thought    0.666667
+few_shot            0.666667
+one_shot            0.666667
+Name: FLORA_ent_type_F1, dtype: float64
+Mean of FLORA_ent_type_F1 =prompt
+chain_of_thought    0.513067
+few_shot            0.524586
+one_shot            0.516912
+Name: FLORA_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_partial_Precision_
+
+
+
+prompt
+chain_of_thought    4.494103e-15
+few_shot            6.920593e-16
+one_shot            7.422898e-15
+Name: FLORA_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_Precision_: p-value = 0.992312362456829
+
+Medians of FLORA_partial_Precision_ =prompt
+chain_of_thought    0.791667
+few_shot            0.875000
+one_shot            0.833333
+Name: FLORA_partial_Precision_, dtype: float64
+Mean of FLORA_partial_Precision_ =prompt
+chain_of_thought    0.638021
+few_shot            0.637647
+one_shot            0.647275
+Name: FLORA_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_partial_Recall]
+
+
+
+prompt
+chain_of_thought    1.222609e-13
+few_shot            2.380373e-14
+one_shot            1.472375e-13
+Name: FLORA_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_Recall]: p-value = 0.9445538250221006
+
+Medians of FLORA_partial_Recall] =prompt
+chain_of_thought    0.666667
+few_shot            0.666667
+one_shot            0.666667
+Name: FLORA_partial_Recall], dtype: float64
+Mean of FLORA_partial_Recall] =prompt
+chain_of_thought    0.599427
+few_shot            0.595539
+one_shot            0.612474
+Name: FLORA_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_partial_F1
+
+
+
+prompt
+chain_of_thought    1.295264e-13
+few_shot            2.055416e-14
+one_shot            1.671596e-13
+Name: FLORA_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_partial_F1: p-value = 0.9689039905723152
+
+Medians of FLORA_partial_F1 =prompt
+chain_of_thought    0.666667
+few_shot            0.708333
+one_shot            0.714286
+Name: FLORA_partial_F1, dtype: float64
+Mean of FLORA_partial_F1 =prompt
+chain_of_thought    0.610900
+few_shot            0.608797
+one_shot            0.622654
+Name: FLORA_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_exact_Precision_
+
+
+
+prompt
+chain_of_thought    6.444686e-17
+few_shot            1.437802e-17
+one_shot            1.102977e-16
+Name: FLORA_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_Precision_: p-value = 0.976522972186341
+
+Medians of FLORA_exact_Precision_ =prompt
+chain_of_thought    0.666667
+few_shot            0.750000
+one_shot            0.666667
+Name: FLORA_exact_Precision_, dtype: float64
+Mean of FLORA_exact_Precision_ =prompt
+chain_of_thought    0.531250
+few_shot            0.541961
+one_shot            0.533543
+Name: FLORA_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_exact_Recall]
+
+
+
+prompt
+chain_of_thought    6.375486e-16
+few_shot            1.851220e-16
+one_shot            8.331813e-16
+Name: FLORA_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_Recall]: p-value = 0.9832545715487165
+
+Medians of FLORA_exact_Recall] =prompt
+chain_of_thought    0.5
+few_shot            0.5
+one_shot            0.5
+Name: FLORA_exact_Recall], dtype: float64
+Mean of FLORA_exact_Recall] =prompt
+chain_of_thought    0.502604
+few_shot            0.510294
+one_shot            0.508595
+Name: FLORA_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para FLORA_exact_F1
+
+
+
+prompt
+chain_of_thought    5.811738e-16
+few_shot            1.375569e-16
+one_shot            7.429098e-16
+Name: FLORA_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para FLORA_exact_F1: p-value = 0.9724654558552865
+
+Medians of FLORA_exact_F1 =prompt
+chain_of_thought    0.666667
+few_shot            0.666667
+one_shot            0.666667
+Name: FLORA_exact_F1, dtype: float64
+Mean of FLORA_exact_F1 =prompt
+chain_of_thought    0.510612
+few_shot            0.520344
+one_shot            0.516078
+Name: FLORA_exact_F1, dtype: float64

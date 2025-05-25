@@ -1,0 +1,422 @@
+Number of MYTH samples are 100
+
+Prueba de normalidad por grupo=Century para MYTH_strict_Precision_
+
+
+
+Century
+18    2.565732e-05
+19    3.204610e-08
+20    2.225759e-11
+Name: MYTH_strict_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_Precision_: p-value = 0.009059409007470912
+
+Medians of MYTH_strict_Precision_ =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_strict_Precision_, dtype: float64
+Mean of MYTH_strict_Precision_ =Century
+18    0.375000
+19    0.486842
+20    0.173913
+Name: MYTH_strict_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12268196701450021, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.4527321491977738, : Stat, 269.0
+
+Comparación 20 vs 19: p-value = 0.0022328599963013568, : Stat, 593.5
+
+Analisis test de Dunn:           18        19       20
+18  1.000000  0.401765  0.30328
+19  0.401765  1.000000  0.00714
+20  0.303280  0.007140  1.00000 
+
+Prueba de normalidad por grupo=Century para MYTH_strict_Recall]
+
+
+
+Century
+18    2.565732e-05
+19    8.925092e-08
+20    1.884069e-11
+Name: MYTH_strict_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_Recall]: p-value = 0.012208626860728086
+
+Medians of MYTH_strict_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_strict_Recall], dtype: float64
+Mean of MYTH_strict_Recall] =Century
+18    0.375000
+19    0.460526
+20    0.170290
+Name: MYTH_strict_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12269045160663394, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.5403732926651914, : Stat, 275.0
+
+Comparación 20 vs 19: p-value = 0.003047702781893433, : Stat, 601.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.463328  0.289401
+19  0.463328  1.000000  0.010232
+20  0.289401  0.010232  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_strict_F1
+
+
+
+Century
+18    2.565732e-05
+19    8.261492e-08
+20    2.043744e-11
+Name: MYTH_strict_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_strict_F1: p-value = 0.011890488657380167
+
+Medians of MYTH_strict_F1 =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_strict_F1, dtype: float64
+Mean of MYTH_strict_F1 =Century
+18    0.375000
+19    0.469298
+20    0.171739
+Name: MYTH_strict_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12269045160663394, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.5404030702695742, : Stat, 275.0
+
+Comparación 20 vs 19: p-value = 0.0029434590492273325, : Stat, 600.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.461109  0.287718
+19  0.461109  1.000000  0.009939
+20  0.287718  0.009939  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_ent_type_Precision_
+
+
+
+Century
+18    2.565732e-05
+19    3.204610e-08
+20    1.772396e-11
+Name: MYTH_ent_type_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_Precision_: p-value = 0.016066925692150395
+
+Medians of MYTH_ent_type_Precision_ =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_ent_type_Precision_, dtype: float64
+Mean of MYTH_ent_type_Precision_ =Century
+18    0.375000
+19    0.486842
+20    0.195652
+Name: MYTH_ent_type_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.1554987960459754, : Stat, 434.0
+
+Comparación 18 vs 19: p-value = 0.4527321491977738, : Stat, 269.0
+
+Comparación 20 vs 19: p-value = 0.004178929507718146, : Stat, 612.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.409553  0.382000
+19  0.409553  1.000000  0.013015
+20  0.382000  0.013015  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_ent_type_Recall]
+
+
+
+Century
+18    2.565732e-05
+19    8.925092e-08
+20    1.997990e-11
+Name: MYTH_ent_type_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_Recall]: p-value = 0.016876205184952045
+
+Medians of MYTH_ent_type_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_ent_type_Recall], dtype: float64
+Mean of MYTH_ent_type_Recall] =Century
+18    0.375000
+19    0.460526
+20    0.184783
+Name: MYTH_ent_type_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.1383738440716105, : Stat, 437.0
+
+Comparación 18 vs 19: p-value = 0.5403732926651914, : Stat, 275.0
+
+Comparación 20 vs 19: p-value = 0.004384098505180507, : Stat, 612.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.471200  0.328613
+19  0.471200  1.000000  0.014368
+20  0.328613  0.014368  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_ent_type_F1
+
+
+
+Century
+18    2.565732e-05
+19    8.261492e-08
+20    2.128607e-11
+Name: MYTH_ent_type_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_ent_type_F1: p-value = 0.017098315870018872
+
+Medians of MYTH_ent_type_F1 =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_ent_type_F1, dtype: float64
+Mean of MYTH_ent_type_F1 =Century
+18    0.375000
+19    0.469298
+20    0.188406
+Name: MYTH_ent_type_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.1383738440716105, : Stat, 437.0
+
+Comparación 18 vs 19: p-value = 0.5404030702695742, : Stat, 275.0
+
+Comparación 20 vs 19: p-value = 0.004461530377267172, : Stat, 612.5
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.472344  0.329582
+19  0.472344  1.000000  0.014577
+20  0.329582  0.014577  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_partial_Precision_
+
+
+
+Century
+18    2.565732e-05
+19    1.556917e-06
+20    4.745904e-08
+Name: MYTH_partial_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_Precision_: p-value = 0.0021594772714247355
+
+Medians of MYTH_partial_Precision_ =Century
+18    0.00
+19    0.75
+20    0.00
+Name: MYTH_partial_Precision_, dtype: float64
+Mean of MYTH_partial_Precision_ =Century
+18    0.375000
+19    0.618421
+20    0.293478
+Name: MYTH_partial_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.6942556379162578, : Stat, 390.0
+
+Comparación 18 vs 19: p-value = 0.07290372085444846, : Stat, 216.0
+
+Comparación 20 vs 19: p-value = 0.00048628304316699115, : Stat, 509.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.091766  0.583812
+19  0.091766  1.000000  0.001748
+20  0.583812  0.001748  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_partial_Recall]
+
+
+
+Century
+18    2.565732e-05
+19    5.410413e-06
+20    3.117053e-08
+Name: MYTH_partial_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_Recall]: p-value = 0.0033018426626703723
+
+Medians of MYTH_partial_Recall] =Century
+18    0.0
+19    0.5
+20    0.0
+Name: MYTH_partial_Recall], dtype: float64
+Mean of MYTH_partial_Recall] =Century
+18    0.375000
+19    0.578947
+20    0.271739
+Name: MYTH_partial_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.6946232437338927, : Stat, 390.0
+
+Comparación 18 vs 19: p-value = 0.09900120479845276, : Stat, 222.0
+
+Comparación 20 vs 19: p-value = 0.0007107439274138788, : Stat, 518.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.116755  0.569776
+19  0.116755  1.000000  0.002644
+20  0.569776  0.002644  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_partial_F1
+
+
+
+Century
+18    2.565732e-05
+19    6.581764e-06
+20    4.572375e-08
+Name: MYTH_partial_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_partial_F1: p-value = 0.0038320918239572563
+
+Medians of MYTH_partial_F1 =Century
+18    0.000000
+19    0.583333
+20    0.000000
+Name: MYTH_partial_F1, dtype: float64
+Mean of MYTH_partial_F1 =Century
+18    0.375000
+19    0.587719
+20    0.279348
+Name: MYTH_partial_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.6947548820906734, : Stat, 390.0
+
+Comparación 18 vs 19: p-value = 0.09935375756781212, : Stat, 222.0
+
+Comparación 20 vs 19: p-value = 0.0008674710439950928, : Stat, 523.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.121860  0.579716
+19  0.121860  1.000000  0.003104
+20  0.579716  0.003104  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_exact_Precision_
+
+
+
+Century
+18    2.565732e-05
+19    1.863861e-08
+20    2.225759e-11
+Name: MYTH_exact_Precision_, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_Precision_: p-value = 0.007569955415702665
+
+Medians of MYTH_exact_Precision_ =Century
+18    0.0
+19    0.5
+20    0.0
+Name: MYTH_exact_Precision_, dtype: float64
+Mean of MYTH_exact_Precision_ =Century
+18    0.375000
+19    0.500000
+20    0.173913
+Name: MYTH_exact_Precision_, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12268196701450021, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.41085433919034386, : Stat, 266.0
+
+Comparación 20 vs 19: p-value = 0.00184561889091007, : Stat, 589.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.371170  0.308915
+19  0.371170  1.000000  0.005784
+20  0.308915  0.005784  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_exact_Recall]
+
+
+
+Century
+18    2.565732e-05
+19    5.406034e-08
+20    1.884069e-11
+Name: MYTH_exact_Recall], dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_Recall]: p-value = 0.010477793580926787
+
+Medians of MYTH_exact_Recall] =Century
+18    0.00
+19    0.25
+20    0.00
+Name: MYTH_exact_Recall], dtype: float64
+Mean of MYTH_exact_Recall] =Century
+18    0.375000
+19    0.473684
+20    0.170290
+Name: MYTH_exact_Recall], dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12269045160663394, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.4959469539343886, : Stat, 272.0
+
+Comparación 20 vs 19: p-value = 0.0025918225328872887, : Stat, 597.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.431470  0.295893
+19  0.431470  1.000000  0.008505
+20  0.295893  0.008505  1.000000 
+
+Prueba de normalidad por grupo=Century para MYTH_exact_F1
+
+
+
+Century
+18    2.565732e-05
+19    4.829323e-08
+20    2.043744e-11
+Name: MYTH_exact_F1, dtype: float64 
+
+Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para MYTH_exact_F1: p-value = 0.01019701534973929
+
+Medians of MYTH_exact_F1 =Century
+18    0.000000
+19    0.333333
+20    0.000000
+Name: MYTH_exact_F1, dtype: float64
+Mean of MYTH_exact_F1 =Century
+18    0.375000
+19    0.482456
+20    0.171739
+Name: MYTH_exact_F1, dtype: float64
+Hay diferencias significativas. Realizando análisis post hoc por pares (Mann-Whitney U)...
+Comparación 18 vs 20: p-value = 0.12269045160663394, : Stat, 440.0
+
+Comparación 18 vs 19: p-value = 0.4959469539343886, : Stat, 272.0
+
+Comparación 20 vs 19: p-value = 0.002500860170529516, : Stat, 596.0
+
+Analisis test de Dunn:           18        19        20
+18  1.000000  0.429327  0.294161
+19  0.429327  1.000000  0.008256
+20  0.294161  0.008256  1.000000 
+

@@ -1,0 +1,254 @@
+Number of BIOME samples are 131
+
+Prueba de normalidad por grupo=prompt para BIOME_strict_Precision_
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_strict_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_Precision_: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_strict_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_strict_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_strict_Recall]
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_strict_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_Recall]: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_strict_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_strict_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_strict_F1
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_strict_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_strict_F1: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_strict_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_strict_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_ent_type_Precision_
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_ent_type_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_Precision_: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_ent_type_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_ent_type_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_ent_type_Recall]
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_ent_type_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_Recall]: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_ent_type_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_ent_type_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_ent_type_F1
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_ent_type_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_ent_type_F1: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_ent_type_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_ent_type_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_partial_Precision_
+prompt
+chain_of_thought       4.251094e-07
+chain_of_thought_FS    1.690857e-07
+few_shot               1.245312e-05
+one_shot               2.779112e-07
+Name: BIOME_partial_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_Precision_: p-value = 0.4010301113616027
+
+Medians=prompt
+chain_of_thought       1.00
+chain_of_thought_FS    0.25
+few_shot               0.50
+one_shot               1.00
+Name: BIOME_partial_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.560606
+chain_of_thought_FS    0.458333
+few_shot               0.425926
+one_shot               0.600000
+Name: BIOME_partial_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_partial_Recall]
+prompt
+chain_of_thought       4.251094e-07
+chain_of_thought_FS    1.690857e-07
+few_shot               1.245312e-05
+one_shot               2.779112e-07
+Name: BIOME_partial_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_Recall]: p-value = 0.4010301113616027
+
+Medians=prompt
+chain_of_thought       1.00
+chain_of_thought_FS    0.25
+few_shot               0.50
+one_shot               1.00
+Name: BIOME_partial_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.560606
+chain_of_thought_FS    0.458333
+few_shot               0.425926
+one_shot               0.600000
+Name: BIOME_partial_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_partial_F1
+prompt
+chain_of_thought       4.251094e-07
+chain_of_thought_FS    1.690857e-07
+few_shot               1.245312e-05
+one_shot               2.779112e-07
+Name: BIOME_partial_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_partial_F1: p-value = 0.4010301113616027
+
+Medians=prompt
+chain_of_thought       1.00
+chain_of_thought_FS    0.25
+few_shot               0.50
+one_shot               1.00
+Name: BIOME_partial_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.560606
+chain_of_thought_FS    0.458333
+few_shot               0.425926
+one_shot               0.600000
+Name: BIOME_partial_F1, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_exact_Precision_
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_exact_Precision_, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_Precision_: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_exact_Precision_, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_exact_Precision_, dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_exact_Recall]
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_exact_Recall], dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_Recall]: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_exact_Recall], dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_exact_Recall], dtype: float64
+Prueba de normalidad por grupo=prompt para BIOME_exact_F1
+prompt
+chain_of_thought       8.364089e-08
+chain_of_thought_FS    2.437242e-08
+few_shot               1.914944e-07
+one_shot               4.187402e-08
+Name: BIOME_exact_F1, dtype: float64Los datos no son normales en todos los grupos. Se recomienda realizar una prueba no paramétrica como Kruskal-Wallis.
+Kruskal-Wallis para BIOME_exact_F1: p-value = 0.33913238984861405
+
+Medians=prompt
+chain_of_thought       1.0
+chain_of_thought_FS    0.0
+few_shot               0.0
+one_shot               1.0
+Name: BIOME_exact_F1, dtype: float64
+Mean=prompt
+chain_of_thought       0.515152
+chain_of_thought_FS    0.416667
+few_shot               0.333333
+one_shot               0.542857
+Name: BIOME_exact_F1, dtype: float64
